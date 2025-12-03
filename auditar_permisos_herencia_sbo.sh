@@ -1,4 +1,5 @@
 #!/bin/bash
+# saca permisos a nivel proyecto y sus ancestros
 
 # --- Configuración ---
 # Lista de IDs de proyecto de GCP a analizar.

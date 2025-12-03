@@ -1,4 +1,5 @@
 #!/bin/bash
+## codigo de JOSE LUIS BERMUDEZ 
 
 # Configuración y variables
 set -euo pipefail  # Exit on error, undefined vars, pipe failures
@@ -44,22 +45,75 @@ check_gcloud_auth() {
         exit 1
     fi
 }
+gcloud config set project daf-dp-management-prod
 
 # Función para obtener grupos
+# Función auxiliar para descargar TODAS las páginas de una búsqueda
+fetch_all_pages() {
+    local label_filter="$1"
+    local next_token=""
+    
+    # Bucle infinito hasta que se acaben las páginas
+    while : ; do
+        # 1. Construir el comando base
+        # Nota: Usamos --page-size=1000 que es el máximo permitido por la API por llamada
+        local cmd=(gcloud identity groups search --organization="$GOOGLE_ORGANIZATION_ID" --labels="$label_filter" --page-size=1000 --format=json)
+        
+        # 2. Si hay token de página siguiente, lo agregamos al comando
+        if [[ -n "$next_token" ]]; then
+            cmd+=(--page-token="$next_token")
+        fi
+
+        # 3. Ejecutar y capturar la respuesta JSON completa
+        local response
+        response=$("${cmd[@]}")
+
+        # 4. Extraer los IDs de grupos de ESTA página y guardarlos
+        # Usamos 'empty' para evitar errores si la página viniera vacía
+        echo "$response" | jq -r '.[].groups[]?.groupKey.id // empty' >> "$RAW_GROUPS"
+
+        # 5. Buscar el token de la siguiente página
+        # El formato de gcloud devuelve una lista de respuestas, tomamos el token de la primera (única) respuesta
+        local new_token
+        new_token=$(echo "$response" | jq -r '.[0].nextPageToken // empty')
+
+        # 6. Decidir si continuamos
+        if [[ -n "$new_token" && "$new_token" != "null" ]]; then
+            next_token="$new_token"
+            log "   ...Pagina completada, descargando siguiente bloque..."
+        else
+            # Si no hay token, terminamos
+            break
+        fi
+    done
+}
+
+# Función principal para obtener grupos
 get_groups() {
-    log "Generando listado de grupos..."
+    log "Generando listado de grupos (Discussion y Security)..."
     
-    if ! gcloud identity groups search \
-        --organization="$GOOGLE_ORGANIZATION_ID" \
-        --labels="cloudidentity.googleapis.com/groups.discussion_forum" \
-        --page-size=10000 \
-        --format=json | jq -r '.[].groups[].groupKey.id' > "$GROUP_FILE"; then
-        log "ERROR: No se pudieron obtener los grupos"
-        exit 1
+    # Definir archivo temporal para acumular resultados crudos
+    # Lo hacemos global para que la función auxiliar lo vea o lo pasamos como variable
+    RAW_GROUPS="$TEMP_DIR/raw_groups_unsorted.txt"
+    : > "$RAW_GROUPS" # Aseguramos que esté vacío al inicio
+
+    # 1. Obtener grupos 'Discussion Forum' paginados
+    log "Consultando grupos Discussion Forum (Iterando páginas)..."
+    fetch_all_pages "cloudidentity.googleapis.com/groups.discussion_forum"
+
+    # 2. Obtener grupos 'Security' paginados
+    log "Consultando grupos Security (Iterando páginas)..."
+    fetch_all_pages "cloudidentity.googleapis.com/groups.security"
+
+    # 3. Procesar: Ordenar y eliminar duplicados
+    if [ -s "$RAW_GROUPS" ]; then
+        sort "$RAW_GROUPS" | uniq > "$GROUP_FILE"
+        local group_count=$(wc -l < "$GROUP_FILE")
+        log "EXITO: Se encontraron $group_count grupos únicos en total (superando el límite de 1000)."
+    else
+        log "ADVERTENCIA: No se encontraron grupos."
+        touch "$GROUP_FILE"
     fi
-    
-    local group_count=$(wc -l < "$GROUP_FILE")
-    log "Se encontraron $group_count grupos"
 }
 
 # Función para obtener miembros de un grupo
@@ -69,7 +123,7 @@ get_group_members() {
     
     if gcloud beta identity groups memberships list \
         --group-email="$group_email" \
-        --limit=5000 \
+        --limit=50000 \
         --format=json > "$temp_file" 2>/dev/null; then
         
         local member_count=$(jq -r '.[].memberKey[]' "$temp_file" 2>/dev/null | wc -l)

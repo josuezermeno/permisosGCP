@@ -1,5 +1,5 @@
 #!/bin/bash
-
+## codigo de JOSE LUIS BERMUDEZ 
 # Configuración y variables
 set -euo pipefail  # Exit on error, undefined vars, pipe failures
 

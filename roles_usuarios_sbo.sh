@@ -2,6 +2,8 @@
 
 #PROJECTS=($(gcloud projects list --format="value(projectId)"))
 
+## ESTE CODIGO SACA LOS ROLES DE CADA PROYECTO a nivel proyecto
+
 declare -a PROJECTS_15=(
 
     "spin-datalake-prd-trusted"

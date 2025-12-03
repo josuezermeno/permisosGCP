@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#ultima versión eficiente
+
+#USAR ESTA VERSIÓN DICIEMBRE 2025
+
+#entrega a nivel dataset, y hereda los permisos de org, folder y proyecto, solo editor, viewer, owner, writer, reader
+
 # --- Configuración ---
 declare -a PROJECTS=(
     

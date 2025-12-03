@@ -1,0 +1,2008 @@
+[2025-12-03 16:51:36] Iniciando proceso de extracción de grupos y miembros...
+[2025-12-03 16:51:36] Generando listado de grupos...
+[2025-12-03 16:51:38] Se encontraron     1000 grupos
+[2025-12-03 16:51:38] Procesando grupo 1/    1000: dl_ext_sunnydata_credit_qa@spin.co
+[2025-12-03 16:51:39] Grupo dl_ext_sunnydata_credit_qa@spin.co:        3 usuarios encontrados
+[2025-12-03 16:51:39] Procesando grupo 2/    1000: dl_ext_sunnydata_credit_dev@spin.co
+[2025-12-03 16:51:40] Grupo dl_ext_sunnydata_credit_dev@spin.co:        3 usuarios encontrados
+[2025-12-03 16:51:40] Procesando grupo 3/    1000: dl_cx_ops_prd@digitalfemsa.com
+[2025-12-03 16:51:42] Grupo dl_cx_ops_prd@digitalfemsa.com:        3 usuarios encontrados
+[2025-12-03 16:51:42] Procesando grupo 4/    1000: spin.flow.test@spin.co
+[2025-12-03 16:51:43] Grupo spin.flow.test@spin.co:        8 usuarios encontrados
+[2025-12-03 16:51:43] Procesando grupo 5/    1000: migracion_fallidos_nov@spin.co
+[2025-12-03 16:51:44] Grupo migracion_fallidos_nov@spin.co:       74 usuarios encontrados
+[2025-12-03 16:51:44] Procesando grupo 6/    1000: digital_sso_gcp_dl_poc_conversational_insights@spin.co
+[2025-12-03 16:51:46] Grupo digital_sso_gcp_dl_poc_conversational_insights@spin.co:        7 usuarios encontrados
+[2025-12-03 16:51:46] Procesando grupo 7/    1000: contacto@spinplus.com
+[2025-12-03 16:51:47] Grupo contacto@spinplus.com:        2 usuarios encontrados
+[2025-12-03 16:51:47] Procesando grupo 8/    1000: ventanassbo@spin.co
+[2025-12-03 16:51:48] Grupo ventanassbo@spin.co:      284 usuarios encontrados
+[2025-12-03 16:51:48] Procesando grupo 9/    1000: all-spinbyoxxo@spin.co
+[2025-12-03 16:51:50] Grupo all-spinbyoxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:51:50] Procesando grupo 10/    1000: usrsabove20klimit@spin.co
+[2025-12-03 16:51:51] Grupo usrsabove20klimit@spin.co:        4 usuarios encontrados
+[2025-12-03 16:51:51] Procesando grupo 11/    1000: test.meetingsgws@spin.co
+[2025-12-03 16:51:52] Grupo test.meetingsgws@spin.co:        2 usuarios encontrados
+[2025-12-03 16:51:52] Procesando grupo 12/    1000: titops.tools@spin.co
+[2025-12-03 16:51:53] Grupo titops.tools@spin.co:        2 usuarios encontrados
+[2025-12-03 16:51:53] Procesando grupo 13/    1000: techleads@spin.co
+[2025-12-03 16:51:55] Grupo techleads@spin.co:       31 usuarios encontrados
+[2025-12-03 16:51:55] Procesando grupo 14/    1000: tech-team@spin.co
+[2025-12-03 16:51:57] Grupo tech-team@spin.co:      555 usuarios encontrados
+[2025-12-03 16:51:57] Procesando grupo 15/    1000: team.titans@spin.co
+[2025-12-03 16:51:58] Grupo team.titans@spin.co:       13 usuarios encontrados
+[2025-12-03 16:51:58] Procesando grupo 16/    1000: sre.transversal@spin.co
+[2025-12-03 16:52:00] Grupo sre.transversal@spin.co:        6 usuarios encontrados
+[2025-12-03 16:52:00] Procesando grupo 17/    1000: team.artemis@spin.co
+[2025-12-03 16:52:01] Grupo team.artemis@spin.co:       10 usuarios encontrados
+[2025-12-03 16:52:01] Procesando grupo 18/    1000: devsecops@spin.co
+[2025-12-03 16:52:02] Grupo devsecops@spin.co:       22 usuarios encontrados
+[2025-12-03 16:52:02] Procesando grupo 19/    1000: soporte.spei.karpay@spin.co
+[2025-12-03 16:52:03] Grupo soporte.spei.karpay@spin.co:        6 usuarios encontrados
+[2025-12-03 16:52:03] Procesando grupo 20/    1000: spin-premia.marketacces@spin.co
+[2025-12-03 16:52:05] Grupo spin-premia.marketacces@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:05] Procesando grupo 21/    1000: singularity_ops_sandbox@spin.co
+[2025-12-03 16:52:06] Grupo singularity_ops_sandbox@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:06] Procesando grupo 22/    1000: soc.notificaciones@spin.co
+[2025-12-03 16:52:07] Grupo soc.notificaciones@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:07] Procesando grupo 23/    1000: singularity_ops_prod@spin.co
+[2025-12-03 16:52:09] Grupo singularity_ops_prod@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:09] Procesando grupo 24/    1000: sec.ops.ti@spin.co
+[2025-12-03 16:52:10] Grupo sec.ops.ti@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:10] Procesando grupo 25/    1000: seguridad.ti@spin.co
+[2025-12-03 16:52:11] Grupo seguridad.ti@spin.co:       20 usuarios encontrados
+[2025-12-03 16:52:11] Procesando grupo 26/    1000: seguridad.coalicion@spin.co
+[2025-12-03 16:52:12] Grupo seguridad.coalicion@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:12] Procesando grupo 27/    1000: redes@spin.co
+[2025-12-03 16:52:13] Grupo redes@spin.co:        1 usuarios encontrados
+[2025-12-03 16:52:13] Procesando grupo 28/    1000: pruebalistagws@spin.co
+[2025-12-03 16:52:15] Grupo pruebalistagws@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:15] Procesando grupo 29/    1000: fintech.producto.b2b@spin.co
+[2025-12-03 16:52:16] Grupo fintech.producto.b2b@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:16] Procesando grupo 30/    1000: producto.b2b@spin.co
+[2025-12-03 16:52:17] Grupo producto.b2b@spin.co:        8 usuarios encontrados
+[2025-12-03 16:52:17] Procesando grupo 31/    1000: operations-qr-qa@spin.co
+[2025-12-03 16:52:18] Grupo operations-qr-qa@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:18] Procesando grupo 32/    1000: operations-qr@spin.co
+[2025-12-03 16:52:20] Grupo operations-qr@spin.co:        9 usuarios encontrados
+[2025-12-03 16:52:20] Procesando grupo 33/    1000: operations-qr-dev@spin.co
+[2025-12-03 16:52:21] Grupo operations-qr-dev@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:21] Procesando grupo 34/    1000: operacionti.spincredit@spin.co
+[2025-12-03 16:52:22] Grupo operacionti.spincredit@spin.co:       19 usuarios encontrados
+[2025-12-03 16:52:22] Procesando grupo 35/    1000: operacionti.spinpremia@spin.co
+[2025-12-03 16:52:23] Grupo operacionti.spinpremia@spin.co:       17 usuarios encontrados
+[2025-12-03 16:52:23] Procesando grupo 36/    1000: operacionti.spinnegocios@spin.co
+[2025-12-03 16:52:24] Grupo operacionti.spinnegocios@spin.co:       15 usuarios encontrados
+[2025-12-03 16:52:24] Procesando grupo 37/    1000: netsecops@spin.co
+[2025-12-03 16:52:25] Grupo netsecops@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:25] Procesando grupo 38/    1000: notificaciones.legales@spinnegocios.com
+[2025-12-03 16:52:27] Grupo notificaciones.legales@spinnegocios.com:        8 usuarios encontrados
+[2025-12-03 16:52:27] Procesando grupo 39/    1000: monitoreo.b2b@spin.co
+[2025-12-03 16:52:28] Grupo monitoreo.b2b@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:28] Procesando grupo 40/    1000: soporteops.mxce@spin.co
+[2025-12-03 16:52:29] Grupo soporteops.mxce@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:29] Procesando grupo 41/    1000: spin-premia.soporte.ops@spin.co
+[2025-12-03 16:52:30] Grupo spin-premia.soporte.ops@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:30] Procesando grupo 42/    1000: lead.sre@spin.co
+[2025-12-03 16:52:31] Grupo lead.sre@spin.co:        9 usuarios encontrados
+[2025-12-03 16:52:31] Procesando grupo 43/    1000: lending-ti@spin.co
+[2025-12-03 16:52:33] Grupo lending-ti@spin.co:       14 usuarios encontrados
+[2025-12-03 16:52:33] Procesando grupo 44/    1000: irt@spin.co
+[2025-12-03 16:52:34] Grupo irt@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:34] Procesando grupo 45/    1000: gravty.apiuser.mx@spin.co
+[2025-12-03 16:52:35] Grupo gravty.apiuser.mx@spin.co:        4 usuarios encontrados
+[2025-12-03 16:52:35] Procesando grupo 46/    1000: functionalteam.b2c@spin.co
+[2025-12-03 16:52:36] Grupo functionalteam.b2c@spin.co:        6 usuarios encontrados
+[2025-12-03 16:52:36] Procesando grupo 47/    1000: edi@spin.co
+[2025-12-03 16:52:37] Grupo edi@spin.co:        9 usuarios encontrados
+[2025-12-03 16:52:37] Procesando grupo 48/    1000: fiserv-spin@spin.co
+[2025-12-03 16:52:38] Grupo fiserv-spin@spin.co:        8 usuarios encontrados
+[2025-12-03 16:52:38] Procesando grupo 49/    1000: dfr.b2c@spin.co
+[2025-12-03 16:52:40] Grupo dfr.b2c@spin.co:       33 usuarios encontrados
+[2025-12-03 16:52:40] Procesando grupo 50/    1000: digitalhouse@spin.co
+[2025-12-03 16:52:41] Grupo digitalhouse@spin.co:       17 usuarios encontrados
+[2025-12-03 16:52:41] Procesando grupo 51/    1000: direct.reportsb2c@spin.co
+[2025-12-03 16:52:42] Grupo direct.reportsb2c@spin.co:        5 usuarios encontrados
+[2025-12-03 16:52:42] Procesando grupo 52/    1000: digital-credential-eng@spin.co
+[2025-12-03 16:52:43] Grupo digital-credential-eng@spin.co:        6 usuarios encontrados
+[2025-12-03 16:52:43] Procesando grupo 53/    1000: devops.coalicion@spin.co
+[2025-12-03 16:52:44] Grupo devops.coalicion@spin.co:        1 usuarios encontrados
+[2025-12-03 16:52:44] Procesando grupo 54/    1000: dev-monitoreo.b2b@spin.co
+[2025-12-03 16:52:46] Grupo dev-monitoreo.b2b@spin.co:        3 usuarios encontrados
+[2025-12-03 16:52:46] Procesando grupo 55/    1000: designteam@spin.co
+[2025-12-03 16:52:47] Grupo designteam@spin.co:       35 usuarios encontrados
+[2025-12-03 16:52:47] Procesando grupo 56/    1000: dbre.transversal@spin.co
+[2025-12-03 16:52:48] Grupo dbre.transversal@spin.co:        9 usuarios encontrados
+[2025-12-03 16:52:48] Procesando grupo 57/    1000: dataops-team@spin.co
+[2025-12-03 16:52:50] Grupo dataops-team@spin.co:        5 usuarios encontrados
+[2025-12-03 16:52:50] Procesando grupo 58/    1000: reportes.checkout@spin.co
+[2025-12-03 16:52:51] Grupo reportes.checkout@spin.co:        6 usuarios encontrados
+[2025-12-03 16:52:51] Procesando grupo 59/    1000: cash-platform-desarrollo@spin.co
+[2025-12-03 16:52:52] Grupo cash-platform-desarrollo@spin.co:        7 usuarios encontrados
+[2025-12-03 16:52:52] Procesando grupo 60/    1000: alldigitalfemsa@spin.co
+[2025-12-03 16:52:54] Grupo alldigitalfemsa@spin.co:      429 usuarios encontrados
+[2025-12-03 16:52:54] Procesando grupo 61/    1000: b2b_cash_platform@spin.co
+[2025-12-03 16:52:55] Grupo b2b_cash_platform@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:55] Procesando grupo 62/    1000: yza@spin.co
+[2025-12-03 16:52:56] Grupo yza@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:57] Procesando grupo 63/    1000: yza-spinpremia@spin.co
+[2025-12-03 16:52:58] Grupo yza-spinpremia@spin.co:        8 usuarios encontrados
+[2025-12-03 16:52:58] Procesando grupo 64/    1000: yadinaguilar@spin.co
+[2025-12-03 16:52:59] Grupo yadinaguilar@spin.co:        2 usuarios encontrados
+[2025-12-03 16:52:59] Procesando grupo 65/    1000: xpertal_spin@spin.co
+[2025-12-03 16:53:00] Grupo xpertal_spin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:00] Procesando grupo 66/    1000: ws5-bizdev@spin.co
+[2025-12-03 16:53:01] Grupo ws5-bizdev@spin.co:       16 usuarios encontrados
+[2025-12-03 16:53:01] Procesando grupo 67/    1000: wow_andatti_drive@spin.co
+[2025-12-03 16:53:03] Grupo wow_andatti_drive@spin.co:        3 usuarios encontrados
+[2025-12-03 16:53:03] Procesando grupo 68/    1000: wowbulktarjetasfsicas@spin.co
+[2025-12-03 16:53:04] Grupo wowbulktarjetasfsicas@spin.co:        5 usuarios encontrados
+[2025-12-03 16:53:04] Procesando grupo 69/    1000: workforcegovernancedh@spin.co
+[2025-12-03 16:53:05] Grupo workforcegovernancedh@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:05] Procesando grupo 70/    1000: wip-omp@spin.co
+[2025-12-03 16:53:06] Grupo wip-omp@spin.co:        7 usuarios encontrados
+[2025-12-03 16:53:06] Procesando grupo 71/    1000: workforce@spin.co
+[2025-12-03 16:53:07] Grupo workforce@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:07] Procesando grupo 72/    1000: winba@spin.co
+[2025-12-03 16:53:09] Grupo winba@spin.co:        3 usuarios encontrados
+[2025-12-03 16:53:09] Procesando grupo 73/    1000: weeklycaffenio@spin.co
+[2025-12-03 16:53:10] Grupo weeklycaffenio@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:10] Procesando grupo 74/    1000: wallpaperspin2025@spin.co
+[2025-12-03 16:53:11] Grupo wallpaperspin2025@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:11] Procesando grupo 75/    1000: vonusspinpro@spin.co
+[2025-12-03 16:53:12] Grupo vonusspinpro@spin.co:        8 usuarios encontrados
+[2025-12-03 16:53:12] Procesando grupo 76/    1000: vonus_alineacion@spin.co
+[2025-12-03 16:53:14] Grupo vonus_alineacion@spin.co:       23 usuarios encontrados
+[2025-12-03 16:53:14] Procesando grupo 77/    1000: vonus@spin.co
+[2025-12-03 16:53:15] Grupo vonus@spin.co:       10 usuarios encontrados
+[2025-12-03 16:53:15] Procesando grupo 78/    1000: volaris@spin.co
+[2025-12-03 16:53:16] Grupo volaris@spin.co:       34 usuarios encontrados
+[2025-12-03 16:53:16] Procesando grupo 79/    1000: vmodocumentos@spin.co
+[2025-12-03 16:53:17] Grupo vmodocumentos@spin.co:        4 usuarios encontrados
+[2025-12-03 16:53:17] Procesando grupo 80/    1000: vix@spin.co
+[2025-12-03 16:53:19] Grupo vix@spin.co:        8 usuarios encontrados
+[2025-12-03 16:53:19] Procesando grupo 81/    1000: vixcompartido@spin.co
+[2025-12-03 16:53:20] Grupo vixcompartido@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:20] Procesando grupo 82/    1000: videoscapacitacingravty2022@spin.co
+[2025-12-03 16:53:21] Grupo videoscapacitacingravty2022@spin.co:        5 usuarios encontrados
+[2025-12-03 16:53:21] Procesando grupo 83/    1000: videos@spin.co
+[2025-12-03 16:53:22] Grupo videos@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:22] Procesando grupo 84/    1000: ventastienditasyfonditas@spin.co
+[2025-12-03 16:53:23] Grupo ventastienditasyfonditas@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:23] Procesando grupo 85/    1000: uxresearch@spin.co
+[2025-12-03 16:53:25] Grupo uxresearch@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:25] Procesando grupo 86/    1000: uxresearchspin@spin.co
+[2025-12-03 16:53:26] Grupo uxresearchspin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:26] Procesando grupo 87/    1000: valuestreamsdnd@spin.co
+[2025-12-03 16:53:27] Grupo valuestreamsdnd@spin.co:        4 usuarios encontrados
+[2025-12-03 16:53:27] Procesando grupo 88/    1000: usrsabobe20klimit@spin.co
+[2025-12-03 16:53:28] Grupo usrsabobe20klimit@spin.co:        4 usuarios encontrados
+[2025-12-03 16:53:28] Procesando grupo 89/    1000: transversal-multicloudhub@spin.co
+[2025-12-03 16:53:29] Grupo transversal-multicloudhub@spin.co:        7 usuarios encontrados
+[2025-12-03 16:53:29] Procesando grupo 90/    1000: transversal@spin.co
+[2025-12-03 16:53:30] Grupo transversal@spin.co:       16 usuarios encontrados
+[2025-12-03 16:53:31] Procesando grupo 91/    1000: transferenciadeteccin@spin.co
+[2025-12-03 16:53:32] Grupo transferenciadeteccin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:32] Procesando grupo 92/    1000: e-commerce@spin.co
+[2025-12-03 16:53:33] Grupo e-commerce@spin.co:       20 usuarios encontrados
+[2025-12-03 16:53:33] Procesando grupo 93/    1000: tracker@spin.co
+[2025-12-03 16:53:34] Grupo tracker@spin.co: Vacío
+[2025-12-03 16:53:34] Procesando grupo 94/    1000: trademkt@spin.co
+[2025-12-03 16:53:35] Grupo trademkt@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:35] Procesando grupo 95/    1000: trackersabasto@spin.co
+[2025-12-03 16:53:36] Grupo trackersabasto@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:36] Procesando grupo 96/    1000: toolkitspinnegocios@spin.co
+[2025-12-03 16:53:38] Grupo toolkitspinnegocios@spin.co:        5 usuarios encontrados
+[2025-12-03 16:53:38] Procesando grupo 97/    1000: tmp-workstream-smog@spin.co
+[2025-12-03 16:53:39] Grupo tmp-workstream-smog@spin.co:        5 usuarios encontrados
+[2025-12-03 16:53:39] Procesando grupo 98/    1000: tit-prueba@spin.co
+[2025-12-03 16:53:40] Grupo tit-prueba@spin.co:        2 usuarios encontrados
+[2025-12-03 16:53:40] Procesando grupo 99/    1000: titransversal@spin.co
+[2025-12-03 16:53:41] Grupo titransversal@spin.co:        3 usuarios encontrados
+[2025-12-03 16:53:41] Procesando grupo 100/    1000: testsite1@spin.co
+[2025-12-03 16:53:43] Grupo testsite1@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:43] Procesando grupo 101/    1000: tets@spin.co
+[2025-12-03 16:53:44] Grupo tets@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:44] Procesando grupo 102/    1000: testgrupopersonal@spin.co
+[2025-12-03 16:53:45] Grupo testgrupopersonal@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:45] Procesando grupo 103/    1000: test2@spin.co
+[2025-12-03 16:53:46] Grupo test2@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:46] Procesando grupo 104/    1000: testautomatizedtasks@spin.co
+[2025-12-03 16:53:48] Grupo testautomatizedtasks@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:48] Procesando grupo 105/    1000: test_oegg@spin.co
+[2025-12-03 16:53:49] Grupo test_oegg@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:49] Procesando grupo 106/    1000: test1@spin.co
+[2025-12-03 16:53:50] Grupo test1@spin.co:        2 usuarios encontrados
+[2025-12-03 16:53:50] Procesando grupo 107/    1000: testwendy@spin.co
+[2025-12-03 16:53:51] Grupo testwendy@spin.co:        2 usuarios encontrados
+[2025-12-03 16:53:51] Procesando grupo 108/    1000: testautomationtest@spin.co
+[2025-12-03 16:53:52] Grupo testautomationtest@spin.co:        2 usuarios encontrados
+[2025-12-03 16:53:52] Procesando grupo 109/    1000: test347@spin.co
+[2025-12-03 16:53:54] Grupo test347@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:54] Procesando grupo 110/    1000: test-wee@spin.co
+[2025-12-03 16:53:55] Grupo test-wee@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:55] Procesando grupo 111/    1000: test392@spin.co
+[2025-12-03 16:53:56] Grupo test392@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:56] Procesando grupo 112/    1000: test943@spin.co
+[2025-12-03 16:53:57] Grupo test943@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:57] Procesando grupo 113/    1000: test684@spin.co
+[2025-12-03 16:53:59] Grupo test684@spin.co:        1 usuarios encontrados
+[2025-12-03 16:53:59] Procesando grupo 114/    1000: test390@spin.co
+[2025-12-03 16:54:00] Grupo test390@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:00] Procesando grupo 115/    1000: test834@spin.co
+[2025-12-03 16:54:01] Grupo test834@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:01] Procesando grupo 116/    1000: test365@spin.co
+[2025-12-03 16:54:02] Grupo test365@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:03] Procesando grupo 117/    1000: test816@spin.co
+[2025-12-03 16:54:04] Grupo test816@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:04] Procesando grupo 118/    1000: technicalarchitecture@spin.co
+[2025-12-03 16:54:05] Grupo technicalarchitecture@spin.co:        6 usuarios encontrados
+[2025-12-03 16:54:05] Procesando grupo 119/    1000: tenderos@spin.co
+[2025-12-03 16:54:06] Grupo tenderos@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:06] Procesando grupo 120/    1000: techoxxoanddf@spin.co
+[2025-12-03 16:54:07] Grupo techoxxoanddf@spin.co:        5 usuarios encontrados
+[2025-12-03 16:54:07] Procesando grupo 121/    1000: tenderosdisenoproducto@spin.co
+[2025-12-03 16:54:09] Grupo tenderosdisenoproducto@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:09] Procesando grupo 122/    1000: teamviewersetup@spin.co
+[2025-12-03 16:54:10] Grupo teamviewersetup@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:10] Procesando grupo 123/    1000: teamplanning@spin.co
+[2025-12-03 16:54:11] Grupo teamplanning@spin.co:        5 usuarios encontrados
+[2025-12-03 16:54:11] Procesando grupo 124/    1000: teamgrowthoxxo@spin.co
+[2025-12-03 16:54:12] Grupo teamgrowthoxxo@spin.co:        6 usuarios encontrados
+[2025-12-03 16:54:12] Procesando grupo 125/    1000: teamhrconveniencemarketaccesscorporatedevelopment@spin.co
+[2025-12-03 16:54:13] Grupo teamhrconveniencemarketaccesscorporatedevelopment@spin.co:        4 usuarios encontrados
+[2025-12-03 16:54:13] Procesando grupo 126/    1000: team-planning-people-and-tech@spin.co
+[2025-12-03 16:54:15] Grupo team-planning-people-and-tech@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:15] Procesando grupo 127/    1000: targetsegment@spin.co
+[2025-12-03 16:54:16] Grupo targetsegment@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:16] Procesando grupo 128/    1000: talentdevelopmentperformance@spin.co
+[2025-12-03 16:54:17] Grupo talentdevelopmentperformance@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:17] Procesando grupo 129/    1000: talentreviewb2b@spin.co
+[2025-12-03 16:54:18] Grupo talentreviewb2b@spin.co:        4 usuarios encontrados
+[2025-12-03 16:54:18] Procesando grupo 130/    1000: talentodigital@spin.co
+[2025-12-03 16:54:19] Grupo talentodigital@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:19] Procesando grupo 131/    1000: tareassemanales@spin.co
+[2025-12-03 16:54:21] Grupo tareassemanales@spin.co: Vacío
+[2025-12-03 16:54:21] Procesando grupo 132/    1000: talentacquisitionteam@spin.co
+[2025-12-03 16:54:22] Grupo talentacquisitionteam@spin.co:        9 usuarios encontrados
+[2025-12-03 16:54:22] Procesando grupo 133/    1000: tplantransversal@spin.co
+[2025-12-03 16:54:23] Grupo tplantransversal@spin.co:        4 usuarios encontrados
+[2025-12-03 16:54:23] Procesando grupo 134/    1000: taewa@spin.co
+[2025-12-03 16:54:24] Grupo taewa@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:24] Procesando grupo 135/    1000: apollo-tagging@spin.co
+[2025-12-03 16:54:25] Grupo apollo-tagging@spin.co:       11 usuarios encontrados
+[2025-12-03 16:54:25] Procesando grupo 136/    1000: tplannetworks@spin.co
+[2025-12-03 16:54:26] Grupo tplannetworks@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:26] Procesando grupo 137/    1000: tplaninstitutional@spin.co
+[2025-12-03 16:54:28] Grupo tplaninstitutional@spin.co:        4 usuarios encontrados
+[2025-12-03 16:54:28] Procesando grupo 138/    1000: sygnia@spin.co
+[2025-12-03 16:54:29] Grupo sygnia@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:29] Procesando grupo 139/    1000: susanacarrillo@spin.co
+[2025-12-03 16:54:30] Grupo susanacarrillo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:30] Procesando grupo 140/    1000: ciamgovernanceownership@spin.co
+[2025-12-03 16:54:31] Grupo ciamgovernanceownership@spin.co:       48 usuarios encontrados
+[2025-12-03 16:54:31] Procesando grupo 141/    1000: superapptenderos@spin.co
+[2025-12-03 16:54:32] Grupo superapptenderos@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:33] Procesando grupo 142/    1000: summitirt@spin.co
+[2025-12-03 16:54:34] Grupo summitirt@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:34] Procesando grupo 143/    1000: successfactorsonoffboarding@spin.co
+[2025-12-03 16:54:35] Grupo successfactorsonoffboarding@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:35] Procesando grupo 144/    1000: strategyplanningminiteam@spin.co
+[2025-12-03 16:54:36] Grupo strategyplanningminiteam@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:36] Procesando grupo 145/    1000: strategyplanning@spin.co
+[2025-12-03 16:54:37] Grupo strategyplanning@spin.co:        4 usuarios encontrados
+[2025-12-03 16:54:37] Procesando grupo 146/    1000: strategycorporatedevelopment@spin.co
+[2025-12-03 16:54:38] Grupo strategycorporatedevelopment@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:38] Procesando grupo 147/    1000: spinpro-productservicedesign@spin.co
+[2025-12-03 16:54:40] Grupo spinpro-productservicedesign@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:40] Procesando grupo 148/    1000: statusvacantes@spin.co
+[2025-12-03 16:54:41] Grupo statusvacantes@spin.co: Vacío
+[2025-12-03 16:54:41] Procesando grupo 149/    1000: star-techdata-jdsrepo2025@spin.co
+[2025-12-03 16:54:42] Grupo star-techdata-jdsrepo2025@spin.co:        8 usuarios encontrados
+[2025-12-03 16:54:42] Procesando grupo 150/    1000: star@spin.co
+[2025-12-03 16:54:43] Grupo star@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:43] Procesando grupo 151/    1000: staffnewventures@spin.co
+[2025-12-03 16:54:45] Grupo staffnewventures@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:45] Procesando grupo 152/    1000: ssffmobileapp@spin.co
+[2025-12-03 16:54:46] Grupo ssffmobileapp@spin.co:        2 usuarios encontrados
+[2025-12-03 16:54:46] Procesando grupo 153/    1000: ssffself-serviceturnon@spin.co
+[2025-12-03 16:54:47] Grupo ssffself-serviceturnon@spin.co:        3 usuarios encontrados
+[2025-12-03 16:54:47] Procesando grupo 154/    1000: ssffassessment@spin.co
+[2025-12-03 16:54:48] Grupo ssffassessment@spin.co:        2 usuarios encontrados
+[2025-12-03 16:54:48] Procesando grupo 155/    1000: ssff-lending@spin.co
+[2025-12-03 16:54:50] Grupo ssff-lending@spin.co:       25 usuarios encontrados
+[2025-12-03 16:54:50] Procesando grupo 156/    1000: sretransversal@spin.co
+[2025-12-03 16:54:51] Grupo sretransversal@spin.co:       13 usuarios encontrados
+[2025-12-03 16:54:51] Procesando grupo 157/    1000: squaddatamafia@spin.co
+[2025-12-03 16:54:52] Grupo squaddatamafia@spin.co:        2 usuarios encontrados
+[2025-12-03 16:54:52] Procesando grupo 158/    1000: spnnotifications@spin.co
+[2025-12-03 16:54:54] Grupo spnnotifications@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:54] Procesando grupo 159/    1000: spnfondas@spin.co
+[2025-12-03 16:54:55] Grupo spnfondas@spin.co:        2 usuarios encontrados
+[2025-12-03 16:54:55] Procesando grupo 160/    1000: spinpro-ops@spin.co
+[2025-12-03 16:54:56] Grupo spinpro-ops@spin.co:        7 usuarios encontrados
+[2025-12-03 16:54:56] Procesando grupo 161/    1000: spinpremia-oxg@spin.co
+[2025-12-03 16:54:57] Grupo spinpremia-oxg@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:57] Procesando grupo 162/    1000: spinpremia-oxgpf@spin.co
+[2025-12-03 16:54:58] Grupo spinpremia-oxgpf@spin.co:        1 usuarios encontrados
+[2025-12-03 16:54:58] Procesando grupo 163/    1000: spinfood-producto-app@spin.co
+[2025-12-03 16:55:00] Grupo spinfood-producto-app@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:00] Procesando grupo 164/    1000: spinfood-desarrollo@spin.co
+[2025-12-03 16:55:01] Grupo spinfood-desarrollo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:01] Procesando grupo 165/    1000: food@spin.co
+[2025-12-03 16:55:02] Grupo food@spin.co:       18 usuarios encontrados
+[2025-12-03 16:55:02] Procesando grupo 166/    1000: spinbyoxxocdpblueconic@spin.co
+[2025-12-03 16:55:03] Grupo spinbyoxxocdpblueconic@spin.co:       10 usuarios encontrados
+[2025-12-03 16:55:03] Procesando grupo 167/    1000: spinspei@spin.co
+[2025-12-03 16:55:04] Grupo spinspei@spin.co:        8 usuarios encontrados
+[2025-12-03 16:55:04] Procesando grupo 168/    1000: spinpro@spin.co
+[2025-12-03 16:55:06] Grupo spinpro@spin.co:        8 usuarios encontrados
+[2025-12-03 16:55:06] Procesando grupo 169/    1000: tenderospod1@spin.co
+[2025-12-03 16:55:07] Grupo tenderospod1@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:07] Procesando grupo 170/    1000: spinpremiatiendas@spin.co
+[2025-12-03 16:55:08] Grupo spinpremiatiendas@spin.co: Vacío
+[2025-12-03 16:55:08] Procesando grupo 171/    1000: spinpremiatiendasdev@spin.co
+[2025-12-03 16:55:09] Grupo spinpremiatiendasdev@spin.co:       21 usuarios encontrados
+[2025-12-03 16:55:09] Procesando grupo 172/    1000: spinpremianegociosdev@spin.co
+[2025-12-03 16:55:10] Grupo spinpremianegociosdev@spin.co:        8 usuarios encontrados
+[2025-12-03 16:55:10] Procesando grupo 173/    1000: spinpremiarespaldo@spin.co
+[2025-12-03 16:55:12] Grupo spinpremiarespaldo@spin.co:        7 usuarios encontrados
+[2025-12-03 16:55:12] Procesando grupo 174/    1000: spinpremianegocios-market-access@spin.co
+[2025-12-03 16:55:13] Grupo spinpremianegocios-market-access@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:13] Procesando grupo 175/    1000: ecosistemab2c@spin.co
+[2025-12-03 16:55:14] Grupo ecosistemab2c@spin.co:       11 usuarios encontrados
+[2025-12-03 16:55:14] Procesando grupo 176/    1000: spinpremia-seguimientoeventos@spin.co
+[2025-12-03 16:55:15] Grupo spinpremia-seguimientoeventos@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:15] Procesando grupo 177/    1000: spinplus@spin.co
+[2025-12-03 16:55:16] Grupo spinplus@spin.co:        6 usuarios encontrados
+[2025-12-03 16:55:16] Procesando grupo 178/    1000: spinplusanalytics@spin.co
+[2025-12-03 16:55:18] Grupo spinplusanalytics@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:18] Procesando grupo 179/    1000: spinplus459@spin.co
+[2025-12-03 16:55:19] Grupo spinplus459@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:19] Procesando grupo 180/    1000: spinnegociosmkt-planning@spin.co
+[2025-12-03 16:55:20] Grupo spinnegociosmkt-planning@spin.co:        6 usuarios encontrados
+[2025-12-03 16:55:20] Procesando grupo 181/    1000: spin_negocios_backend@spin.co
+[2025-12-03 16:55:21] Grupo spin_negocios_backend@spin.co:       14 usuarios encontrados
+[2025-12-03 16:55:21] Procesando grupo 182/    1000: spinnegocios.planeaciondeproducto@spin.co
+[2025-12-03 16:55:22] Grupo spinnegocios.planeaciondeproducto@spin.co:       12 usuarios encontrados
+[2025-12-03 16:55:22] Procesando grupo 183/    1000: spinnegocios@spin.co
+[2025-12-03 16:55:24] Grupo spinnegocios@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:24] Procesando grupo 184/    1000: spinpremianegocios-agencias@spin.co
+[2025-12-03 16:55:25] Grupo spinpremianegocios-agencias@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:25] Procesando grupo 185/    1000: spinpremianegocios@spin.co
+[2025-12-03 16:55:26] Grupo spinpremianegocios@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:26] Procesando grupo 186/    1000: spinfood@spin.co
+[2025-12-03 16:55:27] Grupo spinfood@spin.co:       14 usuarios encontrados
+[2025-12-03 16:55:27] Procesando grupo 187/    1000: spindataevolution@spin.co
+[2025-12-03 16:55:29] Grupo spindataevolution@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:29] Procesando grupo 188/    1000: spincentralfinance@spin.co
+[2025-12-03 16:55:30] Grupo spincentralfinance@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:30] Procesando grupo 189/    1000: spinbyoxxonew@spin.co
+[2025-12-03 16:55:31] Grupo spinbyoxxonew@spin.co:        3 usuarios encontrados
+[2025-12-03 16:55:31] Procesando grupo 190/    1000: spinbyoxxo@spin.co
+[2025-12-03 16:55:33] Grupo spinbyoxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:33] Procesando grupo 191/    1000: spin@spin.co
+[2025-12-03 16:55:34] Grupo spin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:34] Procesando grupo 192/    1000: spin-abbex@spin.co
+[2025-12-03 16:55:35] Grupo spin-abbex@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:35] Procesando grupo 193/    1000: spin-teleperformance@spin.co
+[2025-12-03 16:55:36] Grupo spin-teleperformance@spin.co:       23 usuarios encontrados
+[2025-12-03 16:55:36] Procesando grupo 194/    1000: spinpremia@spin.co
+[2025-12-03 16:55:37] Grupo spinpremia@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:37] Procesando grupo 195/    1000: spin-winclap@spin.co
+[2025-12-03 16:55:39] Grupo spin-winclap@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:39] Procesando grupo 196/    1000: ecosistemabranding@spin.co
+[2025-12-03 16:55:40] Grupo ecosistemabranding@spin.co:        5 usuarios encontrados
+[2025-12-03 16:55:40] Procesando grupo 197/    1000: sharepointjmr@spin.co
+[2025-12-03 16:55:41] Grupo sharepointjmr@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:41] Procesando grupo 198/    1000: spei-pruebasdedesempeodraft@spin.co
+[2025-12-03 16:55:42] Grupo spei-pruebasdedesempeodraft@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:42] Procesando grupo 199/    1000: somosdigitalpordireccin1@spin.co
+[2025-12-03 16:55:44] Grupo somosdigitalpordireccin1@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:44] Procesando grupo 200/    1000: serviciosespecializados@spin.co
+[2025-12-03 16:55:45] Grupo serviciosespecializados@spin.co:        9 usuarios encontrados
+[2025-12-03 16:55:45] Procesando grupo 201/    1000: serviciosbxb@spin.co
+[2025-12-03 16:55:46] Grupo serviciosbxb@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:46] Procesando grupo 202/    1000: servicenow-tickettrackingtoolexploration@spin.co
+[2025-12-03 16:55:47] Grupo servicenow-tickettrackingtoolexploration@spin.co:        2 usuarios encontrados
+[2025-12-03 16:55:47] Procesando grupo 203/    1000: semanamtyspinpremiaideo@spin.co
+[2025-12-03 16:55:48] Grupo semanamtyspinpremiaideo@spin.co:       11 usuarios encontrados
+[2025-12-03 16:55:48] Procesando grupo 204/    1000: seguridadspin@spin.co
+[2025-12-03 16:55:50] Grupo seguridadspin@spin.co: Vacío
+[2025-12-03 16:55:50] Procesando grupo 205/    1000: seguridadofensiva@spin.co
+[2025-12-03 16:55:51] Grupo seguridadofensiva@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:51] Procesando grupo 206/    1000: seguridad.ctso@spin.co
+[2025-12-03 16:55:52] Grupo seguridad.ctso@spin.co:       10 usuarios encontrados
+[2025-12-03 16:55:52] Procesando grupo 207/    1000: seguimientonuevosistemadegastosdeviaje-conexiones@spin.co
+[2025-12-03 16:55:53] Grupo seguimientonuevosistemadegastosdeviaje-conexiones@spin.co:        3 usuarios encontrados
+[2025-12-03 16:55:53] Procesando grupo 208/    1000: seguimientopendientes@spin.co
+[2025-12-03 16:55:55] Grupo seguimientopendientes@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:55] Procesando grupo 209/    1000: seguridadtransversal@spin.co
+[2025-12-03 16:55:56] Grupo seguridadtransversal@spin.co:       17 usuarios encontrados
+[2025-12-03 16:55:56] Procesando grupo 210/    1000: seguimientojuntas@spin.co
+[2025-12-03 16:55:57] Grupo seguimientojuntas@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:57] Procesando grupo 211/    1000: seguimiento@spin.co
+[2025-12-03 16:55:58] Grupo seguimiento@spin.co:        1 usuarios encontrados
+[2025-12-03 16:55:58] Procesando grupo 212/    1000: seguimientodeactividades@spin.co
+[2025-12-03 16:55:59] Grupo seguimientodeactividades@spin.co:        4 usuarios encontrados
+[2025-12-03 16:55:59] Procesando grupo 213/    1000: servicedata@spin.co
+[2025-12-03 16:56:00] Grupo servicedata@spin.co:       16 usuarios encontrados
+[2025-12-03 16:56:00] Procesando grupo 214/    1000: securitychampion@spin.co
+[2025-12-03 16:56:02] Grupo securitychampion@spin.co:       50 usuarios encontrados
+[2025-12-03 16:56:02] Procesando grupo 215/    1000: scanwinsegmentos@spin.co
+[2025-12-03 16:56:04] Grupo scanwinsegmentos@spin.co:        8 usuarios encontrados
+[2025-12-03 16:56:04] Procesando grupo 216/    1000: salesforcemvp@spin.co
+[2025-12-03 16:56:05] Grupo salesforcemvp@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:05] Procesando grupo 217/    1000: scanwin@spin.co
+[2025-12-03 16:56:06] Grupo scanwin@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:06] Procesando grupo 218/    1000: sdd@spin.co
+[2025-12-03 16:56:08] Grupo sdd@spin.co:        4 usuarios encontrados
+[2025-12-03 16:56:08] Procesando grupo 219/    1000: salas_juntas@spin.co
+[2025-12-03 16:56:09] Grupo salas_juntas@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:09] Procesando grupo 220/    1000: roadmap_netpay_mvp@spin.co
+[2025-12-03 16:56:10] Grupo roadmap_netpay_mvp@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:10] Procesando grupo 221/    1000: robert-b2b@spin.co
+[2025-12-03 16:56:11] Grupo robert-b2b@spin.co:        6 usuarios encontrados
+[2025-12-03 16:56:11] Procesando grupo 222/    1000: rrss@spin.co
+[2025-12-03 16:56:13] Grupo rrss@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:13] Procesando grupo 223/    1000: rh-ti@spin.co
+[2025-12-03 16:56:14] Grupo rh-ti@spin.co:        9 usuarios encontrados
+[2025-12-03 16:56:14] Procesando grupo 224/    1000: rh@spin.co
+[2025-12-03 16:56:15] Grupo rh@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:15] Procesando grupo 225/    1000: retailmedia@spin.co
+[2025-12-03 16:56:16] Grupo retailmedia@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:16] Procesando grupo 226/    1000: rewards@spin.co
+[2025-12-03 16:56:17] Grupo rewards@spin.co:        6 usuarios encontrados
+[2025-12-03 16:56:18] Procesando grupo 227/    1000: retention@spin.co
+[2025-12-03 16:56:19] Grupo retention@spin.co:       21 usuarios encontrados
+[2025-12-03 16:56:19] Procesando grupo 228/    1000: retailmedia508@spin.co
+[2025-12-03 16:56:20] Grupo retailmedia508@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:20] Procesando grupo 229/    1000: retail@spin.co
+[2025-12-03 16:56:21] Grupo retail@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:21] Procesando grupo 230/    1000: resultadosnps@spin.co
+[2025-12-03 16:56:23] Grupo resultadosnps@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:23] Procesando grupo 231/    1000: responsivascelulares2025@spin.co
+[2025-12-03 16:56:24] Grupo responsivascelulares2025@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:24] Procesando grupo 232/    1000: respuestaaincidentesdigitalfemsa@spin.co
+[2025-12-03 16:56:25] Grupo respuestaaincidentesdigitalfemsa@spin.co:       19 usuarios encontrados
+[2025-12-03 16:56:25] Procesando grupo 233/    1000: respaldospinpremia@spin.co
+[2025-12-03 16:56:26] Grupo respaldospinpremia@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:26] Procesando grupo 234/    1000: respaldobabi@spin.co
+[2025-12-03 16:56:27] Grupo respaldobabi@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:27] Procesando grupo 235/    1000: requerimientodeinformacionbcg@spin.co
+[2025-12-03 16:56:29] Grupo requerimientodeinformacionbcg@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:29] Procesando grupo 236/    1000: researchgeneral@spin.co
+[2025-12-03 16:56:30] Grupo researchgeneral@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:30] Procesando grupo 237/    1000: requerimientosdedata@spin.co
+[2025-12-03 16:56:31] Grupo requerimientosdedata@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:31] Procesando grupo 238/    1000: repositoriooperativospinpremia@spin.co
+[2025-12-03 16:56:33] Grupo repositoriooperativospinpremia@spin.co:        4 usuarios encontrados
+[2025-12-03 16:56:33] Procesando grupo 239/    1000: repositorio2025spinbyoxxo@spin.co
+[2025-12-03 16:56:34] Grupo repositorio2025spinbyoxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:34] Procesando grupo 240/    1000: reportingtool@spin.co
+[2025-12-03 16:56:35] Grupo reportingtool@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:35] Procesando grupo 241/    1000: repositorio-entregablescampaasbranding@spin.co
+[2025-12-03 16:56:36] Grupo repositorio-entregablescampaasbranding@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:36] Procesando grupo 242/    1000: reportestarjetasconcialiacin@spin.co
+[2025-12-03 16:56:38] Grupo reportestarjetasconcialiacin@spin.co:        3 usuarios encontrados
+[2025-12-03 16:56:38] Procesando grupo 243/    1000: reportes@spin.co
+[2025-12-03 16:56:39] Grupo reportes@spin.co:       10 usuarios encontrados
+[2025-12-03 16:56:39] Procesando grupo 244/    1000: reportescallcenter@spin.co
+[2025-12-03 16:56:40] Grupo reportescallcenter@spin.co:        5 usuarios encontrados
+[2025-12-03 16:56:40] Procesando grupo 245/    1000: renegociaciones@spin.co
+[2025-12-03 16:56:41] Grupo renegociaciones@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:41] Procesando grupo 246/    1000: reportederesultados@spin.co
+[2025-12-03 16:56:43] Grupo reportederesultados@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:43] Procesando grupo 247/    1000: releases@spin.co
+[2025-12-03 16:56:44] Grupo releases@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:44] Procesando grupo 248/    1000: releasesspin@spin.co
+[2025-12-03 16:56:45] Grupo releasesspin@spin.co: Vacío
+[2025-12-03 16:56:45] Procesando grupo 249/    1000: regulacinspin-sep@spin.co
+[2025-12-03 16:56:46] Grupo regulacinspin-sep@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:46] Procesando grupo 250/    1000: regresiones-card-experience@spin.co
+[2025-12-03 16:56:47] Grupo regresiones-card-experience@spin.co:        8 usuarios encontrados
+[2025-12-03 16:56:47] Procesando grupo 251/    1000: ranger_ad@spin.co
+[2025-12-03 16:56:49] Grupo ranger_ad@spin.co:        6 usuarios encontrados
+[2025-12-03 16:56:49] Procesando grupo 252/    1000: qa_auto_gravty@spin.co
+[2025-12-03 16:56:50] Grupo qa_auto_gravty@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:50] Procesando grupo 253/    1000: qq@spin.co
+[2025-12-03 16:56:51] Grupo qq@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:51] Procesando grupo 254/    1000: qataskspace@spin.co
+[2025-12-03 16:56:53] Grupo qataskspace@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:53] Procesando grupo 255/    1000: qadigital@spin.co
+[2025-12-03 16:56:54] Grupo qadigital@spin.co:       23 usuarios encontrados
+[2025-12-03 16:56:54] Procesando grupo 256/    1000: qaleadsworkshop@spin.co
+[2025-12-03 16:56:55] Grupo qaleadsworkshop@spin.co:        2 usuarios encontrados
+[2025-12-03 16:56:55] Procesando grupo 257/    1000: q4@spin.co
+[2025-12-03 16:56:56] Grupo q4@spin.co: Vacío
+[2025-12-03 16:56:56] Procesando grupo 258/    1000: q1plan@spin.co
+[2025-12-03 16:56:57] Grupo q1plan@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:57] Procesando grupo 259/    1000: q1q22024@spin.co
+[2025-12-03 16:56:58] Grupo q1q22024@spin.co:        1 usuarios encontrados
+[2025-12-03 16:56:58] Procesando grupo 260/    1000: q1-2024@spin.co
+[2025-12-03 16:57:00] Grupo q1-2024@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:00] Procesando grupo 261/    1000: ptu2024@spin.co
+[2025-12-03 16:57:01] Grupo ptu2024@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:01] Procesando grupo 262/    1000: pruebasparaexternos@spin.co
+[2025-12-03 16:57:03] Grupo pruebasparaexternos@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:03] Procesando grupo 263/    1000: pruebas-digital-spin@spin.co
+[2025-12-03 16:57:04] Grupo pruebas-digital-spin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:04] Procesando grupo 264/    1000: kiofs5@spin.co
+[2025-12-03 16:57:05] Grupo kiofs5@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:05] Procesando grupo 265/    1000: pruebas@spin.co
+[2025-12-03 16:57:06] Grupo pruebas@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:06] Procesando grupo 266/    1000: prueba2023@spin.co
+[2025-12-03 16:57:07] Grupo prueba2023@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:07] Procesando grupo 267/    1000: pruebaversion2@spin.co
+[2025-12-03 16:57:08] Grupo pruebaversion2@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:09] Procesando grupo 268/    1000: pruebarm@spin.co
+[2025-12-03 16:57:10] Grupo pruebarm@spin.co: Vacío
+[2025-12-03 16:57:10] Procesando grupo 269/    1000: pruebapc@spin.co
+[2025-12-03 16:57:11] Grupo pruebapc@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:11] Procesando grupo 270/    1000: pruebafs@spin.co
+[2025-12-03 16:57:13] Grupo pruebafs@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:13] Procesando grupo 271/    1000: pruebadigital@spin.co
+[2025-12-03 16:57:14] Grupo pruebadigital@spin.co:        3 usuarios encontrados
+[2025-12-03 16:57:14] Procesando grupo 272/    1000: pruebadekanbanparaportafoliob2b@spin.co
+[2025-12-03 16:57:16] Grupo pruebadekanbanparaportafoliob2b@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:16] Procesando grupo 273/    1000: prueba5@spin.co
+[2025-12-03 16:57:17] Grupo prueba5@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:17] Procesando grupo 274/    1000: prueba-df@spin.co
+[2025-12-03 16:57:18] Grupo prueba-df@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:18] Procesando grupo 275/    1000: prueba-digital@spin.co
+[2025-12-03 16:57:19] Grupo prueba-digital@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:19] Procesando grupo 276/    1000: prueba2@spin.co
+[2025-12-03 16:57:20] Grupo prueba2@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:20] Procesando grupo 277/    1000: adriana@spin.co
+[2025-12-03 16:57:21] Grupo adriana@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:21] Procesando grupo 278/    1000: prueba286@spin.co
+[2025-12-03 16:57:24] Grupo prueba286@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:24] Procesando grupo 279/    1000: prueba674@spin.co
+[2025-12-03 16:57:25] Grupo prueba674@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:25] Procesando grupo 280/    1000: prueba_haj@spin.co
+[2025-12-03 16:57:26] Grupo prueba_haj@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:26] Procesando grupo 281/    1000: prueba115@spin.co
+[2025-12-03 16:57:27] Grupo prueba115@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:27] Procesando grupo 282/    1000: prueba483@spin.co
+[2025-12-03 16:57:28] Grupo prueba483@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:28] Procesando grupo 283/    1000: prueba273@spin.co
+[2025-12-03 16:57:30] Grupo prueba273@spin.co:        5 usuarios encontrados
+[2025-12-03 16:57:30] Procesando grupo 284/    1000: kiofs6@spin.co
+[2025-12-03 16:57:31] Grupo kiofs6@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:31] Procesando grupo 285/    1000: proyectosanalytics@spin.co
+[2025-12-03 16:57:32] Grupo proyectosanalytics@spin.co: Vacío
+[2025-12-03 16:57:32] Procesando grupo 286/    1000: prueba566@spin.co
+[2025-12-03 16:57:33] Grupo prueba566@spin.co: Vacío
+[2025-12-03 16:57:33] Procesando grupo 287/    1000: proyectosabasto@spin.co
+[2025-12-03 16:57:34] Grupo proyectosabasto@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:34] Procesando grupo 288/    1000: proyectointegracinconekta@spin.co
+[2025-12-03 16:57:35] Grupo proyectointegracinconekta@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:35] Procesando grupo 289/    1000: proyecto1@spin.co
+[2025-12-03 16:57:37] Grupo proyecto1@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:37] Procesando grupo 290/    1000: pronto@spin.co
+[2025-12-03 16:57:38] Grupo pronto@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:38] Procesando grupo 291/    1000: proyectohranalytics@spin.co
+[2025-12-03 16:57:39] Grupo proyectohranalytics@spin.co:        3 usuarios encontrados
+[2025-12-03 16:57:39] Procesando grupo 292/    1000: promociones@spin.co
+[2025-12-03 16:57:40] Grupo promociones@spin.co:        5 usuarios encontrados
+[2025-12-03 16:57:40] Procesando grupo 293/    1000: projectvolaris@spin.co
+[2025-12-03 16:57:41] Grupo projectvolaris@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:41] Procesando grupo 294/    1000: projectq3q4digitalfemsa2023@spin.co
+[2025-12-03 16:57:43] Grupo projectq3q4digitalfemsa2023@spin.co:        4 usuarios encontrados
+[2025-12-03 16:57:43] Procesando grupo 295/    1000: star-productojds2025@spin.co
+[2025-12-03 16:57:44] Grupo star-productojds2025@spin.co:        3 usuarios encontrados
+[2025-12-03 16:57:44] Procesando grupo 296/    1000: procurementvmo-marketingrh@spin.co
+[2025-12-03 16:57:45] Grupo procurementvmo-marketingrh@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:45] Procesando grupo 297/    1000: procesos@spin.co
+[2025-12-03 16:57:47] Grupo procesos@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:47] Procesando grupo 298/    1000: procesoarrendadoresoxxo-lending@spin.co
+[2025-12-03 16:57:48] Grupo procesoarrendadoresoxxo-lending@spin.co:        9 usuarios encontrados
+[2025-12-03 16:57:48] Procesando grupo 299/    1000: prisma_vpn_sftp_lending@spin.co
+[2025-12-03 16:57:49] Grupo prisma_vpn_sftp_lending@spin.co:        5 usuarios encontrados
+[2025-12-03 16:57:49] Procesando grupo 300/    1000: procesocontractualabastecimientos@spin.co
+[2025-12-03 16:57:50] Grupo procesocontractualabastecimientos@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:50] Procesando grupo 301/    1000: procesoconciliacion@spin.co
+[2025-12-03 16:57:51] Grupo procesoconciliacion@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:51] Procesando grupo 302/    1000: prisma_vpn_pentafon@spin.co
+[2025-12-03 16:57:54] Grupo prisma_vpn_pentafon@spin.co:        9 usuarios encontrados
+[2025-12-03 16:57:54] Procesando grupo 303/    1000: prisma_vpn_kiara@spin.co
+[2025-12-03 16:57:55] Grupo prisma_vpn_kiara@spin.co:       10 usuarios encontrados
+[2025-12-03 16:57:55] Procesando grupo 304/    1000: presupuesto2024lideres@spin.co
+[2025-12-03 16:57:56] Grupo presupuesto2024lideres@spin.co:        2 usuarios encontrados
+[2025-12-03 16:57:56] Procesando grupo 305/    1000: priorizacinpromociones@spin.co
+[2025-12-03 16:57:57] Grupo priorizacinpromociones@spin.co:        5 usuarios encontrados
+[2025-12-03 16:57:57] Procesando grupo 306/    1000: prioridadesdevelopmentyonboarding@spin.co
+[2025-12-03 16:57:58] Grupo prioridadesdevelopmentyonboarding@spin.co:        1 usuarios encontrados
+[2025-12-03 16:57:58] Procesando grupo 307/    1000: presupuesto2024@spin.co
+[2025-12-03 16:58:00] Grupo presupuesto2024@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:00] Procesando grupo 308/    1000: premiaagilistas@spin.co
+[2025-12-03 16:58:01] Grupo premiaagilistas@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:01] Procesando grupo 309/    1000: pr12@spin.co
+[2025-12-03 16:58:02] Grupo pr12@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:02] Procesando grupo 310/    1000: pr1@spin.co
+[2025-12-03 16:58:04] Grupo pr1@spin.co:        6 usuarios encontrados
+[2025-12-03 16:58:04] Procesando grupo 311/    1000: pr12-4pmmoda@spin.co
+[2025-12-03 16:58:05] Grupo pr12-4pmmoda@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:05] Procesando grupo 312/    1000: pos@spin.co
+[2025-12-03 16:58:06] Grupo pos@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:06] Procesando grupo 313/    1000: posspinpro@spin.co
+[2025-12-03 16:58:07] Grupo posspinpro@spin.co:        9 usuarios encontrados
+[2025-12-03 16:58:07] Procesando grupo 314/    1000: portalteleperformance-marketaccess@spin.co
+[2025-12-03 16:58:08] Grupo portalteleperformance-marketaccess@spin.co:       13 usuarios encontrados
+[2025-12-03 16:58:08] Procesando grupo 315/    1000: portafolioperformance@spin.co
+[2025-12-03 16:58:10] Grupo portafolioperformance@spin.co:       11 usuarios encontrados
+[2025-12-03 16:58:10] Procesando grupo 316/    1000: portalbackoffice@spin.co
+[2025-12-03 16:58:11] Grupo portalbackoffice@spin.co:        3 usuarios encontrados
+[2025-12-03 16:58:11] Procesando grupo 317/    1000: polticasnetpay@spin.co
+[2025-12-03 16:58:12] Grupo polticasnetpay@spin.co:        2 usuarios encontrados
+[2025-12-03 16:58:12] Procesando grupo 318/    1000: pods-arq@spin.co
+[2025-12-03 16:58:14] Grupo pods-arq@spin.co:        7 usuarios encontrados
+[2025-12-03 16:58:14] Procesando grupo 319/    1000: podpushnotifications@spin.co
+[2025-12-03 16:58:15] Grupo podpushnotifications@spin.co:        7 usuarios encontrados
+[2025-12-03 16:58:15] Procesando grupo 320/    1000: podvolaris@spin.co
+[2025-12-03 16:58:16] Grupo podvolaris@spin.co:        4 usuarios encontrados
+[2025-12-03 16:58:16] Procesando grupo 321/    1000: podbackend@spin.co
+[2025-12-03 16:58:17] Grupo podbackend@spin.co: Vacío
+[2025-12-03 16:58:17] Procesando grupo 322/    1000: podintegraciones@spin.co
+[2025-12-03 16:58:18] Grupo podintegraciones@spin.co: Vacío
+[2025-12-03 16:58:18] Procesando grupo 323/    1000: pod3tenderos@spin.co
+[2025-12-03 16:58:19] Grupo pod3tenderos@spin.co:        6 usuarios encontrados
+[2025-12-03 16:58:19] Procesando grupo 324/    1000: pod2tenderos@spin.co
+[2025-12-03 16:58:21] Grupo pod2tenderos@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:21] Procesando grupo 325/    1000: pod1tenderos@spin.co
+[2025-12-03 16:58:22] Grupo pod1tenderos@spin.co:        4 usuarios encontrados
+[2025-12-03 16:58:22] Procesando grupo 326/    1000: pocdatagovernancealation@spin.co
+[2025-12-03 16:58:24] Grupo pocdatagovernancealation@spin.co:       10 usuarios encontrados
+[2025-12-03 16:58:24] Procesando grupo 327/    1000: pod-mpos@spin.co
+[2025-12-03 16:58:25] Grupo pod-mpos@spin.co:        2 usuarios encontrados
+[2025-12-03 16:58:25] Procesando grupo 328/    1000: pocbotnpremia-oxxopay@spin.co
+[2025-12-03 16:58:26] Grupo pocbotnpremia-oxxopay@spin.co:        6 usuarios encontrados
+[2025-12-03 16:58:26] Procesando grupo 329/    1000: pmolending@spin.co
+[2025-12-03 16:58:27] Grupo pmolending@spin.co:        4 usuarios encontrados
+[2025-12-03 16:58:27] Procesando grupo 330/    1000: pmo.b2b1@spin.co
+[2025-12-03 16:58:29] Grupo pmo.b2b1@spin.co:       26 usuarios encontrados
+[2025-12-03 16:58:29] Procesando grupo 331/    1000: pmm@spin.co
+[2025-12-03 16:58:30] Grupo pmm@spin.co: Vacío
+[2025-12-03 16:58:30] Procesando grupo 332/    1000: pmo@spin.co
+[2025-12-03 16:58:31] Grupo pmo@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:31] Procesando grupo 333/    1000: pmm475@spin.co
+[2025-12-03 16:58:33] Grupo pmm475@spin.co:       17 usuarios encontrados
+[2025-12-03 16:58:33] Procesando grupo 334/    1000: pmm110@spin.co
+[2025-12-03 16:58:34] Grupo pmm110@spin.co:        3 usuarios encontrados
+[2025-12-03 16:58:34] Procesando grupo 335/    1000: planningprocesos2024@spin.co
+[2025-12-03 16:58:35] Grupo planningprocesos2024@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:35] Procesando grupo 336/    1000: planning@spin.co
+[2025-12-03 16:58:37] Grupo planning@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:37] Procesando grupo 337/    1000: plannerpeopleexperience@spin.co
+[2025-12-03 16:58:38] Grupo plannerpeopleexperience@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:38] Procesando grupo 338/    1000: planneralhelguadarrama@spin.co
+[2025-12-03 16:58:39] Grupo planneralhelguadarrama@spin.co:        7 usuarios encontrados
+[2025-12-03 16:58:39] Procesando grupo 339/    1000: planeacinpmomarketaccess@spin.co
+[2025-12-03 16:58:40] Grupo planeacinpmomarketaccess@spin.co:        5 usuarios encontrados
+[2025-12-03 16:58:40] Procesando grupo 340/    1000: planeacinyportafolio@spin.co
+[2025-12-03 16:58:41] Grupo planeacinyportafolio@spin.co:        7 usuarios encontrados
+[2025-12-03 16:58:41] Procesando grupo 341/    1000: planeacinnewventures@spin.co
+[2025-12-03 16:58:43] Grupo planeacinnewventures@spin.co:        2 usuarios encontrados
+[2025-12-03 16:58:43] Procesando grupo 342/    1000: planeacinmarketaccess@spin.co
+[2025-12-03 16:58:44] Grupo planeacinmarketaccess@spin.co:        2 usuarios encontrados
+[2025-12-03 16:58:44] Procesando grupo 343/    1000: planeacin-opdigital@spin.co
+[2025-12-03 16:58:46] Grupo planeacin-opdigital@spin.co:        4 usuarios encontrados
+[2025-12-03 16:58:46] Procesando grupo 344/    1000: planpos@spin.co
+[2025-12-03 16:58:47] Grupo planpos@spin.co:        2 usuarios encontrados
+[2025-12-03 16:58:47] Procesando grupo 345/    1000: plandhops2024@spin.co
+[2025-12-03 16:58:48] Grupo plandhops2024@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:48] Procesando grupo 346/    1000: plandetransicin@spin.co
+[2025-12-03 16:58:49] Grupo plandetransicin@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:49] Procesando grupo 347/    1000: plandeprueba@spin.co
+[2025-12-03 16:58:50] Grupo plandeprueba@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:50] Procesando grupo 348/    1000: plandeoptimizacin@spin.co
+[2025-12-03 16:58:51] Grupo plandeoptimizacin@spin.co:        8 usuarios encontrados
+[2025-12-03 16:58:51] Procesando grupo 349/    1000: plandatalending@spin.co
+[2025-12-03 16:58:54] Grupo plandatalending@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:54] Procesando grupo 350/    1000: piplanning@spin.co
+[2025-12-03 16:58:55] Grupo piplanning@spin.co:        9 usuarios encontrados
+[2025-12-03 16:58:55] Procesando grupo 351/    1000: pilotoydespliegueenoxxocoalicin@spin.co
+[2025-12-03 16:58:56] Grupo pilotoydespliegueenoxxocoalicin@spin.co:        7 usuarios encontrados
+[2025-12-03 16:58:56] Procesando grupo 352/    1000: personal827@spin.co
+[2025-12-03 16:58:57] Grupo personal827@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:57] Procesando grupo 353/    1000: personal_yws@spin.co
+[2025-12-03 16:58:58] Grupo personal_yws@spin.co:        1 usuarios encontrados
+[2025-12-03 16:58:58] Procesando grupo 354/    1000: planning-todo@spin.co
+[2025-12-03 16:59:00] Grupo planning-todo@spin.co:        8 usuarios encontrados
+[2025-12-03 16:59:00] Procesando grupo 355/    1000: performancemarketing@spin.co
+[2025-12-03 16:59:01] Grupo performancemarketing@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:01] Procesando grupo 356/    1000: personal@spin.co
+[2025-12-03 16:59:03] Grupo personal@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:03] Procesando grupo 357/    1000: peopledevelopment-h22024@spin.co
+[2025-12-03 16:59:04] Grupo peopledevelopment-h22024@spin.co:        3 usuarios encontrados
+[2025-12-03 16:59:04] Procesando grupo 358/    1000: weekly-peopledelivery@spin.co
+[2025-12-03 16:59:05] Grupo weekly-peopledelivery@spin.co:       20 usuarios encontrados
+[2025-12-03 16:59:05] Procesando grupo 359/    1000: peoplesuccess@spin.co
+[2025-12-03 16:59:06] Grupo peoplesuccess@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:06] Procesando grupo 360/    1000: peoplecultureprojectportfolio2025@spin.co
+[2025-12-03 16:59:08] Grupo peoplecultureprojectportfolio2025@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:08] Procesando grupo 361/    1000: pentest-bpaas@spin.co
+[2025-12-03 16:59:09] Grupo pentest-bpaas@spin.co:        7 usuarios encontrados
+[2025-12-03 16:59:09] Procesando grupo 362/    1000: pendientespau@spin.co
+[2025-12-03 16:59:10] Grupo pendientespau@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:10] Procesando grupo 363/    1000: paymentsmarketaccessbusinesscase@spin.co
+[2025-12-03 16:59:11] Grupo paymentsmarketaccessbusinesscase@spin.co:        5 usuarios encontrados
+[2025-12-03 16:59:11] Procesando grupo 364/    1000: pau@spin.co
+[2025-12-03 16:59:12] Grupo pau@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:12] Procesando grupo 365/    1000: payments935@spin.co
+[2025-12-03 16:59:14] Grupo payments935@spin.co:        3 usuarios encontrados
+[2025-12-03 16:59:14] Procesando grupo 366/    1000: padronproveedores@spin.co
+[2025-12-03 16:59:15] Grupo padronproveedores@spin.co:        6 usuarios encontrados
+[2025-12-03 16:59:15] Procesando grupo 367/    1000: oxxoprocessesspin-off@spin.co
+[2025-12-03 16:59:16] Grupo oxxoprocessesspin-off@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:16] Procesando grupo 368/    1000: pcb2b2025@spin.co
+[2025-12-03 16:59:17] Grupo pcb2b2025@spin.co:        3 usuarios encontrados
+[2025-12-03 16:59:17] Procesando grupo 369/    1000: oxxopay@spin.co
+[2025-12-03 16:59:19] Grupo oxxopay@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:19] Procesando grupo 370/    1000: pptoxxogas@spin.co
+[2025-12-03 16:59:20] Grupo pptoxxogas@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:20] Procesando grupo 371/    1000: oxxodfsre@spin.co
+[2025-12-03 16:59:21] Grupo oxxodfsre@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:21] Procesando grupo 372/    1000: oxxocel@spin.co
+[2025-12-03 16:59:23] Grupo oxxocel@spin.co:        4 usuarios encontrados
+[2025-12-03 16:59:23] Procesando grupo 373/    1000: oxxoclub-df@spin.co
+[2025-12-03 16:59:24] Grupo oxxoclub-df@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:24] Procesando grupo 374/    1000: oxxo-gravty@spin.co
+[2025-12-03 16:59:25] Grupo oxxo-gravty@spin.co:        5 usuarios encontrados
+[2025-12-03 16:59:25] Procesando grupo 375/    1000: othertest@spin.co
+[2025-12-03 16:59:26] Grupo othertest@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:26] Procesando grupo 376/    1000: oxgteaminiciativas@spin.co
+[2025-12-03 16:59:27] Grupo oxgteaminiciativas@spin.co:        3 usuarios encontrados
+[2025-12-03 16:59:27] Procesando grupo 377/    1000: optimusprime@spin.co
+[2025-12-03 16:59:29] Grupo optimusprime@spin.co:        8 usuarios encontrados
+[2025-12-03 16:59:29] Procesando grupo 378/    1000: ops-b2b-df@spin.co
+[2025-12-03 16:59:30] Grupo ops-b2b-df@spin.co:       14 usuarios encontrados
+[2025-12-03 16:59:30] Procesando grupo 379/    1000: operacionestransversal@spin.co
+[2025-12-03 16:59:31] Grupo operacionestransversal@spin.co:        4 usuarios encontrados
+[2025-12-03 16:59:31] Procesando grupo 380/    1000: opit_3_1@spin.co
+[2025-12-03 16:59:33] Grupo opit_3_1@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:33] Procesando grupo 381/    1000: operacionestitransversal@spin.co
+[2025-12-03 16:59:35] Grupo operacionestitransversal@spin.co:       11 usuarios encontrados
+[2025-12-03 16:59:35] Procesando grupo 382/    1000: operacioneskionetworks@spin.co
+[2025-12-03 16:59:36] Grupo operacioneskionetworks@spin.co:       26 usuarios encontrados
+[2025-12-03 16:59:36] Procesando grupo 383/    1000: operacionessp@spin.co
+[2025-12-03 16:59:37] Grupo operacionessp@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:37] Procesando grupo 384/    1000: operacionyserviciosadministrados@spin.co
+[2025-12-03 16:59:38] Grupo operacionyserviciosadministrados@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:38] Procesando grupo 385/    1000: operacionspinpremia@spin.co
+[2025-12-03 16:59:39] Grupo operacionspinpremia@spin.co:        6 usuarios encontrados
+[2025-12-03 16:59:39] Procesando grupo 386/    1000: opdigital@spin.co
+[2025-12-03 16:59:41] Grupo opdigital@spin.co:        6 usuarios encontrados
+[2025-12-03 16:59:41] Procesando grupo 387/    1000: onlinepayments@spin.co
+[2025-12-03 16:59:42] Grupo onlinepayments@spin.co:        5 usuarios encontrados
+[2025-12-03 16:59:42] Procesando grupo 388/    1000: onedatateam@spin.co
+[2025-12-03 16:59:44] Grupo onedatateam@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:44] Procesando grupo 389/    1000: omnichannelservices@spin.co
+[2025-12-03 16:59:45] Grupo omnichannelservices@spin.co:        4 usuarios encontrados
+[2025-12-03 16:59:45] Procesando grupo 390/    1000: onboardingg@spin.co
+[2025-12-03 16:59:46] Grupo onboardingg@spin.co:       10 usuarios encontrados
+[2025-12-03 16:59:47] Procesando grupo 391/    1000: oficinadevalor@spin.co
+[2025-12-03 16:59:48] Grupo oficinadevalor@spin.co:        8 usuarios encontrados
+[2025-12-03 16:59:48] Procesando grupo 392/    1000: ofertas@spin.co
+[2025-12-03 16:59:49] Grupo ofertas@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:49] Procesando grupo 393/    1000: offerletterautomationprocess@spin.co
+[2025-12-03 16:59:50] Grupo offerletterautomationprocess@spin.co:        2 usuarios encontrados
+[2025-12-03 16:59:50] Procesando grupo 394/    1000: nuevasadquisiciones@spin.co
+[2025-12-03 16:59:51] Grupo nuevasadquisiciones@spin.co:        7 usuarios encontrados
+[2025-12-03 16:59:51] Procesando grupo 395/    1000: gobiernodedatos@spin.co
+[2025-12-03 16:59:53] Grupo gobiernodedatos@spin.co:        9 usuarios encontrados
+[2025-12-03 16:59:53] Procesando grupo 396/    1000: notadecreditoaliadosspinpremia@spin.co
+[2025-12-03 16:59:54] Grupo notadecreditoaliadosspinpremia@spin.co:       10 usuarios encontrados
+[2025-12-03 16:59:54] Procesando grupo 397/    1000: newsletter-lalinterna@spin.co
+[2025-12-03 16:59:55] Grupo newsletter-lalinterna@spin.co:        1 usuarios encontrados
+[2025-12-03 16:59:55] Procesando grupo 398/    1000: newventures@spin.co
+[2025-12-03 16:59:56] Grupo newventures@spin.co:        6 usuarios encontrados
+[2025-12-03 16:59:56] Procesando grupo 399/    1000: networksrequests@spin.co
+[2025-12-03 16:59:58] Grupo networksrequests@spin.co:        4 usuarios encontrados
+[2025-12-03 16:59:58] Procesando grupo 400/    1000: newventures-appvengersoxxo@spin.co
+[2025-12-03 16:59:59] Grupo newventures-appvengersoxxo@spin.co:       11 usuarios encontrados
+[2025-12-03 16:59:59] Procesando grupo 401/    1000: networks-tbd@spin.co
+[2025-12-03 17:00:00] Grupo networks-tbd@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:00] Procesando grupo 402/    1000: networks@spin.co
+[2025-12-03 17:00:01] Grupo networks@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:01] Procesando grupo 403/    1000: networks-mpocdjurez@spin.co
+[2025-12-03 17:00:03] Grupo networks-mpocdjurez@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:03] Procesando grupo 404/    1000: netsecops-ti@spin.co
+[2025-12-03 17:00:04] Grupo netsecops-ti@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:04] Procesando grupo 405/    1000: netpaymaterialesmkt@spin.co
+[2025-12-03 17:00:05] Grupo netpaymaterialesmkt@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:05] Procesando grupo 406/    1000: netpaymarca@spin.co
+[2025-12-03 17:00:06] Grupo netpaymarca@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:06] Procesando grupo 407/    1000: netpayintegration@spin.co
+[2025-12-03 17:00:07] Grupo netpayintegration@spin.co:        6 usuarios encontrados
+[2025-12-03 17:00:07] Procesando grupo 408/    1000: netpay@spin.co
+[2025-12-03 17:00:08] Grupo netpay@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:09] Procesando grupo 409/    1000: netpay624@spin.co
+[2025-12-03 17:00:10] Grupo netpay624@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:10] Procesando grupo 410/    1000: nere2024@spin.co
+[2025-12-03 17:00:11] Grupo nere2024@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:11] Procesando grupo 411/    1000: mypersonal@spin.co
+[2025-12-03 17:00:13] Grupo mypersonal@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:13] Procesando grupo 412/    1000: mvp1warroom@spin.co
+[2025-12-03 17:00:14] Grupo mvp1warroom@spin.co:        6 usuarios encontrados
+[2025-12-03 17:00:14] Procesando grupo 413/    1000: mundos-frontend@spin.co
+[2025-12-03 17:00:15] Grupo mundos-frontend@spin.co:       14 usuarios encontrados
+[2025-12-03 17:00:15] Procesando grupo 414/    1000: multiplica-crowdar@spin.co
+[2025-12-03 17:00:16] Grupo multiplica-crowdar@spin.co: Vacío
+[2025-12-03 17:00:16] Procesando grupo 415/    1000: mundos-backend@spin.co
+[2025-12-03 17:00:18] Grupo mundos-backend@spin.co:        9 usuarios encontrados
+[2025-12-03 17:00:18] Procesando grupo 416/    1000: mshaliados@spin.co
+[2025-12-03 17:00:19] Grupo mshaliados@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:19] Procesando grupo 417/    1000: monitoringalerting@spin.co
+[2025-12-03 17:00:20] Grupo monitoringalerting@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:20] Procesando grupo 418/    1000: monthlysquadshcupdate2025@spin.co
+[2025-12-03 17:00:21] Grupo monthlysquadshcupdate2025@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:21] Procesando grupo 419/    1000: msh@spin.co
+[2025-12-03 17:00:23] Grupo msh@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:23] Procesando grupo 420/    1000: monitorplus@spin.co
+[2025-12-03 17:00:24] Grupo monitorplus@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:24] Procesando grupo 421/    1000: modeladodatahub@spin.co
+[2025-12-03 17:00:25] Grupo modeladodatahub@spin.co: Vacío
+[2025-12-03 17:00:25] Procesando grupo 422/    1000: mms@spin.co
+[2025-12-03 17:00:26] Grupo mms@spin.co: Vacío
+[2025-12-03 17:00:26] Procesando grupo 423/    1000: mktproductplanning@spin.co
+[2025-12-03 17:00:27] Grupo mktproductplanning@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:27] Procesando grupo 424/    1000: mka_spn_tiendas@spin.co
+[2025-12-03 17:00:28] Grupo mka_spn_tiendas@spin.co:        6 usuarios encontrados
+[2025-12-03 17:00:28] Procesando grupo 425/    1000: mka_spn_notification@spin.co
+[2025-12-03 17:00:29] Grupo mka_spn_notification@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:30] Procesando grupo 426/    1000: mka_spn_negocios@spin.co
+[2025-12-03 17:00:31] Grupo mka_spn_negocios@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:31] Procesando grupo 427/    1000: mkasalesforceservices@spin.co
+[2025-12-03 17:00:33] Grupo mkasalesforceservices@spin.co:        4 usuarios encontrados
+[2025-12-03 17:00:33] Procesando grupo 428/    1000: mixpanel@spin.co
+[2025-12-03 17:00:34] Grupo mixpanel@spin.co:        4 usuarios encontrados
+[2025-12-03 17:00:34] Procesando grupo 429/    1000: misteryshopper@spin.co
+[2025-12-03 17:00:35] Grupo misteryshopper@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:35] Procesando grupo 430/    1000: mioxxotws@spin.co
+[2025-12-03 17:00:36] Grupo mioxxotws@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:36] Procesando grupo 431/    1000: micromerchants@spin.co
+[2025-12-03 17:00:37] Grupo micromerchants@spin.co:        5 usuarios encontrados
+[2025-12-03 17:00:37] Procesando grupo 432/    1000: mesan3@spin.co
+[2025-12-03 17:00:39] Grupo mesan3@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:39] Procesando grupo 433/    1000: mesadetrabajodemarca@spin.co
+[2025-12-03 17:00:40] Grupo mesadetrabajodemarca@spin.co:        4 usuarios encontrados
+[2025-12-03 17:00:40] Procesando grupo 434/    1000: mesadeservicio@spin.co
+[2025-12-03 17:00:41] Grupo mesadeservicio@spin.co: Vacío
+[2025-12-03 17:00:41] Procesando grupo 435/    1000: mesadeayuda@spin.co
+[2025-12-03 17:00:42] Grupo mesadeayuda@spin.co:        7 usuarios encontrados
+[2025-12-03 17:00:42] Procesando grupo 436/    1000: mejorasdeprocesosdenmina@spin.co
+[2025-12-03 17:00:43] Grupo mejorasdeprocesosdenmina@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:43] Procesando grupo 437/    1000: materialdeinters@spin.co
+[2025-12-03 17:00:45] Grupo materialdeinters@spin.co: Vacío
+[2025-12-03 17:00:45] Procesando grupo 438/    1000: master@spin.co
+[2025-12-03 17:00:46] Grupo master@spin.co:        1 usuarios encontrados
+[2025-12-03 17:00:46] Procesando grupo 439/    1000: martnsols@spin.co
+[2025-12-03 17:00:47] Grupo martnsols@spin.co: Vacío
+[2025-12-03 17:00:47] Procesando grupo 440/    1000: martech_transversal@spin.co
+[2025-12-03 17:00:48] Grupo martech_transversal@spin.co:        7 usuarios encontrados
+[2025-12-03 17:00:48] Procesando grupo 441/    1000: marketing_spin@spin.co
+[2025-12-03 17:00:50] Grupo marketing_spin@spin.co:        2 usuarios encontrados
+[2025-12-03 17:00:50] Procesando grupo 442/    1000: marketingvolaris@spin.co
+[2025-12-03 17:00:51] Grupo marketingvolaris@spin.co: Vacío
+[2025-12-03 17:00:51] Procesando grupo 443/    1000: marketingdigitalefectigo@spin.co
+[2025-12-03 17:00:52] Grupo marketingdigitalefectigo@spin.co:        3 usuarios encontrados
+[2025-12-03 17:00:52] Procesando grupo 444/    1000: marketingspinpremia@spin.co
+[2025-12-03 17:00:54] Grupo marketingspinpremia@spin.co:        5 usuarios encontrados
+[2025-12-03 17:00:54] Procesando grupo 445/    1000: marketingdigitalb2cspinpremia-spinbyoxxo@spin.co
+[2025-12-03 17:00:55] Grupo marketingdigitalb2cspinpremia-spinbyoxxo@spin.co:        7 usuarios encontrados
+[2025-12-03 17:00:55] Procesando grupo 446/    1000: growthmartechb2c@spin.co
+[2025-12-03 17:00:56] Grupo growthmartechb2c@spin.co:        8 usuarios encontrados
+[2025-12-03 17:00:56] Procesando grupo 447/    1000: marketaccess-podbpaassb0globant@spin.co
+[2025-12-03 17:00:57] Grupo marketaccess-podbpaassb0globant@spin.co: Vacío
+[2025-12-03 17:00:57] Procesando grupo 448/    1000: marketaccess_cx@spin.co
+[2025-12-03 17:00:58] Grupo marketaccess_cx@spin.co:       11 usuarios encontrados
+[2025-12-03 17:00:58] Procesando grupo 449/    1000: marketing@spin.co
+[2025-12-03 17:01:00] Grupo marketing@spin.co:       10 usuarios encontrados
+[2025-12-03 17:01:00] Procesando grupo 450/    1000: market-access@spin.co
+[2025-12-03 17:01:03] Grupo market-access@spin.co:       44 usuarios encontrados
+[2025-12-03 17:01:03] Procesando grupo 451/    1000: marketaccess304@spin.co
+[2025-12-03 17:01:04] Grupo marketaccess304@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:04] Procesando grupo 452/    1000: marketaccess@spin.co
+[2025-12-03 17:01:05] Grupo marketaccess@spin.co:       36 usuarios encontrados
+[2025-12-03 17:01:05] Procesando grupo 453/    1000: management_paloit_b2b@spin.co
+[2025-12-03 17:01:06] Grupo management_paloit_b2b@spin.co: Vacío
+[2025-12-03 17:01:06] Procesando grupo 454/    1000: longtailrequests@spin.co
+[2025-12-03 17:01:07] Grupo longtailrequests@spin.co:        4 usuarios encontrados
+[2025-12-03 17:01:07] Procesando grupo 455/    1000: longtail-reportesdirectos@spin.co
+[2025-12-03 17:01:09] Grupo longtail-reportesdirectos@spin.co:        5 usuarios encontrados
+[2025-12-03 17:01:09] Procesando grupo 456/    1000: longtail700@spin.co
+[2025-12-03 17:01:10] Grupo longtail700@spin.co:       13 usuarios encontrados
+[2025-12-03 17:01:10] Procesando grupo 457/    1000: longtail633@spin.co
+[2025-12-03 17:01:11] Grupo longtail633@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:11] Procesando grupo 458/    1000: longtail@spin.co
+[2025-12-03 17:01:12] Grupo longtail@spin.co:       17 usuarios encontrados
+[2025-12-03 17:01:12] Procesando grupo 459/    1000: licenciacorebancario@spin.co
+[2025-12-03 17:01:14] Grupo licenciacorebancario@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:14] Procesando grupo 460/    1000: lderesnewventures@spin.co
+[2025-12-03 17:01:15] Grupo lderesnewventures@spin.co:        9 usuarios encontrados
+[2025-12-03 17:01:15] Procesando grupo 461/    1000: licenciabancaria@spin.co
+[2025-12-03 17:01:16] Grupo licenciabancaria@spin.co:        7 usuarios encontrados
+[2025-12-03 17:01:16] Procesando grupo 462/    1000: licenciabancariasbo@spin.co
+[2025-12-03 17:01:17] Grupo licenciabancariasbo@spin.co:       26 usuarios encontrados
+[2025-12-03 17:01:17] Procesando grupo 463/    1000: licencia@spin.co
+[2025-12-03 17:01:18] Grupo licencia@spin.co:        3 usuarios encontrados
+[2025-12-03 17:01:18] Procesando grupo 464/    1000: lending2.0@spin.co
+[2025-12-03 17:01:19] Grupo lending2.0@spin.co: Vacío
+[2025-12-03 17:01:19] Procesando grupo 465/    1000: lendingcreditrisk@spin.co
+[2025-12-03 17:01:21] Grupo lendingcreditrisk@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:21] Procesando grupo 466/    1000: lending20@spin.co
+[2025-12-03 17:01:22] Grupo lending20@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:22] Procesando grupo 467/    1000: lending-cxops@spin.co
+[2025-12-03 17:01:24] Grupo lending-cxops@spin.co:       11 usuarios encontrados
+[2025-12-03 17:01:24] Procesando grupo 468/    1000: lending-wizeline@spin.co
+[2025-12-03 17:01:25] Grupo lending-wizeline@spin.co: Vacío
+[2025-12-03 17:01:25] Procesando grupo 469/    1000: lending-changarros-researchdesign@spin.co
+[2025-12-03 17:01:26] Grupo lending-changarros-researchdesign@spin.co:        7 usuarios encontrados
+[2025-12-03 17:01:26] Procesando grupo 470/    1000: lending-mambu@spin.co
+[2025-12-03 17:01:27] Grupo lending-mambu@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:27] Procesando grupo 471/    1000: lending@spin.co
+[2025-12-03 17:01:28] Grupo lending@spin.co:        3 usuarios encontrados
+[2025-12-03 17:01:28] Procesando grupo 472/    1000: lending842@spin.co
+[2025-12-03 17:01:30] Grupo lending842@spin.co:       10 usuarios encontrados
+[2025-12-03 17:01:30] Procesando grupo 473/    1000: lending57@spin.co
+[2025-12-03 17:01:31] Grupo lending57@spin.co: Vacío
+[2025-12-03 17:01:31] Procesando grupo 474/    1000: legalentitiesalignment@spin.co
+[2025-12-03 17:01:33] Grupo legalentitiesalignment@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:33] Procesando grupo 475/    1000: legalodpr@spin.co
+[2025-12-03 17:01:34] Grupo legalodpr@spin.co:        3 usuarios encontrados
+[2025-12-03 17:01:34] Procesando grupo 476/    1000: legaldigitalfemsa@spin.co
+[2025-12-03 17:01:35] Grupo legaldigitalfemsa@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:35] Procesando grupo 477/    1000: lealtadcoalicion-oxxo@spin.co
+[2025-12-03 17:01:37] Grupo lealtadcoalicion-oxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:37] Procesando grupo 478/    1000: laboralfacilitiessasso@spin.co
+[2025-12-03 17:01:38] Grupo laboralfacilitiessasso@spin.co:        4 usuarios encontrados
+[2025-12-03 17:01:38] Procesando grupo 479/    1000: kofmexico@spin.co
+[2025-12-03 17:01:39] Grupo kofmexico@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:39] Procesando grupo 480/    1000: kofcolombia@spin.co
+[2025-12-03 17:01:40] Grupo kofcolombia@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:40] Procesando grupo 481/    1000: kofd2c@spin.co
+[2025-12-03 17:01:41] Grupo kofd2c@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:41] Procesando grupo 482/    1000: kofbrasil@spin.co
+[2025-12-03 17:01:43] Grupo kofbrasil@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:43] Procesando grupo 483/    1000: kofdf@spin.co
+[2025-12-03 17:01:44] Grupo kofdf@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:44] Procesando grupo 484/    1000: kofboard@spin.co
+[2025-12-03 17:01:45] Grupo kofboard@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:45] Procesando grupo 485/    1000: kof-digitalfemsa@spin.co
+[2025-12-03 17:01:46] Grupo kof-digitalfemsa@spin.co:        5 usuarios encontrados
+[2025-12-03 17:01:46] Procesando grupo 486/    1000: kion2@spin.co
+[2025-12-03 17:01:47] Grupo kion2@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:47] Procesando grupo 487/    1000: kion1@spin.co
+[2025-12-03 17:01:48] Grupo kion1@spin.co:        8 usuarios encontrados
+[2025-12-03 17:01:48] Procesando grupo 488/    1000: karenmaldonado@spin.co
+[2025-12-03 17:01:50] Grupo karenmaldonado@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:50] Procesando grupo 489/    1000: kiofieldserviceteam@spin.co
+[2025-12-03 17:01:51] Grupo kiofieldserviceteam@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:51] Procesando grupo 490/    1000: jonathandeciga@spin.co
+[2025-12-03 17:01:52] Grupo jonathandeciga@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:52] Procesando grupo 491/    1000: jbpcustomerstrategy-coalicin@spin.co
+[2025-12-03 17:01:53] Grupo jbpcustomerstrategy-coalicin@spin.co:        5 usuarios encontrados
+[2025-12-03 17:01:53] Procesando grupo 492/    1000: iteracin-dashboardpeople@spin.co
+[2025-12-03 17:01:54] Grupo iteracin-dashboardpeople@spin.co:        6 usuarios encontrados
+[2025-12-03 17:01:54] Procesando grupo 493/    1000: ivalua-consus-df@spin.co
+[2025-12-03 17:01:55] Grupo ivalua-consus-df@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:55] Procesando grupo 494/    1000: isosdf@spin.co
+[2025-12-03 17:01:56] Grupo isosdf@spin.co:        2 usuarios encontrados
+[2025-12-03 17:01:56] Procesando grupo 495/    1000: irtudnfemsa@spin.co
+[2025-12-03 17:01:59] Grupo irtudnfemsa@spin.co:        1 usuarios encontrados
+[2025-12-03 17:01:59] Procesando grupo 496/    1000: irtfemsayudn@spin.co
+[2025-12-03 17:02:00] Grupo irtfemsayudn@spin.co:        3 usuarios encontrados
+[2025-12-03 17:02:00] Procesando grupo 497/    1000: inventariodeinfraestructuraspei@spin.co
+[2025-12-03 17:02:01] Grupo inventariodeinfraestructuraspei@spin.co:        3 usuarios encontrados
+[2025-12-03 17:02:01] Procesando grupo 498/    1000: irtdigitalfemsa@spin.co
+[2025-12-03 17:02:02] Grupo irtdigitalfemsa@spin.co:       17 usuarios encontrados
+[2025-12-03 17:02:02] Procesando grupo 499/    1000: inteligenciadenegociosyenlaceecosistema@spin.co
+[2025-12-03 17:02:04] Grupo inteligenciadenegociosyenlaceecosistema@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:04] Procesando grupo 500/    1000: integracioneslending@spin.co
+[2025-12-03 17:02:06] Grupo integracioneslending@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:06] Procesando grupo 501/    1000: integracionesdevs@spin.co
+[2025-12-03 17:02:07] Grupo integracionesdevs@spin.co:        6 usuarios encontrados
+[2025-12-03 17:02:07] Procesando grupo 502/    1000: integraciones1@spin.co
+[2025-12-03 17:02:08] Grupo integraciones1@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:08] Procesando grupo 503/    1000: integracinvolarisspinpremia@spin.co
+[2025-12-03 17:02:09] Grupo integracinvolarisspinpremia@spin.co:       15 usuarios encontrados
+[2025-12-03 17:02:09] Procesando grupo 504/    1000: integracion@spin.co
+[2025-12-03 17:02:10] Grupo integracion@spin.co:       11 usuarios encontrados
+[2025-12-03 17:02:10] Procesando grupo 505/    1000: integracinspinfood@spin.co
+[2025-12-03 17:02:11] Grupo integracinspinfood@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:11] Procesando grupo 506/    1000: integracindealiados@spin.co
+[2025-12-03 17:02:13] Grupo integracindealiados@spin.co:       28 usuarios encontrados
+[2025-12-03 17:02:13] Procesando grupo 507/    1000: integracinaliados@spin.co
+[2025-12-03 17:02:14] Grupo integracinaliados@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:14] Procesando grupo 508/    1000: integracinnetpayconekta@spin.co
+[2025-12-03 17:02:15] Grupo integracinnetpayconekta@spin.co: Vacío
+[2025-12-03 17:02:15] Procesando grupo 509/    1000: institutionaldevteam@spin.co
+[2025-12-03 17:02:16] Grupo institutionaldevteam@spin.co:       23 usuarios encontrados
+[2025-12-03 17:02:16] Procesando grupo 510/    1000: institucional@spin.co
+[2025-12-03 17:02:17] Grupo institucional@spin.co:       18 usuarios encontrados
+[2025-12-03 17:02:17] Procesando grupo 511/    1000: informacingalera@spin.co
+[2025-12-03 17:02:18] Grupo informacingalera@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:18] Procesando grupo 512/    1000: informativasrepsedigital@spin.co
+[2025-12-03 17:02:20] Grupo informativasrepsedigital@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:20] Procesando grupo 513/    1000: informacincc@spin.co
+[2025-12-03 17:02:21] Grupo informacincc@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:21] Procesando grupo 514/    1000: informacincompartidaacumulacinpuntosspin@spin.co
+[2025-12-03 17:02:22] Grupo informacincompartidaacumulacinpuntosspin@spin.co: Vacío
+[2025-12-03 17:02:22] Procesando grupo 515/    1000: indicadores-intervalo@spin.co
+[2025-12-03 17:02:23] Grupo indicadores-intervalo@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:23] Procesando grupo 516/    1000: indicadoresoxxoadomicilio@spin.co
+[2025-12-03 17:02:24] Grupo indicadoresoxxoadomicilio@spin.co:       12 usuarios encontrados
+[2025-12-03 17:02:24] Procesando grupo 517/    1000: infinitegrowth@spin.co
+[2025-12-03 17:02:26] Grupo infinitegrowth@spin.co:        6 usuarios encontrados
+[2025-12-03 17:02:26] Procesando grupo 518/    1000: impeva@spin.co
+[2025-12-03 17:02:27] Grupo impeva@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:27] Procesando grupo 519/    1000: incidentmanager@spin.co
+[2025-12-03 17:02:28] Grupo incidentmanager@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:28] Procesando grupo 520/    1000: iamciberseguridad@spin.co
+[2025-12-03 17:02:29] Grupo iamciberseguridad@spin.co:        9 usuarios encontrados
+[2025-12-03 17:02:29] Procesando grupo 521/    1000: imperva@spin.co
+[2025-12-03 17:02:30] Grupo imperva@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:30] Procesando grupo 522/    1000: ideasvaluestream--bu@spin.co
+[2025-12-03 17:02:31] Grupo ideasvaluestream--bu@spin.co:        3 usuarios encontrados
+[2025-12-03 17:02:31] Procesando grupo 523/    1000: hubmty@spin.co
+[2025-12-03 17:02:32] Grupo hubmty@spin.co:        7 usuarios encontrados
+[2025-12-03 17:02:32] Procesando grupo 524/    1000: hubcdmx@spin.co
+[2025-12-03 17:02:33] Grupo hubcdmx@spin.co:        5 usuarios encontrados
+[2025-12-03 17:02:33] Procesando grupo 525/    1000: hrteamb2c@spin.co
+[2025-12-03 17:02:35] Grupo hrteamb2c@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:35] Procesando grupo 526/    1000: hrbpsgettogether@spin.co
+[2025-12-03 17:02:36] Grupo hrbpsgettogether@spin.co:       10 usuarios encontrados
+[2025-12-03 17:02:36] Procesando grupo 527/    1000: hrb2c@spin.co
+[2025-12-03 17:02:37] Grupo hrb2c@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:37] Procesando grupo 528/    1000: homepremia@spin.co
+[2025-12-03 17:02:38] Grupo homepremia@spin.co:       14 usuarios encontrados
+[2025-12-03 17:02:38] Procesando grupo 529/    1000: hr371@spin.co
+[2025-12-03 17:02:39] Grupo hr371@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:39] Procesando grupo 530/    1000: home@spin.co
+[2025-12-03 17:02:40] Grupo home@spin.co:       10 usuarios encontrados
+[2025-12-03 17:02:40] Procesando grupo 531/    1000: hardeningservidores@spin.co
+[2025-12-03 17:02:42] Grupo hardeningservidores@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:42] Procesando grupo 532/    1000: growthdigitalchannel@spin.co
+[2025-12-03 17:02:43] Grupo growthdigitalchannel@spin.co:        5 usuarios encontrados
+[2025-12-03 17:02:43] Procesando grupo 533/    1000: grupo_test_gws_m3652@spin.co
+[2025-12-03 17:02:44] Grupo grupo_test_gws_m3652@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:44] Procesando grupo 534/    1000: habilitacinadf-contenido@spin.co
+[2025-12-03 17:02:45] Grupo habilitacinadf-contenido@spin.co: Vacío
+[2025-12-03 17:02:45] Procesando grupo 535/    1000: growthbizdev@spin.co
+[2025-12-03 17:02:46] Grupo growthbizdev@spin.co:        7 usuarios encontrados
+[2025-12-03 17:02:46] Procesando grupo 536/    1000: gotomarket@spin.co
+[2025-12-03 17:02:47] Grupo gotomarket@spin.co:        7 usuarios encontrados
+[2025-12-03 17:02:47] Procesando grupo 537/    1000: gestinderiesgossi@spin.co
+[2025-12-03 17:02:48] Grupo gestinderiesgossi@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:48] Procesando grupo 538/    1000: gestinpayments@spin.co
+[2025-12-03 17:02:50] Grupo gestinpayments@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:50] Procesando grupo 539/    1000: gestiondf@spin.co
+[2025-12-03 17:02:51] Grupo gestiondf@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:51] Procesando grupo 540/    1000: fullmarketaccess@spin.co
+[2025-12-03 17:02:52] Grupo fullmarketaccess@spin.co:       51 usuarios encontrados
+[2025-12-03 17:02:52] Procesando grupo 541/    1000: genesystest@spin.co
+[2025-12-03 17:02:53] Grupo genesystest@spin.co:        4 usuarios encontrados
+[2025-12-03 17:02:53] Procesando grupo 542/    1000: foreignsuploadtoec@spin.co
+[2025-12-03 17:02:54] Grupo foreignsuploadtoec@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:54] Procesando grupo 543/    1000: frameworkqadraft@spin.co
+[2025-12-03 17:02:55] Grupo frameworkqadraft@spin.co:        1 usuarios encontrados
+[2025-12-03 17:02:55] Procesando grupo 544/    1000: formatodecontratoslegalspinpremia@spin.co
+[2025-12-03 17:02:56] Grupo formatodecontratoslegalspinpremia@spin.co:        2 usuarios encontrados
+[2025-12-03 17:02:56] Procesando grupo 545/    1000: flavors@spin.co
+[2025-12-03 17:02:58] Grupo flavors@spin.co:        9 usuarios encontrados
+[2025-12-03 17:02:58] Procesando grupo 546/    1000: fiscaldigitalfemsa@spin.co
+[2025-12-03 17:02:59] Grupo fiscaldigitalfemsa@spin.co:        3 usuarios encontrados
+[2025-12-03 17:02:59] Procesando grupo 547/    1000: firmasdecontratos@spin.co
+[2025-12-03 17:03:00] Grupo firmasdecontratos@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:00] Procesando grupo 548/    1000: fiscaldigitalfemsacom@spin.co
+[2025-12-03 17:03:01] Grupo fiscaldigitalfemsacom@spin.co:        5 usuarios encontrados
+[2025-12-03 17:03:01] Procesando grupo 549/    1000: flash@spin.co
+[2025-12-03 17:03:02] Grupo flash@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:02] Procesando grupo 550/    1000: finops@spin.co
+[2025-12-03 17:03:03] Grupo finops@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:03] Procesando grupo 551/    1000: finanzaspayments@spin.co
+[2025-12-03 17:03:04] Grupo finanzaspayments@spin.co:        4 usuarios encontrados
+[2025-12-03 17:03:04] Procesando grupo 552/    1000: financespprojects@spin.co
+[2025-12-03 17:03:06] Grupo financespprojects@spin.co:        4 usuarios encontrados
+[2025-12-03 17:03:06] Procesando grupo 553/    1000: finanzasb2b@spin.co
+[2025-12-03 17:03:07] Grupo finanzasb2b@spin.co:       56 usuarios encontrados
+[2025-12-03 17:03:07] Procesando grupo 554/    1000: financespin@spin.co
+[2025-12-03 17:03:08] Grupo financespin@spin.co:        3 usuarios encontrados
+[2025-12-03 17:03:08] Procesando grupo 555/    1000: financeb2c13@spin.co
+[2025-12-03 17:03:09] Grupo financeb2c13@spin.co:        8 usuarios encontrados
+[2025-12-03 17:03:09] Procesando grupo 556/    1000: filescapacitacion@spin.co
+[2025-12-03 17:03:10] Grupo filescapacitacion@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:10] Procesando grupo 557/    1000: financeb2c@spin.co
+[2025-12-03 17:03:11] Grupo financeb2c@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:11] Procesando grupo 558/    1000: fieldservices@spin.co
+[2025-12-03 17:03:13] Grupo fieldservices@spin.co:        6 usuarios encontrados
+[2025-12-03 17:03:13] Procesando grupo 559/    1000: fieldservicedigital@spin.co
+[2025-12-03 17:03:14] Grupo fieldservicedigital@spin.co:        5 usuarios encontrados
+[2025-12-03 17:03:14] Procesando grupo 560/    1000: femsalendingfactory833@spin.co
+[2025-12-03 17:03:15] Grupo femsalendingfactory833@spin.co:       11 usuarios encontrados
+[2025-12-03 17:03:15] Procesando grupo 561/    1000: femsamit@spin.co
+[2025-12-03 17:03:16] Grupo femsamit@spin.co: Vacío
+[2025-12-03 17:03:16] Procesando grupo 562/    1000: femsa-mit@spin.co
+[2025-12-03 17:03:17] Grupo femsa-mit@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:17] Procesando grupo 563/    1000: facturacionproveedores2023@spin.co
+[2025-12-03 17:03:18] Grupo facturacionproveedores2023@spin.co: Vacío
+[2025-12-03 17:03:18] Procesando grupo 564/    1000: facturacinproveedores2023@spin.co
+[2025-12-03 17:03:20] Grupo facturacinproveedores2023@spin.co: Vacío
+[2025-12-03 17:03:20] Procesando grupo 565/    1000: experimentsb2c@spin.co
+[2025-12-03 17:03:21] Grupo experimentsb2c@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:21] Procesando grupo 566/    1000: fpatransversal@spin.co
+[2025-12-03 17:03:22] Grupo fpatransversal@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:22] Procesando grupo 567/    1000: experimentosapizaco@spin.co
+[2025-12-03 17:03:23] Grupo experimentosapizaco@spin.co: Vacío
+[2025-12-03 17:03:23] Procesando grupo 568/    1000: experimentacinb2b@spin.co
+[2025-12-03 17:03:24] Grupo experimentacinb2b@spin.co:        3 usuarios encontrados
+[2025-12-03 17:03:24] Procesando grupo 569/    1000: evidenciaskri2025@spin.co
+[2025-12-03 17:03:25] Grupo evidenciaskri2025@spin.co:        4 usuarios encontrados
+[2025-12-03 17:03:25] Procesando grupo 570/    1000: experienciadataroles@spin.co
+[2025-12-03 17:03:27] Grupo experienciadataroles@spin.co: Vacío
+[2025-12-03 17:03:27] Procesando grupo 571/    1000: executiveassistant@spin.co
+[2025-12-03 17:03:28] Grupo executiveassistant@spin.co:        5 usuarios encontrados
+[2025-12-03 17:03:28] Procesando grupo 572/    1000: evidenciasdespei@spin.co
+[2025-12-03 17:03:29] Grupo evidenciasdespei@spin.co:        5 usuarios encontrados
+[2025-12-03 17:03:29] Procesando grupo 573/    1000: etapa01_crdito@spin.co
+[2025-12-03 17:03:30] Grupo etapa01_crdito@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:30] Procesando grupo 574/    1000: estrategiacomercial-informacin@spin.co
+[2025-12-03 17:03:31] Grupo estrategiacomercial-informacin@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:31] Procesando grupo 575/    1000: estrategiadf@spin.co
+[2025-12-03 17:03:33] Grupo estrategiadf@spin.co:       17 usuarios encontrados
+[2025-12-03 17:03:33] Procesando grupo 576/    1000: estatus-altasaproveedor@spin.co
+[2025-12-03 17:03:34] Grupo estatus-altasaproveedor@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:34] Procesando grupo 577/    1000: equiposestrategiadigitaloxxo-tw@spin.co
+[2025-12-03 17:03:35] Grupo equiposestrategiadigitaloxxo-tw@spin.co:       16 usuarios encontrados
+[2025-12-03 17:03:35] Procesando grupo 578/    1000: equipoproductolending@spin.co
+[2025-12-03 17:03:36] Grupo equipoproductolending@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:36] Procesando grupo 579/    1000: equipon2@spin.co
+[2025-12-03 17:03:37] Grupo equipon2@spin.co:        7 usuarios encontrados
+[2025-12-03 17:03:37] Procesando grupo 580/    1000: equipodesarrollo@spin.co
+[2025-12-03 17:03:38] Grupo equipodesarrollo@spin.co:        8 usuarios encontrados
+[2025-12-03 17:03:38] Procesando grupo 581/    1000: epam@spin.co
+[2025-12-03 17:03:40] Grupo epam@spin.co:        8 usuarios encontrados
+[2025-12-03 17:03:40] Procesando grupo 582/    1000: equipocomercialtienditasyfonditas@spin.co
+[2025-12-03 17:03:41] Grupo equipocomercialtienditasyfonditas@spin.co:       14 usuarios encontrados
+[2025-12-03 17:03:41] Procesando grupo 583/    1000: engineering@spin.co
+[2025-12-03 17:03:42] Grupo engineering@spin.co:       18 usuarios encontrados
+[2025-12-03 17:03:42] Procesando grupo 584/    1000: embajadorspinpremia@spin.co
+[2025-12-03 17:03:43] Grupo embajadorspinpremia@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:43] Procesando grupo 585/    1000: encuestasnps@spin.co
+[2025-12-03 17:03:44] Grupo encuestasnps@spin.co:        5 usuarios encontrados
+[2025-12-03 17:03:44] Procesando grupo 586/    1000: email_users_gws@spin.co
+[2025-12-03 17:03:45] Grupo email_users_gws@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:45] Procesando grupo 587/    1000: elgrupodelabuenaonda@spin.co
+[2025-12-03 17:03:46] Grupo elgrupodelabuenaonda@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:46] Procesando grupo 588/    1000: eightfold@spin.co
+[2025-12-03 17:03:48] Grupo eightfold@spin.co:        6 usuarios encontrados
+[2025-12-03 17:03:48] Procesando grupo 589/    1000: efectividadorganizacional@spin.co
+[2025-12-03 17:03:49] Grupo efectividadorganizacional@spin.co:        8 usuarios encontrados
+[2025-12-03 17:03:49] Procesando grupo 590/    1000: ecosistemaspin-branding@spin.co
+[2025-12-03 17:03:50] Grupo ecosistemaspin-branding@spin.co:       14 usuarios encontrados
+[2025-12-03 17:03:50] Procesando grupo 591/    1000: ecosistemaequiposdecapa@spin.co
+[2025-12-03 17:03:51] Grupo ecosistemaequiposdecapa@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:51] Procesando grupo 592/    1000: ecosistemadigital@spin.co
+[2025-12-03 17:03:52] Grupo ecosistemadigital@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:52] Procesando grupo 593/    1000: dynamics@spin.co
+[2025-12-03 17:03:53] Grupo dynamics@spin.co:        3 usuarios encontrados
+[2025-12-03 17:03:53] Procesando grupo 594/    1000: ecosistemadecapa@spin.co
+[2025-12-03 17:03:54] Grupo ecosistemadecapa@spin.co:        4 usuarios encontrados
+[2025-12-03 17:03:54] Procesando grupo 595/    1000: duediligencenetpay@spin.co
+[2025-12-03 17:03:56] Grupo duediligencenetpay@spin.co:        4 usuarios encontrados
+[2025-12-03 17:03:56] Procesando grupo 596/    1000: dtd@spin.co
+[2025-12-03 17:03:57] Grupo dtd@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:57] Procesando grupo 597/    1000: dudasnetpay@spin.co
+[2025-12-03 17:03:58] Grupo dudasnetpay@spin.co:        1 usuarios encontrados
+[2025-12-03 17:03:58] Procesando grupo 598/    1000: documentosivalua@spin.co
+[2025-12-03 17:03:59] Grupo documentosivalua@spin.co:        2 usuarios encontrados
+[2025-12-03 17:03:59] Procesando grupo 599/    1000: documentosbaby@spin.co
+[2025-12-03 17:04:00] Grupo documentosbaby@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:00] Procesando grupo 600/    1000: documentacinspei@spin.co
+[2025-12-03 17:04:01] Grupo documentacinspei@spin.co:        9 usuarios encontrados
+[2025-12-03 17:04:01] Procesando grupo 601/    1000: documentacincorporativaproveedores_coalicin@spin.co
+[2025-12-03 17:04:02] Grupo documentacincorporativaproveedores_coalicin@spin.co:        9 usuarios encontrados
+[2025-12-03 17:04:02] Procesando grupo 602/    1000: documentacionfiservsbo@spin.co
+[2025-12-03 17:04:04] Grupo documentacionfiservsbo@spin.co:       27 usuarios encontrados
+[2025-12-03 17:04:04] Procesando grupo 603/    1000: documentacinalexjimenez@spin.co
+[2025-12-03 17:04:05] Grupo documentacinalexjimenez@spin.co:        2 usuarios encontrados
+[2025-12-03 17:04:05] Procesando grupo 604/    1000: documentacincorporativadigital@spin.co
+[2025-12-03 17:04:06] Grupo documentacincorporativadigital@spin.co:        9 usuarios encontrados
+[2025-12-03 17:04:06] Procesando grupo 605/    1000: diseokitstar@spin.co
+[2025-12-03 17:04:07] Grupo diseokitstar@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:07] Procesando grupo 606/    1000: direccinpayments@spin.co
+[2025-12-03 17:04:08] Grupo direccinpayments@spin.co:        8 usuarios encontrados
+[2025-12-03 17:04:08] Procesando grupo 607/    1000: digitalfemsa-dicofra@spin.co
+[2025-12-03 17:04:09] Grupo digitalfemsa-dicofra@spin.co:        5 usuarios encontrados
+[2025-12-03 17:04:09] Procesando grupo 608/    1000: digital_mfa_sms@spin.co
+[2025-12-03 17:04:11] Grupo digital_mfa_sms@spin.co:      199 usuarios encontrados
+[2025-12-03 17:04:11] Procesando grupo 609/    1000: digital_mfa_app@spin.co
+[2025-12-03 17:04:12] Grupo digital_mfa_app@spin.co:       90 usuarios encontrados
+[2025-12-03 17:04:12] Procesando grupo 610/    1000: digital_intune_windows10@spin.co
+[2025-12-03 17:04:13] Grupo digital_intune_windows10@spin.co:      117 usuarios encontrados
+[2025-12-03 17:04:13] Procesando grupo 611/    1000: digital_intune_macos@spin.co
+[2025-12-03 17:04:14] Grupo digital_intune_macos@spin.co:       15 usuarios encontrados
+[2025-12-03 17:04:14] Procesando grupo 612/    1000: digital_intune_ios@spin.co
+[2025-12-03 17:04:15] Grupo digital_intune_ios@spin.co:        4 usuarios encontrados
+[2025-12-03 17:04:15] Procesando grupo 613/    1000: digital_admins@spin.co
+[2025-12-03 17:04:16] Grupo digital_admins@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:16] Procesando grupo 614/    1000: digitalretailmediadunnhumby@spin.co
+[2025-12-03 17:04:18] Grupo digitalretailmediadunnhumby@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:18] Procesando grupo 615/    1000: digitalrepse@spin.co
+[2025-12-03 17:04:19] Grupo digitalrepse@spin.co:        2 usuarios encontrados
+[2025-12-03 17:04:19] Procesando grupo 616/    1000: digitalorgcomplabor@spin.co
+[2025-12-03 17:04:20] Grupo digitalorgcomplabor@spin.co:        2 usuarios encontrados
+[2025-12-03 17:04:20] Procesando grupo 617/    1000: digitalhousenew@spin.co
+[2025-12-03 17:04:21] Grupo digitalhousenew@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:21] Procesando grupo 618/    1000: digitalhousevendors@spin.co
+[2025-12-03 17:04:22] Grupo digitalhousevendors@spin.co:        6 usuarios encontrados
+[2025-12-03 17:04:22] Procesando grupo 619/    1000: digitalfile@spin.co
+[2025-12-03 17:04:23] Grupo digitalfile@spin.co:        4 usuarios encontrados
+[2025-12-03 17:04:23] Procesando grupo 620/    1000: squadb2c-kam@spin.co
+[2025-12-03 17:04:24] Grupo squadb2c-kam@spin.co:        4 usuarios encontrados
+[2025-12-03 17:04:24] Procesando grupo 621/    1000: digitaldatateamspinbyoxxo@spin.co
+[2025-12-03 17:04:26] Grupo digitaldatateamspinbyoxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:26] Procesando grupo 622/    1000: digital-oxxoclub_jafher@spin.co
+[2025-12-03 17:04:27] Grupo digital-oxxoclub_jafher@spin.co:        5 usuarios encontrados
+[2025-12-03 17:04:27] Procesando grupo 623/    1000: digitaldatateam@spin.co
+[2025-12-03 17:04:28] Grupo digitaldatateam@spin.co:       10 usuarios encontrados
+[2025-12-03 17:04:28] Procesando grupo 624/    1000: dhteamcollaboration@spin.co
+[2025-12-03 17:04:29] Grupo dhteamcollaboration@spin.co:        4 usuarios encontrados
+[2025-12-03 17:04:29] Procesando grupo 625/    1000: dhoperationsvendormanagement@spin.co
+[2025-12-03 17:04:30] Grupo dhoperationsvendormanagement@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:30] Procesando grupo 626/    1000: dh-metrics2024@spin.co
+[2025-12-03 17:04:31] Grupo dh-metrics2024@spin.co:       20 usuarios encontrados
+[2025-12-03 17:04:31] Procesando grupo 627/    1000: dev-spinnegocios@spin.co
+[2025-12-03 17:04:33] Grupo dev-spinnegocios@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:33] Procesando grupo 628/    1000: devsvalorentienda@spin.co
+[2025-12-03 17:04:35] Grupo devsvalorentienda@spin.co:        9 usuarios encontrados
+[2025-12-03 17:04:35] Procesando grupo 629/    1000: designsystem@spin.co
+[2025-12-03 17:04:36] Grupo designsystem@spin.co:        7 usuarios encontrados
+[2025-12-03 17:04:36] Procesando grupo 630/    1000: devspinnegocios@spin.co
+[2025-12-03 17:04:37] Grupo devspinnegocios@spin.co:        6 usuarios encontrados
+[2025-12-03 17:04:37] Procesando grupo 631/    1000: designresearchteam@spin.co
+[2025-12-03 17:04:38] Grupo designresearchteam@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:38] Procesando grupo 632/    1000: deliveryspinteam@spin.co
+[2025-12-03 17:04:39] Grupo deliveryspinteam@spin.co:        6 usuarios encontrados
+[2025-12-03 17:04:39] Procesando grupo 633/    1000: delivery-ux@spin.co
+[2025-12-03 17:04:41] Grupo delivery-ux@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:41] Procesando grupo 634/    1000: delivery@spin.co
+[2025-12-03 17:04:42] Grupo delivery@spin.co: Vacío
+[2025-12-03 17:04:42] Procesando grupo 635/    1000: deepdivesamys@spin.co
+[2025-12-03 17:04:43] Grupo deepdivesamys@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:43] Procesando grupo 636/    1000: datospersonalesactualizacindedatos@spin.co
+[2025-12-03 17:04:44] Grupo datospersonalesactualizacindedatos@spin.co:        6 usuarios encontrados
+[2025-12-03 17:04:44] Procesando grupo 637/    1000: databricksmigrationteam@spin.co
+[2025-12-03 17:04:45] Grupo databricksmigrationteam@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:45] Procesando grupo 638/    1000: datatest@spin.co
+[2025-12-03 17:04:46] Grupo datatest@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:46] Procesando grupo 639/    1000: datastrategy@spin.co
+[2025-12-03 17:04:47] Grupo datastrategy@spin.co:        2 usuarios encontrados
+[2025-12-03 17:04:47] Procesando grupo 640/    1000: datasharepoint@spin.co
+[2025-12-03 17:04:48] Grupo datasharepoint@spin.co:        8 usuarios encontrados
+[2025-12-03 17:04:48] Procesando grupo 641/    1000: datasciencecompartido@spin.co
+[2025-12-03 17:04:50] Grupo datasciencecompartido@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:50] Procesando grupo 642/    1000: dataproccessing@spin.co
+[2025-12-03 17:04:51] Grupo dataproccessing@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:51] Procesando grupo 643/    1000: dataprivacy@spin.co
+[2025-12-03 17:04:52] Grupo dataprivacy@spin.co:        3 usuarios encontrados
+[2025-12-03 17:04:52] Procesando grupo 644/    1000: datapocbotnpremia@spin.co
+[2025-12-03 17:04:53] Grupo datapocbotnpremia@spin.co:        8 usuarios encontrados
+[2025-12-03 17:04:53] Procesando grupo 645/    1000: dataoperativa@spin.co
+[2025-12-03 17:04:54] Grupo dataoperativa@spin.co:        7 usuarios encontrados
+[2025-12-03 17:04:54] Procesando grupo 646/    1000: datamodeling@spin.co
+[2025-12-03 17:04:55] Grupo datamodeling@spin.co:        2 usuarios encontrados
+[2025-12-03 17:04:55] Procesando grupo 647/    1000: datamdeling@spin.co
+[2025-12-03 17:04:57] Grupo datamdeling@spin.co:        1 usuarios encontrados
+[2025-12-03 17:04:57] Procesando grupo 648/    1000: dataleads@spin.co
+[2025-12-03 17:04:58] Grupo dataleads@spin.co:        4 usuarios encontrados
+[2025-12-03 17:04:58] Procesando grupo 649/    1000: datainstitutional@spin.co
+[2025-12-03 17:04:59] Grupo datainstitutional@spin.co:        6 usuarios encontrados
+[2025-12-03 17:04:59] Procesando grupo 650/    1000: datadelivery@spin.co
+[2025-12-03 17:05:00] Grupo datadelivery@spin.co: Vacío
+[2025-12-03 17:05:00] Procesando grupo 651/    1000: squad-user-knowledge@spin.co
+[2025-12-03 17:05:01] Grupo squad-user-knowledge@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:01] Procesando grupo 652/    1000: dataarchitecture@spin.co
+[2025-12-03 17:05:03] Grupo dataarchitecture@spin.co:        5 usuarios encontrados
+[2025-12-03 17:05:03] Procesando grupo 653/    1000: data-spinpremia@spin.co
+[2025-12-03 17:05:04] Grupo data-spinpremia@spin.co:        5 usuarios encontrados
+[2025-12-03 17:05:04] Procesando grupo 654/    1000: data-product-iniciativa-tarjetas@spin.co
+[2025-12-03 17:05:05] Grupo data-product-iniciativa-tarjetas@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:05] Procesando grupo 655/    1000: data-bionboardingmaterials@spin.co
+[2025-12-03 17:05:06] Grupo data-bionboardingmaterials@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:06] Procesando grupo 656/    1000: data@spin.co
+[2025-12-03 17:05:07] Grupo data@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:07] Procesando grupo 657/    1000: dashboardsbf@spin.co
+[2025-12-03 17:05:09] Grupo dashboardsbf@spin.co:        5 usuarios encontrados
+[2025-12-03 17:05:09] Procesando grupo 658/    1000: spin_premia_darwin@spin.co
+[2025-12-03 17:05:10] Grupo spin_premia_darwin@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:10] Procesando grupo 659/    1000: daspinpremia@spin.co
+[2025-12-03 17:05:11] Grupo daspinpremia@spin.co:        5 usuarios encontrados
+[2025-12-03 17:05:11] Procesando grupo 660/    1000: dailytaks@spin.co
+[2025-12-03 17:05:12] Grupo dailytaks@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:12] Procesando grupo 661/    1000: dftitss@spin.co
+[2025-12-03 17:05:13] Grupo dftitss@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:13] Procesando grupo 662/    1000: cybersourcereview@spin.co
+[2025-12-03 17:05:14] Grupo cybersourcereview@spin.co:       10 usuarios encontrados
+[2025-12-03 17:05:14] Procesando grupo 663/    1000: cybersourcereject@spin.co
+[2025-12-03 17:05:15] Grupo cybersourcereject@spin.co:        9 usuarios encontrados
+[2025-12-03 17:05:15] Procesando grupo 664/    1000: cybersource@spin.co
+[2025-12-03 17:05:16] Grupo cybersource@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:17] Procesando grupo 665/    1000: cxtransversalqatraining@spin.co
+[2025-12-03 17:05:18] Grupo cxtransversalqatraining@spin.co:        6 usuarios encontrados
+[2025-12-03 17:05:18] Procesando grupo 666/    1000: cybersourceaccept@spin.co
+[2025-12-03 17:05:19] Grupo cybersourceaccept@spin.co:        9 usuarios encontrados
+[2025-12-03 17:05:19] Procesando grupo 667/    1000: materialescxtransversal@spin.co
+[2025-12-03 17:05:20] Grupo materialescxtransversal@spin.co:       10 usuarios encontrados
+[2025-12-03 17:05:20] Procesando grupo 668/    1000: actualizacionmanualcc@spin.co
+[2025-12-03 17:05:21] Grupo actualizacionmanualcc@spin.co:        6 usuarios encontrados
+[2025-12-03 17:05:21] Procesando grupo 669/    1000: cx-digitalfemsa@spin.co
+[2025-12-03 17:05:22] Grupo cx-digitalfemsa@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:22] Procesando grupo 670/    1000: cx-ws@spin.co
+[2025-12-03 17:05:23] Grupo cx-ws@spin.co:        4 usuarios encontrados
+[2025-12-03 17:05:23] Procesando grupo 671/    1000: cxcustomersupport@spin.co
+[2025-12-03 17:05:24] Grupo cxcustomersupport@spin.co:       12 usuarios encontrados
+[2025-12-03 17:05:24] Procesando grupo 672/    1000: cx-auronix@spin.co
+[2025-12-03 17:05:26] Grupo cx-auronix@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:26] Procesando grupo 673/    1000: cuestionariosmesasservicio@spin.co
+[2025-12-03 17:05:27] Grupo cuestionariosmesasservicio@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:27] Procesando grupo 674/    1000: cti-hunting@spin.co
+[2025-12-03 17:05:28] Grupo cti-hunting@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:28] Procesando grupo 675/    1000: crmspinpremia@spin.co
+[2025-12-03 17:05:29] Grupo crmspinpremia@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:29] Procesando grupo 676/    1000: criticalteamworkstreamsecosistemab2c@spin.co
+[2025-12-03 17:05:30] Grupo criticalteamworkstreamsecosistemab2c@spin.co:       12 usuarios encontrados
+[2025-12-03 17:05:30] Procesando grupo 677/    1000: creditleadership@spin.co
+[2025-12-03 17:05:31] Grupo creditleadership@spin.co:       32 usuarios encontrados
+[2025-12-03 17:05:31] Procesando grupo 678/    1000: alineacindeactividades-ofertas@spin.co
+[2025-12-03 17:05:33] Grupo alineacindeactividades-ofertas@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:33] Procesando grupo 679/    1000: crm-ops-b2c@spin.co
+[2025-12-03 17:05:34] Grupo crm-ops-b2c@spin.co:        4 usuarios encontrados
+[2025-12-03 17:05:34] Procesando grupo 680/    1000: corporatestaffareas@spin.co
+[2025-12-03 17:05:35] Grupo corporatestaffareas@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:35] Procesando grupo 681/    1000: costos-operaciones@spin.co
+[2025-12-03 17:05:36] Grupo costos-operaciones@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:36] Procesando grupo 682/    1000: credit@spin.co
+[2025-12-03 17:05:37] Grupo credit@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:37] Procesando grupo 683/    1000: corpdev@spin.co
+[2025-12-03 17:05:38] Grupo corpdev@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:38] Procesando grupo 684/    1000: corex-nfc@spin.co
+[2025-12-03 17:05:41] Grupo corex-nfc@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:41] Procesando grupo 685/    1000: corebackend@spin.co
+[2025-12-03 17:05:42] Grupo corebackend@spin.co:       14 usuarios encontrados
+[2025-12-03 17:05:42] Procesando grupo 686/    1000: coremassificationsp@spin.co
+[2025-12-03 17:05:43] Grupo coremassificationsp@spin.co:        6 usuarios encontrados
+[2025-12-03 17:05:43] Procesando grupo 687/    1000: coordrespuesta@spin.co
+[2025-12-03 17:05:44] Grupo coordrespuesta@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:44] Procesando grupo 688/    1000: corex-terminal2kozenmvp@spin.co
+[2025-12-03 17:05:45] Grupo corex-terminal2kozenmvp@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:45] Procesando grupo 689/    1000: controlinternotransversal@spin.co
+[2025-12-03 17:05:47] Grupo controlinternotransversal@spin.co:        4 usuarios encontrados
+[2025-12-03 17:05:47] Procesando grupo 690/    1000: contraloriaspin-netpay@spin.co
+[2025-12-03 17:05:48] Grupo contraloriaspin-netpay@spin.co:        6 usuarios encontrados
+[2025-12-03 17:05:48] Procesando grupo 691/    1000: contratojdbm@spin.co
+[2025-12-03 17:05:49] Grupo contratojdbm@spin.co: Vacío
+[2025-12-03 17:05:49] Procesando grupo 692/    1000: controldegastosdigital@spin.co
+[2025-12-03 17:05:50] Grupo controldegastosdigital@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:50] Procesando grupo 693/    1000: contralorianetpay@spin.co
+[2025-12-03 17:05:51] Grupo contralorianetpay@spin.co:        5 usuarios encontrados
+[2025-12-03 17:05:51] Procesando grupo 694/    1000: contenidosoxxogas@spin.co
+[2025-12-03 17:05:52] Grupo contenidosoxxogas@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:52] Procesando grupo 695/    1000: consultoria-rh-mkt@spin.co
+[2025-12-03 17:05:53] Grupo consultoria-rh-mkt@spin.co:        1 usuarios encontrados
+[2025-12-03 17:05:53] Procesando grupo 696/    1000: consultamktdigital@spin.co
+[2025-12-03 17:05:55] Grupo consultamktdigital@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:55] Procesando grupo 697/    1000: informacinfinancieranormatividad@spin.co
+[2025-12-03 17:05:56] Grupo informacinfinancieranormatividad@spin.co:        3 usuarios encontrados
+[2025-12-03 17:05:56] Procesando grupo 698/    1000: conexindfvisa@spin.co
+[2025-12-03 17:05:57] Grupo conexindfvisa@spin.co:        2 usuarios encontrados
+[2025-12-03 17:05:57] Procesando grupo 699/    1000: conexindftecdemonterrey@spin.co
+[2025-12-03 17:05:58] Grupo conexindftecdemonterrey@spin.co:        4 usuarios encontrados
+[2025-12-03 17:05:58] Procesando grupo 700/    1000: conexindfrayadoscopy@spin.co
+[2025-12-03 17:05:59] Grupo conexindfrayadoscopy@spin.co:        4 usuarios encontrados
+[2025-12-03 17:05:59] Procesando grupo 701/    1000: conexindfoxxo@spin.co
+[2025-12-03 17:06:00] Grupo conexindfoxxo@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:00] Procesando grupo 702/    1000: conexindfoxxogas@spin.co
+[2025-12-03 17:06:02] Grupo conexindfoxxogas@spin.co:        4 usuarios encontrados
+[2025-12-03 17:06:02] Procesando grupo 703/    1000: conexindforacle@spin.co
+[2025-12-03 17:06:03] Grupo conexindforacle@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:03] Procesando grupo 704/    1000: conexindfgoogle@spin.co
+[2025-12-03 17:06:04] Grupo conexindfgoogle@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:04] Procesando grupo 705/    1000: conexindfdoatota@spin.co
+[2025-12-03 17:06:06] Grupo conexindfdoatota@spin.co:        4 usuarios encontrados
+[2025-12-03 17:06:06] Procesando grupo 706/    1000: conexindffarmacias@spin.co
+[2025-12-03 17:06:07] Grupo conexindffarmacias@spin.co:        8 usuarios encontrados
+[2025-12-03 17:06:07] Procesando grupo 707/    1000: conexindfamazon@spin.co
+[2025-12-03 17:06:08] Grupo conexindfamazon@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:08] Procesando grupo 708/    1000: conexinbufemsacondf@spin.co
+[2025-12-03 17:06:09] Grupo conexinbufemsacondf@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:09] Procesando grupo 709/    1000: conciliaciongravtytest@spin.co
+[2025-12-03 17:06:10] Grupo conciliaciongravtytest@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:10] Procesando grupo 710/    1000: conciliacion@spin.co
+[2025-12-03 17:06:11] Grupo conciliacion@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:11] Procesando grupo 711/    1000: conciliacin@spin.co
+[2025-12-03 17:06:13] Grupo conciliacin@spin.co:        5 usuarios encontrados
+[2025-12-03 17:06:13] Procesando grupo 712/    1000: comunidadqa@spin.co
+[2025-12-03 17:06:14] Grupo comunidadqa@spin.co:       29 usuarios encontrados
+[2025-12-03 17:06:14] Procesando grupo 713/    1000: comunidades@spin.co
+[2025-12-03 17:06:15] Grupo comunidades@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:15] Procesando grupo 714/    1000: comunidadnet@spin.co
+[2025-12-03 17:06:16] Grupo comunidadnet@spin.co:       20 usuarios encontrados
+[2025-12-03 17:06:16] Procesando grupo 715/    1000: comunidadmobile@spin.co
+[2025-12-03 17:06:17] Grupo comunidadmobile@spin.co:        9 usuarios encontrados
+[2025-12-03 17:06:17] Procesando grupo 716/    1000: comunidaddevops@spin.co
+[2025-12-03 17:06:18] Grupo comunidaddevops@spin.co:       11 usuarios encontrados
+[2025-12-03 17:06:18] Procesando grupo 717/    1000: comunicadosnetpay@spin.co
+[2025-12-03 17:06:20] Grupo comunicadosnetpay@spin.co:        1 usuarios encontrados
+[2025-12-03 17:06:20] Procesando grupo 718/    1000: comunidaddev@spin.co
+[2025-12-03 17:06:21] Grupo comunidaddev@spin.co:       36 usuarios encontrados
+[2025-12-03 17:06:21] Procesando grupo 719/    1000: comunicacinhab@spin.co
+[2025-12-03 17:06:22] Grupo comunicacinhab@spin.co:        1 usuarios encontrados
+[2025-12-03 17:06:22] Procesando grupo 720/    1000: completedprofiles@spin.co
+[2025-12-03 17:06:23] Grupo completedprofiles@spin.co:       20 usuarios encontrados
+[2025-12-03 17:06:23] Procesando grupo 721/    1000: comprobacionesamexsbo@spin.co
+[2025-12-03 17:06:24] Grupo comprobacionesamexsbo@spin.co:        5 usuarios encontrados
+[2025-12-03 17:06:24] Procesando grupo 722/    1000: comporg-confidentialinfo@spin.co
+[2025-12-03 17:06:25] Grupo comporg-confidentialinfo@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:25] Procesando grupo 723/    1000: comms@spin.co
+[2025-12-03 17:06:26] Grupo comms@spin.co:        1 usuarios encontrados
+[2025-12-03 17:06:26] Procesando grupo 724/    1000: comitdeeticaeinvestigaciones-confidencial@spin.co
+[2025-12-03 17:06:27] Grupo comitdeeticaeinvestigaciones-confidencial@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:27] Procesando grupo 725/    1000: comercialyoperaciones@spin.co
+[2025-12-03 17:06:28] Grupo comercialyoperaciones@spin.co:       17 usuarios encontrados
+[2025-12-03 17:06:29] Procesando grupo 726/    1000: comitedeticadaf@spin.co
+[2025-12-03 17:06:30] Grupo comitedeticadaf@spin.co:        5 usuarios encontrados
+[2025-12-03 17:06:30] Procesando grupo 727/    1000: colaboracinabasto@spin.co
+[2025-12-03 17:06:31] Grupo colaboracinabasto@spin.co:        8 usuarios encontrados
+[2025-12-03 17:06:31] Procesando grupo 728/    1000: coeqa@spin.co
+[2025-12-03 17:06:32] Grupo coeqa@spin.co:        5 usuarios encontrados
+[2025-12-03 17:06:32] Procesando grupo 729/    1000: coeqaautomation@spin.co
+[2025-12-03 17:06:33] Grupo coeqaautomation@spin.co:       16 usuarios encontrados
+[2025-12-03 17:06:33] Procesando grupo 730/    1000: coeorgcombenefits@spin.co
+[2025-12-03 17:06:34] Grupo coeorgcombenefits@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:34] Procesando grupo 731/    1000: coe-gringotts-team@spin.co
+[2025-12-03 17:06:35] Grupo coe-gringotts-team@spin.co:        7 usuarios encontrados
+[2025-12-03 17:06:35] Procesando grupo 732/    1000: coalicincxtoolsimplementation@spin.co
+[2025-12-03 17:06:36] Grupo coalicincxtoolsimplementation@spin.co:       16 usuarios encontrados
+[2025-12-03 17:06:36] Procesando grupo 733/    1000: clusterti@spin.co
+[2025-12-03 17:06:38] Grupo clusterti@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:38] Procesando grupo 734/    1000: cloud-operations@spin.co
+[2025-12-03 17:06:39] Grupo cloud-operations@spin.co:        5 usuarios encontrados
+[2025-12-03 17:06:39] Procesando grupo 735/    1000: checkpoint_inline_outgoing@spin.co
+[2025-12-03 17:06:40] Grupo checkpoint_inline_outgoing@spin.co:        7 usuarios encontrados
+[2025-12-03 17:06:40] Procesando grupo 736/    1000: checkpoint_inline_incoming@spin.co
+[2025-12-03 17:06:47] Grupo checkpoint_inline_incoming@spin.co:     2528 usuarios encontrados
+[2025-12-03 17:06:47] Procesando grupo 737/    1000: checklistktlending@spin.co
+[2025-12-03 17:06:48] Grupo checklistktlending@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:48] Procesando grupo 738/    1000: chatbot@spin.co
+[2025-12-03 17:06:50] Grupo chatbot@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:50] Procesando grupo 739/    1000: charepoint@spin.co
+[2025-12-03 17:06:51] Grupo charepoint@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:51] Procesando grupo 740/    1000: chapter.core.mobile@spin.co
+[2025-12-03 17:06:52] Grupo chapter.core.mobile@spin.co:      160 usuarios encontrados
+[2025-12-03 17:06:52] Procesando grupo 741/    1000: certificadosborradossegurosspinbyoxxo@spin.co
+[2025-12-03 17:06:53] Grupo certificadosborradossegurosspinbyoxxo@spin.co:        1 usuarios encontrados
+[2025-12-03 17:06:53] Procesando grupo 742/    1000: centraldevalor@spin.co
+[2025-12-03 17:06:54] Grupo centraldevalor@spin.co:        2 usuarios encontrados
+[2025-12-03 17:06:54] Procesando grupo 743/    1000: celulapilotoparahrbps@spin.co
+[2025-12-03 17:06:55] Grupo celulapilotoparahrbps@spin.co:        4 usuarios encontrados
+[2025-12-03 17:06:55] Procesando grupo 744/    1000: cdp@spin.co
+[2025-12-03 17:06:56] Grupo cdp@spin.co:        1 usuarios encontrados
+[2025-12-03 17:06:56] Procesando grupo 745/    1000: casosoxxoescucha@spin.co
+[2025-12-03 17:06:57] Grupo casosoxxoescucha@spin.co:        3 usuarios encontrados
+[2025-12-03 17:06:57] Procesando grupo 746/    1000: capacitacinreasinternas@spin.co
+[2025-12-03 17:06:58] Grupo capacitacinreasinternas@spin.co:        9 usuarios encontrados
+[2025-12-03 17:06:58] Procesando grupo 747/    1000: capacitacinaliados@spin.co
+[2025-12-03 17:07:00] Grupo capacitacinaliados@spin.co:       10 usuarios encontrados
+[2025-12-03 17:07:00] Procesando grupo 748/    1000: campaasoxxo2023@spin.co
+[2025-12-03 17:07:01] Grupo campaasoxxo2023@spin.co:        8 usuarios encontrados
+[2025-12-03 17:07:01] Procesando grupo 749/    1000: calendarioreleasetransversal@spin.co
+[2025-12-03 17:07:02] Grupo calendarioreleasetransversal@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:02] Procesando grupo 750/    1000: calendarcrm@spin.co
+[2025-12-03 17:07:03] Grupo calendarcrm@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:03] Procesando grupo 751/    1000: calendariopocpersonalloans@spin.co
+[2025-12-03 17:07:04] Grupo calendariopocpersonalloans@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:04] Procesando grupo 752/    1000: businessanalyticsdash@spin.co
+[2025-12-03 17:07:05] Grupo businessanalyticsdash@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:05] Procesando grupo 753/    1000: braze2@spin.co
+[2025-12-03 17:07:06] Grupo braze2@spin.co:        6 usuarios encontrados
+[2025-12-03 17:07:06] Procesando grupo 754/    1000: braze@spin.co
+[2025-12-03 17:07:07] Grupo braze@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:07] Procesando grupo 755/    1000: bugbuster@spin.co
+[2025-12-03 17:07:09] Grupo bugbuster@spin.co:        4 usuarios encontrados
+[2025-12-03 17:07:09] Procesando grupo 756/    1000: brandonhernandez@spin.co
+[2025-12-03 17:07:10] Grupo brandonhernandez@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:10] Procesando grupo 757/    1000: bpspinpremia@spin.co
+[2025-12-03 17:07:11] Grupo bpspinpremia@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:11] Procesando grupo 758/    1000: bpaas@spin.co
+[2025-12-03 17:07:12] Grupo bpaas@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:12] Procesando grupo 759/    1000: brandingspinplus@spin.co
+[2025-12-03 17:07:13] Grupo brandingspinplus@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:13] Procesando grupo 760/    1000: boletosexperienciasymomentoswow@spin.co
+[2025-12-03 17:07:14] Grupo boletosexperienciasymomentoswow@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:14] Procesando grupo 761/    1000: bizops_digitalfemsa@spin.co
+[2025-12-03 17:07:15] Grupo bizops_digitalfemsa@spin.co:        6 usuarios encontrados
+[2025-12-03 17:07:15] Procesando grupo 762/    1000: foundations@spin.co
+[2025-12-03 17:07:16] Grupo foundations@spin.co:       11 usuarios encontrados
+[2025-12-03 17:07:16] Procesando grupo 763/    1000: bibliotecamarketing@spin.co
+[2025-12-03 17:07:17] Grupo bibliotecamarketing@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:17] Procesando grupo 764/    1000: beneficioscanal@spin.co
+[2025-12-03 17:07:19] Grupo beneficioscanal@spin.co:       17 usuarios encontrados
+[2025-12-03 17:07:19] Procesando grupo 765/    1000: bannersapp@spin.co
+[2025-12-03 17:07:20] Grupo bannersapp@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:20] Procesando grupo 766/    1000: backofficcedf@spin.co
+[2025-12-03 17:07:21] Grupo backofficcedf@spin.co:        5 usuarios encontrados
+[2025-12-03 17:07:21] Procesando grupo 767/    1000: backlogmobile@spin.co
+[2025-12-03 17:07:22] Grupo backlogmobile@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:22] Procesando grupo 768/    1000: backlogspinkio@spin.co
+[2025-12-03 17:07:23] Grupo backlogspinkio@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:23] Procesando grupo 769/    1000: backloglending20productodev@spin.co
+[2025-12-03 17:07:24] Grupo backloglending20productodev@spin.co:        4 usuarios encontrados
+[2025-12-03 17:07:24] Procesando grupo 770/    1000: contratospendientes@spin.co
+[2025-12-03 17:07:25] Grupo contratospendientes@spin.co: Vacío
+[2025-12-03 17:07:25] Procesando grupo 771/    1000: b2bsp@spin.co
+[2025-12-03 17:07:26] Grupo b2bsp@spin.co:        6 usuarios encontrados
+[2025-12-03 17:07:26] Procesando grupo 772/    1000: b2b2c-netpay-premia@spin.co
+[2025-12-03 17:07:28] Grupo b2b2c-netpay-premia@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:28] Procesando grupo 773/    1000: b2bpremia-podinstitucional@spin.co
+[2025-12-03 17:07:29] Grupo b2bpremia-podinstitucional@spin.co:        5 usuarios encontrados
+[2025-12-03 17:07:29] Procesando grupo 774/    1000: b2bmiddlemarket@spin.co
+[2025-12-03 17:07:30] Grupo b2bmiddlemarket@spin.co:       20 usuarios encontrados
+[2025-12-03 17:07:30] Procesando grupo 775/    1000: b2b-dp@spin.co
+[2025-12-03 17:07:31] Grupo b2b-dp@spin.co:        6 usuarios encontrados
+[2025-12-03 17:07:31] Procesando grupo 776/    1000: b2b-devops@spin.co
+[2025-12-03 17:07:32] Grupo b2b-devops@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:32] Procesando grupo 777/    1000: b2b-mms@spin.co
+[2025-12-03 17:07:33] Grupo b2b-mms@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:33] Procesando grupo 778/    1000: b2b@spin.co
+[2025-12-03 17:07:34] Grupo b2b@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:34] Procesando grupo 779/    1000: avancecapoxxogas@spin.co
+[2025-12-03 17:07:35] Grupo avancecapoxxogas@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:35] Procesando grupo 780/    1000: b2b327@spin.co
+[2025-12-03 17:07:36] Grupo b2b327@spin.co:        9 usuarios encontrados
+[2025-12-03 17:07:36] Procesando grupo 781/    1000: auditoras@spin.co
+[2025-12-03 17:07:38] Grupo auditoras@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:38] Procesando grupo 782/    1000: auditoriasspei2023@spin.co
+[2025-12-03 17:07:39] Grupo auditoriasspei2023@spin.co:        8 usuarios encontrados
+[2025-12-03 17:07:39] Procesando grupo 783/    1000: automationpermisos@spin.co
+[2025-12-03 17:07:40] Grupo automationpermisos@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:40] Procesando grupo 784/    1000: auditorainterna-b2b@spin.co
+[2025-12-03 17:07:41] Grupo auditorainterna-b2b@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:41] Procesando grupo 785/    1000: auditoriainterna@spin.co
+[2025-12-03 17:07:42] Grupo auditoriainterna@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:42] Procesando grupo 786/    1000: auditora@spin.co
+[2025-12-03 17:07:43] Grupo auditora@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:43] Procesando grupo 787/    1000: auditoriacnbv@spin.co
+[2025-12-03 17:07:44] Grupo auditoriacnbv@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:44] Procesando grupo 788/    1000: arquitecturadigital@spin.co
+[2025-12-03 17:07:45] Grupo arquitecturadigital@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:45] Procesando grupo 789/    1000: artesparrillaspinpremia@spin.co
+[2025-12-03 17:07:46] Grupo artesparrillaspinpremia@spin.co:        9 usuarios encontrados
+[2025-12-03 17:07:46] Procesando grupo 790/    1000: asistencia_b2b@spin.co
+[2025-12-03 17:07:47] Grupo asistencia_b2b@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:47] Procesando grupo 791/    1000: archivospowerbioxg@spin.co
+[2025-12-03 17:07:49] Grupo archivospowerbioxg@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:49] Procesando grupo 792/    1000: architecture@spin.co
+[2025-12-03 17:07:50] Grupo architecture@spin.co:       20 usuarios encontrados
+[2025-12-03 17:07:50] Procesando grupo 793/    1000: appvengersteam@spin.co
+[2025-12-03 17:07:51] Grupo appvengersteam@spin.co:        2 usuarios encontrados
+[2025-12-03 17:07:51] Procesando grupo 794/    1000: apifirst@spin.co
+[2025-12-03 17:07:52] Grupo apifirst@spin.co:        7 usuarios encontrados
+[2025-12-03 17:07:52] Procesando grupo 795/    1000: andattidrivewow2023@spin.co
+[2025-12-03 17:07:53] Grupo andattidrivewow2023@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:53] Procesando grupo 796/    1000: andattidrivewow@spin.co
+[2025-12-03 17:07:54] Grupo andattidrivewow@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:54] Procesando grupo 797/    1000: andattidrive@spin.co
+[2025-12-03 17:07:55] Grupo andattidrive@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:55] Procesando grupo 798/    1000: analyticsformplanner@spin.co
+[2025-12-03 17:07:56] Grupo analyticsformplanner@spin.co:        3 usuarios encontrados
+[2025-12-03 17:07:56] Procesando grupo 799/    1000: analyticsb2c@spin.co
+[2025-12-03 17:07:57] Grupo analyticsb2c@spin.co:        1 usuarios encontrados
+[2025-12-03 17:07:57] Procesando grupo 800/    1000: anlisisydefinicindeitems@spin.co
+[2025-12-03 17:07:58] Grupo anlisisydefinicindeitems@spin.co: Vacío
+[2025-12-03 17:07:58] Procesando grupo 801/    1000: resultadosdenegociodeldigitaldatateam@spin.co
+[2025-12-03 17:07:59] Grupo resultadosdenegociodeldigitaldatateam@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:00] Procesando grupo 802/    1000: alldigital@spin.co
+[2025-12-03 17:08:05] Grupo alldigital@spin.co:     2238 usuarios encontrados
+[2025-12-03 17:08:05] Procesando grupo 803/    1000: affinityprogramvolarisspinpremia@spin.co
+[2025-12-03 17:08:06] Grupo affinityprogramvolarisspinpremia@spin.co:        5 usuarios encontrados
+[2025-12-03 17:08:06] Procesando grupo 804/    1000: alianzasestratgicas@spin.co
+[2025-12-03 17:08:07] Grupo alianzasestratgicas@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:07] Procesando grupo 805/    1000: aliadosspinpremia@spin.co
+[2025-12-03 17:08:09] Grupo aliadosspinpremia@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:09] Procesando grupo 806/    1000: adrianestrada@spin.co
+[2025-12-03 17:08:10] Grupo adrianestrada@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:10] Procesando grupo 807/    1000: adfaccelerationproject@spin.co
+[2025-12-03 17:08:11] Grupo adfaccelerationproject@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:11] Procesando grupo 808/    1000: actividadesseguimientosnetpayinterno@spin.co
+[2025-12-03 17:08:12] Grupo actividadesseguimientosnetpayinterno@spin.co:        2 usuarios encontrados
+[2025-12-03 17:08:12] Procesando grupo 809/    1000: activiadesdrg@spin.co
+[2025-12-03 17:08:13] Grupo activiadesdrg@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:13] Procesando grupo 810/    1000: actividadesjorgeheras@spin.co
+[2025-12-03 17:08:14] Grupo actividadesjorgeheras@spin.co: Vacío
+[2025-12-03 17:08:14] Procesando grupo 811/    1000: mobiledev@spin.co
+[2025-12-03 17:08:16] Grupo mobiledev@spin.co:       17 usuarios encontrados
+[2025-12-03 17:08:16] Procesando grupo 812/    1000: actionlogpiloto@spin.co
+[2025-12-03 17:08:17] Grupo actionlogpiloto@spin.co:        4 usuarios encontrados
+[2025-12-03 17:08:17] Procesando grupo 813/    1000: accesossistemaspc@spin.co
+[2025-12-03 17:08:18] Grupo accesossistemaspc@spin.co:        2 usuarios encontrados
+[2025-12-03 17:08:18] Procesando grupo 814/    1000: acqforpayfacs@spin.co
+[2025-12-03 17:08:19] Grupo acqforpayfacs@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:19] Procesando grupo 815/    1000: account@spin.co
+[2025-12-03 17:08:20] Grupo account@spin.co:       11 usuarios encontrados
+[2025-12-03 17:08:20] Procesando grupo 816/    1000: acceso@spin.co
+[2025-12-03 17:08:21] Grupo acceso@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:21] Procesando grupo 817/    1000: abastooxg@spin.co
+[2025-12-03 17:08:22] Grupo abastooxg@spin.co:        5 usuarios encontrados
+[2025-12-03 17:08:22] Procesando grupo 818/    1000: 240801migrarmongodbadocumentdb@spin.co
+[2025-12-03 17:08:23] Grupo 240801migrarmongodbadocumentdb@spin.co:        1 usuarios encontrados
+[2025-12-03 17:08:23] Procesando grupo 819/    1000: spinti@spinbyoxxo.com.mx
+[2025-12-03 17:08:25] Grupo spinti@spinbyoxxo.com.mx:      107 usuarios encontrados
+[2025-12-03 17:08:25] Procesando grupo 820/    1000: spin.qa.engineering@spinbyoxxo.com.mx
+[2025-12-03 17:08:26] Grupo spin.qa.engineering@spinbyoxxo.com.mx:       28 usuarios encontrados
+[2025-12-03 17:08:26] Procesando grupo 821/    1000: soporte.spei.karpay@spinbyoxxo.com.mx
+[2025-12-03 17:08:27] Grupo soporte.spei.karpay@spinbyoxxo.com.mx:        5 usuarios encontrados
+[2025-12-03 17:08:27] Procesando grupo 822/    1000: team.seguridad@spinbyoxxo.com.mx
+[2025-12-03 17:08:28] Grupo team.seguridad@spinbyoxxo.com.mx:       11 usuarios encontrados
+[2025-12-03 17:08:28] Procesando grupo 823/    1000: operacionti.spei@spinbyoxxo.com.mx
+[2025-12-03 17:08:29] Grupo operacionti.spei@spinbyoxxo.com.mx:       12 usuarios encontrados
+[2025-12-03 17:08:29] Procesando grupo 824/    1000: mobile@spinbyoxxo.com.mx
+[2025-12-03 17:08:30] Grupo mobile@spinbyoxxo.com.mx:        3 usuarios encontrados
+[2025-12-03 17:08:30] Procesando grupo 825/    1000: lista-prueba-spin-pehr@spinbyoxxo.com.mx
+[2025-12-03 17:08:31] Grupo lista-prueba-spin-pehr@spinbyoxxo.com.mx:        1 usuarios encontrados
+[2025-12-03 17:08:31] Procesando grupo 826/    1000: ffss-spei-stage@spinbyoxxo.com.mx
+[2025-12-03 17:08:32] Grupo ffss-spei-stage@spinbyoxxo.com.mx:        5 usuarios encontrados
+[2025-12-03 17:08:32] Procesando grupo 827/    1000: ffss-spei-qa@spinbyoxxo.com.mx
+[2025-12-03 17:08:34] Grupo ffss-spei-qa@spinbyoxxo.com.mx:        5 usuarios encontrados
+[2025-12-03 17:08:34] Procesando grupo 828/    1000: ffss-spei-dev@spinbyoxxo.com.mx
+[2025-12-03 17:08:35] Grupo ffss-spei-dev@spinbyoxxo.com.mx:        5 usuarios encontrados
+[2025-12-03 17:08:35] Procesando grupo 829/    1000: cloud-spin-sap-qa@spinbyoxxo.com.mx
+[2025-12-03 17:08:36] Grupo cloud-spin-sap-qa@spinbyoxxo.com.mx:        5 usuarios encontrados
+[2025-12-03 17:08:36] Procesando grupo 830/    1000: cloud-spin-eng@spinbyoxxo.com.mx
+[2025-12-03 17:08:37] Grupo cloud-spin-eng@spinbyoxxo.com.mx:        8 usuarios encontrados
+[2025-12-03 17:08:37] Procesando grupo 831/    1000: virgo@spinbyoxxo.com.mx
+[2025-12-03 17:08:38] Grupo virgo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:38] Procesando grupo 832/    1000: andromeda@spinbyoxxo.com.mx
+[2025-12-03 17:08:39] Grupo andromeda@spinbyoxxo.com.mx:        4 usuarios encontrados
+[2025-12-03 17:08:39] Procesando grupo 833/    1000: valuedriven@spinbyoxxo.com.mx
+[2025-12-03 17:08:40] Grupo valuedriven@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:40] Procesando grupo 834/    1000: virgo1@spinbyoxxo.com.mx
+[2025-12-03 17:08:41] Grupo virgo1@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:41] Procesando grupo 835/    1000: uxresearcchteamlsbo@spinbyoxxo.com.mx
+[2025-12-03 17:08:42] Grupo uxresearcchteamlsbo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:42] Procesando grupo 836/    1000: util@spinbyoxxo.com.mx
+[2025-12-03 17:08:43] Grupo util@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:43] Procesando grupo 837/    1000: unemanagement@spinbyoxxo.com.mx
+[2025-12-03 17:08:44] Grupo unemanagement@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:44] Procesando grupo 838/    1000: tryout@spinbyoxxo.com.mx
+[2025-12-03 17:08:45] Grupo tryout@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:45] Procesando grupo 839/    1000: transformacionspin@spinbyoxxo.com.mx
+[2025-12-03 17:08:47] Grupo transformacionspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:47] Procesando grupo 840/    1000: transferjmja@spinbyoxxo.com.mx
+[2025-12-03 17:08:48] Grupo transferjmja@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:48] Procesando grupo 841/    1000: spinbyoxxotopscustomercustomerexperience@spinbyoxxo.com.mx
+[2025-12-03 17:08:49] Grupo spinbyoxxotopscustomercustomerexperience@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:49] Procesando grupo 842/    1000: ti.spei@spinbyoxxo.com.mx
+[2025-12-03 17:08:50] Grupo ti.spei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:50] Procesando grupo 843/    1000: text@spinbyoxxo.com.mx
+[2025-12-03 17:08:51] Grupo text@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:51] Procesando grupo 844/    1000: test-data@spinbyoxxo.com.mx
+[2025-12-03 17:08:52] Grupo test-data@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:52] Procesando grupo 845/    1000: test623@spinbyoxxo.com.mx
+[2025-12-03 17:08:53] Grupo test623@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:53] Procesando grupo 846/    1000: test@spinbyoxxo.com.mx
+[2025-12-03 17:08:54] Grupo test@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:54] Procesando grupo 847/    1000: frontend@spinbyoxxo.com.mx
+[2025-12-03 17:08:55] Grupo frontend@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:55] Procesando grupo 848/    1000: teamoperacionesbackoffice@spinbyoxxo.com.mx
+[2025-12-03 17:08:56] Grupo teamoperacionesbackoffice@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:56] Procesando grupo 849/    1000: teamfronendspin@spinbyoxxo.com.mx
+[2025-12-03 17:08:57] Grupo teamfronendspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:57] Procesando grupo 850/    1000: teamdiseo@spinbyoxxo.com.mx
+[2025-12-03 17:08:58] Grupo teamdiseo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:58] Procesando grupo 851/    1000: teambo@spinbyoxxo.com.mx
+[2025-12-03 17:08:59] Grupo teambo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:08:59] Procesando grupo 852/    1000: sprtinn@spinbyoxxo.com.mx
+[2025-12-03 17:09:01] Grupo sprtinn@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:01] Procesando grupo 853/    1000: spinbyoxxo.fieldservices@spinbyoxxo.com.mx
+[2025-12-03 17:09:01] Grupo spinbyoxxo.fieldservices@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:01] Procesando grupo 854/    1000: tauro@spinbyoxxo.com.mx
+[2025-12-03 17:09:02] Grupo tauro@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:02] Procesando grupo 855/    1000: spinbyoxxocc@spinbyoxxo.com.mx
+[2025-12-03 17:09:03] Grupo spinbyoxxocc@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:03] Procesando grupo 856/    1000: spin_si@spinbyoxxo.com.mx
+[2025-12-03 17:09:04] Grupo spin_si@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:04] Procesando grupo 857/    1000: spinft.oxxo@spinbyoxxo.com.mx
+[2025-12-03 17:09:05] Grupo spinft.oxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:05] Procesando grupo 858/    1000: spin_seguridad@spinbyoxxo.com.mx
+[2025-12-03 17:09:06] Grupo spin_seguridad@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:06] Procesando grupo 859/    1000: spinjm@spinbyoxxo.com.mx
+[2025-12-03 17:09:07] Grupo spinjm@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:07] Procesando grupo 860/    1000: spinfinanzas@spinbyoxxo.com.mx
+[2025-12-03 17:09:08] Grupo spinfinanzas@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:08] Procesando grupo 861/    1000: spinfinance@spinbyoxxo.com.mx
+[2025-12-03 17:09:08] Grupo spinfinance@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:08] Procesando grupo 862/    1000: spinbyoxxoplazasoxxo@spinbyoxxo.com.mx
+[2025-12-03 17:09:09] Grupo spinbyoxxoplazasoxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:09] Procesando grupo 863/    1000: spindataevolution@spinbyoxxo.com.mx
+[2025-12-03 17:09:10] Grupo spindataevolution@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:10] Procesando grupo 864/    1000: spinanalyticsuseandretention@spinbyoxxo.com.mx
+[2025-12-03 17:09:11] Grupo spinanalyticsuseandretention@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:11] Procesando grupo 865/    1000: spinanalytics@spinbyoxxo.com.mx
+[2025-12-03 17:09:12] Grupo spinanalytics@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:12] Procesando grupo 866/    1000: spin-oxxo@spinbyoxxo.com.mx
+[2025-12-03 17:09:13] Grupo spin-oxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:13] Procesando grupo 867/    1000: spin-legal-tesorera@spinbyoxxo.com.mx
+[2025-12-03 17:09:14] Grupo spin-legal-tesorera@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:14] Procesando grupo 868/    1000: spin-controlinternoxpertal@spinbyoxxo.com.mx
+[2025-12-03 17:09:14] Grupo spin-controlinternoxpertal@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:14] Procesando grupo 869/    1000: spin-controlinternokpmg@spinbyoxxo.com.mx
+[2025-12-03 17:09:15] Grupo spin-controlinternokpmg@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:15] Procesando grupo 870/    1000: spin-fiserv@spinbyoxxo.com.mx
+[2025-12-03 17:09:16] Grupo spin-fiserv@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:16] Procesando grupo 871/    1000: speiseguridad@spinbyoxxo.com.mx
+[2025-12-03 17:09:17] Grupo speiseguridad@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:17] Procesando grupo 872/    1000: spei@spinbyoxxo.com.mx
+[2025-12-03 17:09:18] Grupo spei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:18] Procesando grupo 873/    1000: spei824@spinbyoxxo.com.mx
+[2025-12-03 17:09:18] Grupo spei824@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:18] Procesando grupo 874/    1000: spei115@spinbyoxxo.com.mx
+[2025-12-03 17:09:19] Grupo spei115@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:19] Procesando grupo 875/    1000: recuperaciones@spinbyoxxo.com.mx
+[2025-12-03 17:09:20] Grupo recuperaciones@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:20] Procesando grupo 876/    1000: solicitudesareasnormativas@spinbyoxxo.com.mx
+[2025-12-03 17:09:21] Grupo solicitudesareasnormativas@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:21] Procesando grupo 877/    1000: soportespin@spinbyoxxo.com.mx
+[2025-12-03 17:09:22] Grupo soportespin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:22] Procesando grupo 878/    1000: soc-cybolt@spinbyoxxo.com.mx
+[2025-12-03 17:09:23] Grupo soc-cybolt@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:23] Procesando grupo 879/    1000: smolegal@spinbyoxxo.com.mx
+[2025-12-03 17:09:23] Grupo smolegal@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:23] Procesando grupo 880/    1000: soc1@spinbyoxxo.com.mx
+[2025-12-03 17:09:24] Grupo soc1@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:24] Procesando grupo 881/    1000: sgsi@spinbyoxxo.com.mx
+[2025-12-03 17:09:25] Grupo sgsi@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:25] Procesando grupo 882/    1000: smo@spinbyoxxo.com.mx
+[2025-12-03 17:09:26] Grupo smo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:26] Procesando grupo 883/    1000: selfservicepasswordreset@spinbyoxxo.com.mx
+[2025-12-03 17:09:27] Grupo selfservicepasswordreset@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:27] Procesando grupo 884/    1000: seguridad1@spinbyoxxo.com.mx
+[2025-12-03 17:09:28] Grupo seguridad1@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:28] Procesando grupo 885/    1000: seguimientosmesadecontrol@spinbyoxxo.com.mx
+[2025-12-03 17:09:28] Grupo seguimientosmesadecontrol@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:28] Procesando grupo 886/    1000: seguimientoplanesderemediacin@spinbyoxxo.com.mx
+[2025-12-03 17:09:29] Grupo seguimientoplanesderemediacin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:29] Procesando grupo 887/    1000: seguimientoproyectoscx@spinbyoxxo.com.mx
+[2025-12-03 17:09:30] Grupo seguimientoproyectoscx@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:30] Procesando grupo 888/    1000: seguimientodeactividades@spinbyoxxo.com.mx
+[2025-12-03 17:09:31] Grupo seguimientodeactividades@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:31] Procesando grupo 889/    1000: seguimiento-incode@spinbyoxxo.com.mx
+[2025-12-03 17:09:34] Grupo seguimiento-incode@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:34] Procesando grupo 890/    1000: screeningyat@spinbyoxxo.com.mx
+[2025-12-03 17:09:35] Grupo screeningyat@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:35] Procesando grupo 891/    1000: salesmktops@spinbyoxxo.com.mx
+[2025-12-03 17:09:35] Grupo salesmktops@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:35] Procesando grupo 892/    1000: sagitario@spinbyoxxo.com.mx
+[2025-12-03 17:09:36] Grupo sagitario@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:36] Procesando grupo 893/    1000: rr_qa@spinbyoxxo.com.mx
+[2025-12-03 17:09:37] Grupo rr_qa@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:37] Procesando grupo 894/    1000: rhspinrhdigital@spinbyoxxo.com.mx
+[2025-12-03 17:09:38] Grupo rhspinrhdigital@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:38] Procesando grupo 895/    1000: rewardclientesdealtovalor@spinbyoxxo.com.mx
+[2025-12-03 17:09:39] Grupo rewardclientesdealtovalor@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:39] Procesando grupo 896/    1000: revisionesautoridades@spinbyoxxo.com.mx
+[2025-12-03 17:09:40] Grupo revisionesautoridades@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:40] Procesando grupo 897/    1000: reportesregulatorios@spinbyoxxo.com.mx
+[2025-12-03 17:09:41] Grupo reportesregulatorios@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:41] Procesando grupo 898/    1000: reporter27@spinbyoxxo.com.mx
+[2025-12-03 17:09:41] Grupo reporter27@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:41] Procesando grupo 899/    1000: revisinaclaraciones@spinbyoxxo.com.mx
+[2025-12-03 17:09:42] Grupo revisinaclaraciones@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:42] Procesando grupo 900/    1000: remesas@spinbyoxxo.com.mx
+[2025-12-03 17:09:43] Grupo remesas@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:43] Procesando grupo 901/    1000: r27@spinbyoxxo.com.mx
+[2025-12-03 17:09:44] Grupo r27@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:44] Procesando grupo 902/    1000: pruebasteams-spin-digital@spinbyoxxo.com.mx
+[2025-12-03 17:09:45] Grupo pruebasteams-spin-digital@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:45] Procesando grupo 903/    1000: qa@spinbyoxxo.com.mx
+[2025-12-03 17:09:46] Grupo qa@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:46] Procesando grupo 904/    1000: qasbo@spinbyoxxo.com.mx
+[2025-12-03 17:09:46] Grupo qasbo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:46] Procesando grupo 905/    1000: pruebar27@spinbyoxxo.com.mx
+[2025-12-03 17:09:47] Grupo pruebar27@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:47] Procesando grupo 906/    1000: pruebaspei@spinbyoxxo.com.mx
+[2025-12-03 17:09:48] Grupo pruebaspei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:48] Procesando grupo 907/    1000: prueba894@spinbyoxxo.com.mx
+[2025-12-03 17:09:49] Grupo prueba894@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:49] Procesando grupo 908/    1000: prueba116@spinbyoxxo.com.mx
+[2025-12-03 17:09:49] Grupo prueba116@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:49] Procesando grupo 909/    1000: pruebalegal@spinbyoxxo.com.mx
+[2025-12-03 17:09:50] Grupo pruebalegal@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:50] Procesando grupo 910/    1000: proyectosairtable@spinbyoxxo.com.mx
+[2025-12-03 17:09:51] Grupo proyectosairtable@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:51] Procesando grupo 911/    1000: prueba@spinbyoxxo.com.mx
+[2025-12-03 17:09:52] Grupo prueba@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:52] Procesando grupo 912/    1000: proveedoresseguridaddeinformacion-spinbyoxxo@spinbyoxxo.com.mx
+[2025-12-03 17:09:53] Grupo proveedoresseguridaddeinformacion-spinbyoxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:53] Procesando grupo 913/    1000: proyectoliquidacinspei@spinbyoxxo.com.mx
+[2025-12-03 17:09:54] Grupo proyectoliquidacinspei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:54] Procesando grupo 914/    1000: prometeo@spinbyoxxo.com.mx
+[2025-12-03 17:09:54] Grupo prometeo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:54] Procesando grupo 915/    1000: prometeos@spinbyoxxo.com.mx
+[2025-12-03 17:09:55] Grupo prometeos@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:55] Procesando grupo 916/    1000: programaincentivos@spinbyoxxo.com.mx
+[2025-12-03 17:09:56] Grupo programaincentivos@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:56] Procesando grupo 917/    1000: productplanning@spinbyoxxo.com.mx
+[2025-12-03 17:09:57] Grupo productplanning@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:57] Procesando grupo 918/    1000: producto.spei@spinbyoxxo.com.mx
+[2025-12-03 17:09:58] Grupo producto.spei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:58] Procesando grupo 919/    1000: procesosti@spinbyoxxo.com.mx
+[2025-12-03 17:09:59] Grupo procesosti@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:59] Procesando grupo 920/    1000: procesorespaldosyrestauracionesspin@spinbyoxxo.com.mx
+[2025-12-03 17:09:59] Grupo procesorespaldosyrestauracionesspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:09:59] Procesando grupo 921/    1000: procesosspinbyoxxo@spinbyoxxo.com.mx
+[2025-12-03 17:10:00] Grupo procesosspinbyoxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:00] Procesando grupo 922/    1000: prevenciondelavadodedineroyft@spinbyoxxo.com.mx
+[2025-12-03 17:10:01] Grupo prevenciondelavadodedineroyft@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:01] Procesando grupo 923/    1000: prevencindefraudesspinpremia@spinbyoxxo.com.mx
+[2025-12-03 17:10:02] Grupo prevencindefraudesspinpremia@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:02] Procesando grupo 924/    1000: prevenciondefraudes7855@spinbyoxxo.com.mx
+[2025-12-03 17:10:03] Grupo prevenciondefraudes7855@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:03] Procesando grupo 925/    1000: prevencindefraudes@spinbyoxxo.com.mx
+[2025-12-03 17:10:03] Grupo prevencindefraudes@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:03] Procesando grupo 926/    1000: pre-auditorasi@spinbyoxxo.com.mx
+[2025-12-03 17:10:04] Grupo pre-auditorasi@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:04] Procesando grupo 927/    1000: presupuesto2024lideres@spinbyoxxo.com.mx
+[2025-12-03 17:10:05] Grupo presupuesto2024lideres@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:05] Procesando grupo 928/    1000: preauditoriainiciooperaciones@spinbyoxxo.com.mx
+[2025-12-03 17:10:06] Grupo preauditoriainiciooperaciones@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:06] Procesando grupo 929/    1000: pptoctubre@spinbyoxxo.com.mx
+[2025-12-03 17:10:06] Grupo pptoctubre@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:06] Procesando grupo 930/    1000: pre-auditoria@spinbyoxxo.com.mx
+[2025-12-03 17:10:07] Grupo pre-auditoria@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:07] Procesando grupo 931/    1000: pldft@spinbyoxxo.com.mx
+[2025-12-03 17:10:08] Grupo pldft@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:08] Procesando grupo 932/    1000: pld-kycyat@spinbyoxxo.com.mx
+[2025-12-03 17:10:09] Grupo pld-kycyat@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:09] Procesando grupo 933/    1000: planqaofficerjcdelvillar@spinbyoxxo.com.mx
+[2025-12-03 17:10:10] Grupo planqaofficerjcdelvillar@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:10] Procesando grupo 934/    1000: plan2023@spinbyoxxo.com.mx
+[2025-12-03 17:10:10] Grupo plan2023@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:10] Procesando grupo 935/    1000: plandemejorcontinua@spinbyoxxo.com.mx
+[2025-12-03 17:10:11] Grupo plandemejorcontinua@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:11] Procesando grupo 936/    1000: pfaclaraciones@spinbyoxxo.com.mx
+[2025-12-03 17:10:12] Grupo pfaclaraciones@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:12] Procesando grupo 937/    1000: pfmesadecontrol@spinbyoxxo.com.mx
+[2025-12-03 17:10:13] Grupo pfmesadecontrol@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:13] Procesando grupo 938/    1000: pruebafraudes@spinbyoxxo.com.mx
+[2025-12-03 17:10:14] Grupo pruebafraudes@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:14] Procesando grupo 939/    1000: pendientesequipo@spinbyoxxo.com.mx
+[2025-12-03 17:10:15] Grupo pendientesequipo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:15] Procesando grupo 940/    1000: perseo@spinbyoxxo.com.mx
+[2025-12-03 17:10:15] Grupo perseo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:15] Procesando grupo 941/    1000: pendientes@spinbyoxxo.com.mx
+[2025-12-03 17:10:16] Grupo pendientes@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:16] Procesando grupo 942/    1000: pci-dss@spinbyoxxo.com.mx
+[2025-12-03 17:10:17] Grupo pci-dss@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:17] Procesando grupo 943/    1000: payment@spinbyoxxo.com.mx
+[2025-12-03 17:10:18] Grupo payment@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:18] Procesando grupo 944/    1000: pamm@spinbyoxxo.com.mx
+[2025-12-03 17:10:19] Grupo pamm@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:19] Procesando grupo 945/    1000: paloit@spinbyoxxo.com.mx
+[2025-12-03 17:10:19] Grupo paloit@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:19] Procesando grupo 946/    1000: pagosspin@spinbyoxxo.com.mx
+[2025-12-03 17:10:20] Grupo pagosspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:20] Procesando grupo 947/    1000: padrnproveedorescnbv@spinbyoxxo.com.mx
+[2025-12-03 17:10:21] Grupo padrnproveedorescnbv@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:21] Procesando grupo 948/    1000: padrondeproveedoresoxxofintech@spinbyoxxo.com.mx
+[2025-12-03 17:10:22] Grupo padrondeproveedoresoxxofintech@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:22] Procesando grupo 949/    1000: oxxo-spinbyoxxo@spinbyoxxo.com.mx
+[2025-12-03 17:10:23] Grupo oxxo-spinbyoxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:23] Procesando grupo 950/    1000: padrndeproveedorescnbv@spinbyoxxo.com.mx
+[2025-12-03 17:10:23] Grupo padrndeproveedorescnbv@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:23] Procesando grupo 951/    1000: orion@spinbyoxxo.com.mx
+[2025-12-03 17:10:24] Grupo orion@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:24] Procesando grupo 952/    1000: ops_spei@spinbyoxxo.com.mx
+[2025-12-03 17:10:25] Grupo ops_spei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:25] Procesando grupo 953/    1000: operacionesspeipartdirecto-tesorera@spinbyoxxo.com.mx
+[2025-12-03 17:10:26] Grupo operacionesspeipartdirecto-tesorera@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:26] Procesando grupo 954/    1000: operadoresspei@spinbyoxxo.com.mx
+[2025-12-03 17:10:27] Grupo operadoresspei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:27] Procesando grupo 955/    1000: operacionesspei@spinbyoxxo.com.mx
+[2025-12-03 17:10:27] Grupo operacionesspei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:27] Procesando grupo 956/    1000: operacionesbackoffice_spei_participante_directo@spinbyoxxo.com.mx
+[2025-12-03 17:10:28] Grupo operacionesbackoffice_spei_participante_directo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:28] Procesando grupo 957/    1000: operacionesbackoffice@spinbyoxxo.com.mx
+[2025-12-03 17:10:29] Grupo operacionesbackoffice@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:29] Procesando grupo 958/    1000: spei.backoffice1@spinbyoxxo.com.mx
+[2025-12-03 17:10:30] Grupo spei.backoffice1@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:30] Procesando grupo 959/    1000: operacinymonitoreo@spinbyoxxo.com.mx
+[2025-12-03 17:10:31] Grupo operacinymonitoreo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:31] Procesando grupo 960/    1000: okrsfinanzas-arnulfo@spinbyoxxo.com.mx
+[2025-12-03 17:10:31] Grupo okrsfinanzas-arnulfo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:31] Procesando grupo 961/    1000: omnichannel@spinbyoxxo.com.mx
+[2025-12-03 17:10:32] Grupo omnichannel@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:32] Procesando grupo 962/    1000: okrs@spinbyoxxo.com.mx
+[2025-12-03 17:10:33] Grupo okrs@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:33] Procesando grupo 963/    1000: okrstemplate@spinbyoxxo.com.mx
+[2025-12-03 17:10:34] Grupo okrstemplate@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:34] Procesando grupo 964/    1000: observacionescnbv-proveedoresregulados@spinbyoxxo.com.mx
+[2025-12-03 17:10:35] Grupo observacionescnbv-proveedoresregulados@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:35] Procesando grupo 965/    1000: myp@spinbyoxxo.com.mx
+[2025-12-03 17:10:35] Grupo myp@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:35] Procesando grupo 966/    1000: myplan@spinbyoxxo.com.mx
+[2025-12-03 17:10:36] Grupo myplan@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:36] Procesando grupo 967/    1000: multiplicagiftcards@spinbyoxxo.com.mx
+[2025-12-03 17:10:37] Grupo multiplicagiftcards@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:37] Procesando grupo 968/    1000: monitoreoaclaracionesfraudes@spinbyoxxo.com.mx
+[2025-12-03 17:10:38] Grupo monitoreoaclaracionesfraudes@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:38] Procesando grupo 969/    1000: mrycti@spinbyoxxo.com.mx
+[2025-12-03 17:10:39] Grupo mrycti@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:39] Procesando grupo 970/    1000: monitoreofraudes@spinbyoxxo.com.mx
+[2025-12-03 17:10:39] Grupo monitoreofraudes@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:39] Procesando grupo 971/    1000: mitfemsa@spinbyoxxo.com.mx
+[2025-12-03 17:10:40] Grupo mitfemsa@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:40] Procesando grupo 972/    1000: minutatops@spinbyoxxo.com.mx
+[2025-12-03 17:10:41] Grupo minutatops@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:41] Procesando grupo 973/    1000: microfocus@spinbyoxxo.com.mx
+[2025-12-03 17:10:42] Grupo microfocus@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:42] Procesando grupo 974/    1000: misequipos@spinbyoxxo.com.mx
+[2025-12-03 17:10:42] Grupo misequipos@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:43] Procesando grupo 975/    1000: mesadecontrol@spinbyoxxo.com.mx
+[2025-12-03 17:10:43] Grupo mesadecontrol@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:43] Procesando grupo 976/    1000: mejorasinteraccionesspin-oxxo@spinbyoxxo.com.mx
+[2025-12-03 17:10:44] Grupo mejorasinteraccionesspin-oxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:44] Procesando grupo 977/    1000: licencia@spinbyoxxo.com.mx
+[2025-12-03 17:10:45] Grupo licencia@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:45] Procesando grupo 978/    1000: llamadasgrabadas@spinbyoxxo.com.mx
+[2025-12-03 17:10:46] Grupo llamadasgrabadas@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:46] Procesando grupo 979/    1000: matrizdecasosarco-une-acl-pf-cc@spinbyoxxo.com.mx
+[2025-12-03 17:10:47] Grupo matrizdecasosarco-une-acl-pf-cc@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:47] Procesando grupo 980/    1000: libra@spinbyoxxo.com.mx
+[2025-12-03 17:10:47] Grupo libra@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:47] Procesando grupo 981/    1000: legalspin@spinbyoxxo.com.mx
+[2025-12-03 17:10:48] Grupo legalspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:48] Procesando grupo 982/    1000: legalspin-oxxo@spinbyoxxo.com.mx
+[2025-12-03 17:10:49] Grupo legalspin-oxxo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:49] Procesando grupo 983/    1000: lace-spin@spinbyoxxo.com.mx
+[2025-12-03 17:10:50] Grupo lace-spin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:50] Procesando grupo 984/    1000: legal-condusef-2025@spinbyoxxo.com.mx
+[2025-12-03 17:10:51] Grupo legal-condusef-2025@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:51] Procesando grupo 985/    1000: leadsbo@spinbyoxxo.com.mx
+[2025-12-03 17:10:51] Grupo leadsbo@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:51] Procesando grupo 986/    1000: kamoxxospin@spinbyoxxo.com.mx
+[2025-12-03 17:10:52] Grupo kamoxxospin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:52] Procesando grupo 987/    1000: itspin@spinbyoxxo.com.mx
+[2025-12-03 17:10:53] Grupo itspin@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:53] Procesando grupo 988/    1000: inviteapruebasdeusabilidad@spinbyoxxo.com.mx
+[2025-12-03 17:10:54] Grupo inviteapruebasdeusabilidad@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:54] Procesando grupo 989/    1000: inventariospei@spinbyoxxo.com.mx
+[2025-12-03 17:10:55] Grupo inventariospei@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:55] Procesando grupo 990/    1000: internocontinuidaddelnegocio@spinbyoxxo.com.mx
+[2025-12-03 17:10:55] Grupo internocontinuidaddelnegocio@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:55] Procesando grupo 991/    1000: internos-leads@spinbyoxxo.com.mx
+[2025-12-03 17:10:56] Grupo internos-leads@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:56] Procesando grupo 992/    1000: intercambio@spinbyoxxo.com.mx
+[2025-12-03 17:10:57] Grupo intercambio@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:57] Procesando grupo 993/    1000: integracioneslending@spinbyoxxo.com.mx
+[2025-12-03 17:10:58] Grupo integracioneslending@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:58] Procesando grupo 994/    1000: insumosconciliaciones@spinbyoxxo.com.mx
+[2025-12-03 17:10:59] Grupo insumosconciliaciones@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:59] Procesando grupo 995/    1000: ingenieraderoles@spinbyoxxo.com.mx
+[2025-12-03 17:10:59] Grupo ingenieraderoles@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:10:59] Procesando grupo 996/    1000: insumor27@spinbyoxxo.com.mx
+[2025-12-03 17:11:00] Grupo insumor27@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:11:00] Procesando grupo 997/    1000: incidentesseguridad@spinbyoxxo.com.mx
+[2025-12-03 17:11:01] Grupo incidentesseguridad@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:11:01] Procesando grupo 998/    1000: hydra@spinbyoxxo.com.mx
+[2025-12-03 17:11:02] Grupo hydra@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:11:02] Procesando grupo 999/    1000: horarioprueba@spinbyoxxo.com.mx
+[2025-12-03 17:11:03] Grupo horarioprueba@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:11:03] Procesando grupo 1000/    1000: hercules@spinbyoxxo.com.mx
+[2025-12-03 17:11:03] Grupo hercules@spinbyoxxo.com.mx: Vacío
+[2025-12-03 17:11:03] Proceso completado. Archivos generados:
+[2025-12-03 17:11:03] - Grupos: daf_groups_03-12-2025-16-51-35.csv
+[2025-12-03 17:11:03] - Miembros: daf_members_by_group_03-12-2025-16-51-35.csv
+[2025-12-03 17:11:03] - Log: daf_grupos_usuarios_daf_03-12-2025-16-51-35.log
+[2025-12-03 17:11:03] Limpiando archivos temporales...
