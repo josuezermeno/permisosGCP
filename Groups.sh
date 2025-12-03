@@ -1,12 +1,16 @@
 #!/bin/bash
 
+#cambiamos al proyecto default
+gcloud config set project daf-dp-management-prod
+
 echo "Generando Listado de grupos...."
 gcloud identity groups search     --organization="713468743428"     --labels="cloudidentity.googleapis.com/groups.discussion_forum"  --page-size=100000   --format=json  | jq '.[].groups[].groupKey.id' | sed 's/"//g' > groups_discussion.txt
 gcloud identity groups search     --organization="713468743428"     --labels="cloudidentity.googleapis.com/groups.security"  --page-size=100000   --format=json  | jq '.[].groups[].groupKey.id' | sed 's/"//g' > groups_security.txt
 
 cat groups_discussion.txt groups_security.txt | sort | uniq > groups.txt
 
-echo "Grupo, Correo"> Groups_members.csv
+ARCHIVO="SPIN_MembersByGroup_$(date +%d%b%Y | tr '[:lower:]' '[:upper:]').csv"
+echo "Grupo, Correo" > "$ARCHIVO"
 while IFS= read -r GRUPO; do
 
 
@@ -35,7 +39,7 @@ while IFS= read -r GRUPO; do
         done
     else
         echo "Grupo Vacio"
-        echo "${GRUPO}, Vacio " >> Groups_members.csv
+        echo "${GRUPO}, Vacio " >> "$ARCHIVO"
 
     fi
    

@@ -1,0 +1,84 @@
+{
+  "access": [
+    {
+      "role": "WRITER",
+      "specialGroup": "projectWriters"
+    },
+    {
+      "role": "OWNER",
+      "specialGroup": "projectOwners"
+    },
+    {
+      "role": "OWNER",
+      "userByEmail": "data-training-devops@daf-dp-compute-prod.iam.gserviceaccount.com"
+    },
+    {
+      "role": "READER",
+      "specialGroup": "projectReaders"
+    }
+  ],
+  "creationTime": "1751562520866",
+  "datasetReference": {
+    "datasetId": "spin_lcc_ocr",
+    "projectId": "daf-dp-trusted-prod"
+  },
+  "etag": "D6ebLMcJl8W3oxdp6UNeBg==",
+  "id": "daf-dp-trusted-prod:spin_lcc_ocr",
+  "kind": "bigquery#dataset",
+  "labels": {
+    "business_resource": "cre_len",
+    "business_unit": "cre",
+    "business_unit_project": "collections",
+    "component": "spin_lcc_ocr",
+    "data_source": "postgresql",
+    "data_type": "structured",
+    "env": "prod",
+    "gcp_project": "daf-dp-trusted-prod",
+    "goog-terraform-provisioned": "true",
+    "processing_type": "batch"
+  },
+  "lastModifiedTime": "1751562520866",
+  "location": "US",
+  "maxTimeTravelHours": "168",
+  "resourceTags": {
+    "713468743428/business_resource": "CRE_LEN",
+    "713468743428/business_unit": "CRE",
+    "713468743428/business_unit_project": "collections",
+    "713468743428/component": "spin_lcc_ocr",
+    "713468743428/data_source": "PostgreSQL",
+    "713468743428/env": "prod",
+    "713468743428/gcp_project": "daf-dp-trusted-prod"
+  },
+  "selfLink": "https://bigquery.googleapis.com/bigquery/v2/projects/daf-dp-trusted-prod/datasets/spin_lcc_ocr",
+  "tags": [
+    {
+      "tagKey": "713468743428/business_resource",
+      "tagValue": "CRE_LEN"
+    },
+    {
+      "tagKey": "713468743428/business_unit",
+      "tagValue": "CRE"
+    },
+    {
+      "tagKey": "713468743428/business_unit_project",
+      "tagValue": "collections"
+    },
+    {
+      "tagKey": "713468743428/component",
+      "tagValue": "spin_lcc_ocr"
+    },
+    {
+      "tagKey": "713468743428/data_source",
+      "tagValue": "PostgreSQL"
+    },
+    {
+      "tagKey": "713468743428/env",
+      "tagValue": "prod"
+    },
+    {
+      "tagKey": "713468743428/gcp_project",
+      "tagValue": "daf-dp-trusted-prod"
+    }
+  ],
+  "type": "DEFAULT"
+}
