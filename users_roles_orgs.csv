@@ -1,0 +1,289 @@
+Project,Role,Type,Email
+713468743428,CloudabilityBillingRoleAF,Service Account,billing-data-service-acct@cloudability-credentials.iam.gserviceaccount.com
+713468743428,CustomRole216,User,alejandro.ramos@spin.co
+713468743428,CustomRole475,User,mariano.pipino.ext@spin.co
+713468743428,CustomRole532,Service Account,sa-tr-singularity-ai@daf-aip-singularity-comp-prd.iam.gserviceaccount.com
+713468743428,CustomRole532,Service Account,sa-tr-singularity-ai@daf-aip-singularity-comp-sb.iam.gserviceaccount.com
+713468743428,DaFDataAdmin,Group,daf_data_admins@digitalfemsa.com
+713468743428,DaFServiceAccountsList,User,alejandro.ramos@spin.co
+713468743428,DaF_Logging_sink_create,Service Account,data-training-devops@daf-dp-compute-prod.iam.gserviceaccount.com
+713468743428,DaF_OP_TF_getIamPolicy,Service Account,data-training-devops@daf-dp-compute-dev.iam.gserviceaccount.com
+713468743428,DaF_OP_TF_setIamPolicy,Service Account,data-training-devops@daf-dp-compute-dev.iam.gserviceaccount.com
+713468743428,daf_assign_permission_role,Group,daf_assign_permission_role@digitalfemsa.com
+713468743428,dafroleservicetaggsdev,Service Account,daf-tr-servicetaggs-dev@daf-dp-management-dev.iam.gserviceaccount.com
+713468743428,wiz_security_role,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,wiz_security_role_disk_analysis_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,wiz_security_role_disk_analysis_read_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,wiz_security_role_disk_analysis_snapshot_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,advisorynotifications.viewer,User,adrian.estrada%digitalfemsa.com@gtempaccount.com
+713468743428,apigee.apiAdminV2,Group,sre-apigee-admin@digitalfemsa.com
+713468743428,apigee.portalAdmin,Group,sre-apigee-admin@digitalfemsa.com
+713468743428,assuredworkloads.admin,User,spinarq.001@digitalfemsa.com
+713468743428,baremetalsolution.networksadmin,Group,gcp-network-admins@digitalfemsa.com
+713468743428,bigquery.dataViewer,User,antonio.sanchez@spin.co
+713468743428,bigquery.jobUser,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+713468743428,bigquery.metadataViewer,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+713468743428,bigquery.resourceViewer,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+713468743428,bigquery.resourceViewer,User,mariano.pipino.ext@spin.co
+713468743428,billing.admin,Group,dbre_team@digitalfemsa.com
+713468743428,billing.admin,Group,gcp-billing-admins@digitalfemsa.com
+713468743428,billing.admin,User,jose.bermudez@spin.co
+713468743428,billing.admin,User,omar.garcia@digitalfemsa.com
+713468743428,billing.admin,User,omar.garcia@spin.co
+713468743428,billing.admin,User,spinarq.001@digitalfemsa.com
+713468743428,billing.costsManager,Group,billing_readonly@digitalfemsa.com
+713468743428,billing.costsManager,Group,daf_billing_review@digitalfemsa.com
+713468743428,billing.costsManager,Group,gcp-billing-admins@digitalfemsa.com
+713468743428,billing.costsManager,User,spinarq.001@digitalfemsa.com
+713468743428,billing.projectManager,User,jose.bermudez@spin.co
+713468743428,billing.projectManager,User,spinarq.001@digitalfemsa.com
+713468743428,billing.user,Group,cloud-admins@digitalfemsa.com
+713468743428,billing.user,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,billing.viewer,Group,billing_readonly@digitalfemsa.com
+713468743428,billing.viewer,Group,gcp-billing-admins@digitalfemsa.com
+713468743428,billing.viewer,User,adrian.reyes@spin.co
+713468743428,billing.viewer,User,antonio.sanchez@spin.co
+713468743428,billing.viewer,User,diphna.cantu@spin.co
+713468743428,billing.viewer,User,jimena.sierra@spin.co
+713468743428,billing.viewer,User,jose.laguna@spin.co
+713468743428,billing.viewer,User,josue.zermeno.tmp2@digitalfemsa.com
+713468743428,billing.viewer,User,maria.flores@spin.co
+713468743428,billing.viewer,User,spinarq.001@digitalfemsa.com
+713468743428,browser,Group,daf_data_admins@digitalfemsa.com
+713468743428,browser,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,cloudasset.viewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,cloudfunctions.serviceAgent,Service Account,service-org-713468743428@security-center-api.iam.gserviceaccount.com
+713468743428,cloudsupport.admin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,cloudsupport.techSupportEditor,Group,gcp-network-admins@digitalfemsa.com
+713468743428,cloudsupport.techSupportEditor,Group,tech-support-editor@digitalfemsa.com
+713468743428,commercepricemanagement.privateOffersAdmin,User,jose.bermudez@spin.co
+713468743428,commercepricemanagement.privateOffersAdmin,User,omar.garcia@digitalfemsa.com
+713468743428,commercepricemanagement.privateOffersAdmin,User,omar.garcia@spin.co
+713468743428,commercepricemanagement.privateOffersAdmin,User,spinarq.001@digitalfemsa.com
+713468743428,composer.admin,Service Account,234634384856-compute@developer.gserviceaccount.com
+713468743428,composer.environmentAndStorageObjectViewer,Service Account,sa-tr-set-roles-daf-spin-gener@daf-dp-management-prod.iam.gserviceaccount.com
+713468743428,compute.networkAdmin,Group,gcp-network-admins@digitalfemsa.com
+713468743428,compute.securityAdmin,Group,gcp-network-admins@digitalfemsa.com
+713468743428,compute.viewer,Group,gcp-security-admins@digitalfemsa.com
+713468743428,compute.xpnAdmin,Group,gcp-network-admins@digitalfemsa.com
+713468743428,container.viewer,Group,gcp-security-admins@digitalfemsa.com
+713468743428,datacatalog.categoryAdmin,Group,daf_data_admins@digitalfemsa.com
+713468743428,dataplex.taxonomyAdmin,Group,daf_data_admins@digitalfemsa.com
+713468743428,editor,User,digops.008@spin.co
+713468743428,editor,User,digops.009@spin.co
+713468743428,iam.organizationRoleAdmin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,iam.organizationRoleViewer,Group,gcp-security-admins@digitalfemsa.com
+713468743428,iam.securityAdmin,Group,daf_data_admins@digitalfemsa.com
+713468743428,iam.securityReviewer,Group,gcp-security-admins@digitalfemsa.com
+713468743428,iam.securityReviewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,iam.serviceAccountKeyAdmin,User,alejandro.ramos@spin.co
+713468743428,iam.supportUser,Service Account,sa-dataops-transversal-gcs-bac@daf-dp-compute-dev.iam.gserviceaccount.com
+713468743428,iam.supportUser,Service Account,sa-dataops-transversal-gcs-bac@daf-dp-compute-prod.iam.gserviceaccount.com
+713468743428,logging.configWriter,Group,gcp-security-admins@digitalfemsa.com
+713468743428,logging.privateLogViewer,Group,gcp-network-admins@digitalfemsa.com
+713468743428,logging.privateLogViewer,Group,gcp-security-admins@digitalfemsa.com
+713468743428,logging.viewer,Group,gcp-network-admins@digitalfemsa.com
+713468743428,marketplacesolutions.admin,User,jose.bermudez@spin.co
+713468743428,marketplacesolutions.admin,User,omar.garcia@digitalfemsa.com
+713468743428,marketplacesolutions.admin,User,omar.garcia@spin.co
+713468743428,marketplacesolutions.admin,User,spinarq.001@digitalfemsa.com
+713468743428,monitoring.admin,Group,gcp-monitoring-admins@digitalfemsa.com
+713468743428,networkmanagement.admin,Group,gcp-network-admins@digitalfemsa.com
+713468743428,orgpolicy.policyAdmin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,orgpolicy.policyAdmin,Group,gcp-security-admins@digitalfemsa.com
+713468743428,owner,Group,daf_data_admins@digitalfemsa.com
+713468743428,owner,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,owner,User,titops.apg@digitalfemsa.com
+713468743428,recommender.bigQueryCapacityCommitmentsViewer,User,mariano.pipino.ext@spin.co
+713468743428,recommender.billingAccountCudViewer,Group,billing_readonly@digitalfemsa.com
+713468743428,recommender.cloudCostRecommendationViewer,Group,billing_readonly@digitalfemsa.com
+713468743428,resourcemanager.folderAdmin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,resourcemanager.folderAdmin,Service Account,sa-plan-tf-daf@daf-transversal.iam.gserviceaccount.com
+713468743428,resourcemanager.folderIamAdmin,Group,gcp-security-admins@digitalfemsa.com
+713468743428,resourcemanager.folderViewer,Group,gcp-network-admins@digitalfemsa.com
+713468743428,resourcemanager.organizationAdmin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,resourcemanager.organizationViewer,Group,daf_ga4_tagmanager@digitalfemsa.com
+713468743428,resourcemanager.projectCreator,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,resourcemanager.projectCreator,Service Account,sa-plan-tf-daf@daf-transversal.iam.gserviceaccount.com
+713468743428,resourcemanager.projectCreator,User,digops.001@digitalfemsa.com
+713468743428,resourcemanager.projectCreator,User,digops.008@spin.co
+713468743428,resourcemanager.projectCreator,User,digops.009@spin.co
+713468743428,resourcemanager.projectCreator,User,titops.apg@digitalfemsa.com
+713468743428,resourcemanager.projectDeleter,Service Account,sa-plan-tf-daf@daf-transversal.iam.gserviceaccount.com
+713468743428,resourcemanager.projectIamAdmin,Group,daf_data_admins@digitalfemsa.com
+713468743428,resourcemanager.tagAdmin,Service Account,daf-tr-servicetaggs-dev@daf-dp-management-dev.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,data-training-devops@daf-dp-compute-dev.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,data-training-devops@daf-dp-compute-prod.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,data-training-devops@daf-dp-compute-qa.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,sa-tr-set-roles-daf-spin-gener@daf-dp-management-prod.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,sa-tr-singularity-ai@daf-aip-singularity-comp-prd.iam.gserviceaccount.com
+713468743428,resourcemanager.tagUser,Service Account,sa-tr-singularity-ai@daf-aip-singularity-comp-sb.iam.gserviceaccount.com
+713468743428,resourcemanager.tagViewer,Service Account,sa-optimus-price-artifact@daf-dp-compute-prod.iam.gserviceaccount.com
+713468743428,secretmanager.secretAccessor,Service Account,485761051105-compute@developer.gserviceaccount.com
+713468743428,securitycenter.admin,Group,gcp-organization-admins@digitalfemsa.com
+713468743428,securitycenter.admin,Group,gcp-security-admins@digitalfemsa.com
+713468743428,securitycenter.serviceAgent,Service Account,service-org-713468743428@security-center-api.iam.gserviceaccount.com
+713468743428,serviceusage.serviceUsageAdmin,Service Account,service-org-713468743428@security-center-api.iam.gserviceaccount.com
+713468743428,serviceusage.serviceUsageViewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,storage.objectCreator,Group,dbre_team@digitalfemsa.com
+713468743428,viewer,Group,global_read_only@digitalfemsa.com
+713468743428,viewer,Group,permiso_especial_proyectos@digitalfemsa.com
+713468743428,viewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+713468743428,viewer,User,jose.bermudez@spin.co
+713468743428,viewer,User,omar.garcia@digitalfemsa.com
+713468743428,viewer,User,omar.garcia@spin.co
+532450477381,CloudabilityBillingRoleAF,Service Account,billing-data-service-acct@cloudability-credentials.iam.gserviceaccount.com
+532450477381,CustomRole,User,spinarq.001@digitalfemsa.com
+532450477381,CustomRole129,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,CustomRole207,Service Account,sa-analytics-singularity-prd@spin-aip-singularity-comp-prd.iam.gserviceaccount.com
+532450477381,CustomRole207,Service Account,sa-analytics-singularity-prd@spin-aip-singularity-data-prd.iam.gserviceaccount.com
+532450477381,CustomRole508,Group,dl_billing_ailab_spinbyoxxo_sb@gcp.spinbyoxxo.com.mx
+532450477381,CustomRole572,Service Account,sa-tr-set-roles-daf-spin-gener@daf-dp-management-prod.iam.gserviceaccount.com
+532450477381,CustomRole795,User,spinarq.001@digitalfemsa.com
+532450477381,CustomRole862,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,DaF_OP_TF_getIamPolicy,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,DaF_OP_TF_setIamPolicy,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,DaF_list_datasets,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,SPIN_tagValue_Bindings,Service Account,data-op-devops@spin-dp-compute-dev.iam.gserviceaccount.com
+532450477381,SPIN_tagValue_Bindings,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,SPIN_tagValue_Bindings,Service Account,spin-terraform-data-prd@spin-dp-management-prod.iam.gserviceaccount.com
+532450477381,spin_data_engineers_compute,Service Account,spin-terraform-data-qa@spin-dp-management-qa.iam.gserviceaccount.com
+532450477381,wiz_security_role,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,wiz_security_role_data_scanning_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,wiz_security_role_disk_analysis_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,wiz_security_role_forensic_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,wiz_security_role_registry_scanning_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,wiz_security_role_serverless_scanning_ext,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,apigee.readOnlyAdmin,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,baremetalsolution.networksadmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,baremetalsolution.networksadmin,User,diego.mendoza@spin.co
+532450477381,bigquery.admin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,bigquery.admin,Group,gcp-spin-todosproyectos@gcp.spinbyoxxo.com.mx
+532450477381,bigquery.admin,User,luis.gomez@spin.co
+532450477381,bigquery.dataEditor,User,spinarq.001@digitalfemsa.com
+532450477381,bigquery.dataViewer,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.dataViewer,Service Account,cost-query-user@spin-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.jobUser,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.jobUser,Service Account,cost-query-user@spin-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.metadataViewer,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.metadataViewer,Service Account,cost-query-user@spin-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.metadataViewer,User,antonio.sanchez@spin.co
+532450477381,bigquery.metadataViewer,User,luis.gomez@spin.co
+532450477381,bigquery.resourceViewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,bigquery.resourceViewer,Service Account,cost-query-user@daf-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.resourceViewer,Service Account,cost-query-user@spin-dp-trusted-prod.iam.gserviceaccount.com
+532450477381,bigquery.resourceViewer,User,antonio.sanchez@spin.co
+532450477381,bigquery.resourceViewer,User,luis.gomez@spin.co
+532450477381,billing.admin,Group,gcp-billing-admins@gcp.spinbyoxxo.com.mx
+532450477381,billing.admin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,billing.costsManager,Group,gcp-todalaorganizacion@gcp.spinbyoxxo.com.mx
+532450477381,billing.costsManager,User,mariano.pipino.ext@spin.co
+532450477381,billing.creator,Group,gcp-billing-admins@gcp.spinbyoxxo.com.mx
+532450477381,billing.user,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,billing.viewer,User,mariano.pipino.ext@spin.co
+532450477381,browser,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,browser,Group,gcp-spin-sygniaproject-ext-sygnia--e-security@gcp.spinbyoxxo.com.mx
+532450477381,browser,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,cloudasset.viewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,cloudfunctions.serviceAgent,Service Account,service-org-532450477381@security-center-api.iam.gserviceaccount.com
+532450477381,cloudjobdiscovery.profilesViewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,cloudkms.cryptoKeyEncrypterDecrypter,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,cloudsupport.admin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,cloudsupport.admin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,cloudsupport.admin,User,spinarq.001@digitalfemsa.com
+532450477381,cloudsupport.techSupportEditor,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,cloudsupport.techSupportEditor,User,spinarq.001@digitalfemsa.com
+532450477381,compute.networkAdmin,Group,gcp-network-admins@gcp.spinbyoxxo.com.mx
+532450477381,compute.networkAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,compute.networkAdmin,User,diego.mendoza@spin.co
+532450477381,compute.securityAdmin,Group,gcp-network-admins@gcp.spinbyoxxo.com.mx
+532450477381,compute.securityAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,compute.viewer,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,compute.xpnAdmin,Group,gcp-network-admins@gcp.spinbyoxxo.com.mx
+532450477381,compute.xpnAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,compute.xpnAdmin,User,spinarq.001@digitalfemsa.com
+532450477381,config.viewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,container.viewer,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,datacatalog.categoryAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,dataflow.admin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,dataplex.taxonomyAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,iam.organizationRoleAdmin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,iam.organizationRoleAdmin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,iam.organizationRoleAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,iam.organizationRoleAdmin,User,jose.bermudez@gcp.spinbyoxxo.com.mx
+532450477381,iam.organizationRoleViewer,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,iam.securityAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,iam.securityReviewer,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,iam.securityReviewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,iam.serviceAccountKeyAdmin,Group,dl_iam_users@digitalfemsa.com
+532450477381,iam.supportUser,Service Account,sa-dataops-transversal-gcs-bac@daf-dp-compute-dev.iam.gserviceaccount.com
+532450477381,iam.supportUser,Service Account,sa-dataops-transversal-gcs-bac@daf-dp-compute-prod.iam.gserviceaccount.com
+532450477381,logging.configWriter,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,logging.privateLogViewer,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,logging.privateLogViewer,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,logging.viewer,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,managedidentities.admin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,monitoring.viewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,networkmanagement.admin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,orgpolicy.policyAdmin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,orgpolicy.policyAdmin,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,orgpolicy.policyAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,owner,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,recommender.billingAccountCudViewer,User,mariano.pipino.ext@spin.co
+532450477381,recommender.cloudCostRecommendationViewer,User,mariano.pipino.ext@spin.co
+532450477381,resourcemanager.folderAdmin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderAdmin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderAdmin,Service Account,sa-plan-tf-spin@spin-ops.iam.gserviceaccount.com
+532450477381,resourcemanager.folderAdmin,User,jose.bermudez@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderIamAdmin,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderViewer,Group,dl_iam_users@digitalfemsa.com
+532450477381,resourcemanager.folderViewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderViewer,Group,gcp-network-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderViewer,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.folderViewer,Group,supportgcp-viewer@amarello.com.mx
+532450477381,resourcemanager.organizationAdmin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.organizationAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.organizationViewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.organizationViewer,Group,gcp-billing-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.organizationViewer,Group,supportgcp-viewer@amarello.com.mx
+532450477381,resourcemanager.projectCreator,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.projectCreator,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.projectCreator,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.projectCreator,Service Account,sa-plan-tf-spin@spin-ops.iam.gserviceaccount.com
+532450477381,resourcemanager.projectCreator,User,jose.bermudez@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.projectDeleter,Service Account,sa-plan-tf-spin@spin-ops.iam.gserviceaccount.com
+532450477381,resourcemanager.projectIamAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.tagAdmin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.tagAdmin,Service Account,data-op-devops@spin-dp-compute-dev.iam.gserviceaccount.com
+532450477381,resourcemanager.tagAdmin,Service Account,dfsd-101693-singularity-prd@spin-aip-singularity-comp-prd.iam.gserviceaccount.com
+532450477381,resourcemanager.tagAdmin,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,resourcemanager.tagAdmin,Service Account,spin-terraform-data-prd@spin-dp-management-prod.iam.gserviceaccount.com
+532450477381,resourcemanager.tagAdmin,Service Account,spin-terraform-data-qa@spin-dp-management-qa.iam.gserviceaccount.com
+532450477381,resourcemanager.tagAdmin,Service Account,spin-tr-servicetaggs@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,resourcemanager.tagUser,Service Account,data-op-devops@spin-dp-compute-dev.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,dfsd-101693-singularity-prd@spin-aip-singularity-comp-prd.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,sa-analytics-singularity@spin-aip-singularity-comp-sb.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,sa-tr-set-roles-daf-spin-gener@daf-dp-management-prod.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,spin-infraestructura-modelos@spin-aip-singularity-comp-sb.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,spin-terraform-data-dev@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,spin-terraform-data-prd@spin-dp-management-prod.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,spin-terraform-data-qa@spin-dp-management-qa.iam.gserviceaccount.com
+532450477381,resourcemanager.tagUser,Service Account,spin-tr-servicetaggs@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,securitycenter.admin,Group,gcp-organization-admins@gcp.spinbyoxxo.com.mx
+532450477381,securitycenter.admin,Group,gcp-security-admins@gcp.spinbyoxxo.com.mx
+532450477381,securitycenter.admin,Group,gcp-spin-seguridad-informatica@gcp.spinbyoxxo.com.mx
+532450477381,securitycenter.admin,Group,gcp-spin-sre-digital@gcp.spinbyoxxo.com.mx
+532450477381,securitycenter.serviceAgent,Service Account,service-org-532450477381@security-center-api.iam.gserviceaccount.com
+532450477381,serviceusage.serviceUsageAdmin,Service Account,service-org-532450477381@security-center-api.iam.gserviceaccount.com
+532450477381,serviceusage.serviceUsageViewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,storage.admin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,storage.admin,Service Account,spin-tr-servicetaggs@spin-dp-management-dev.iam.gserviceaccount.com
+532450477381,storage.objectAdmin,Group,gcp-spin-dataproject--arq-admin@gcp.spinbyoxxo.com.mx
+532450477381,storage.objectAdmin,Service Account,sa-tr-set-roles-daf-spin-gener@daf-dp-management-prod.iam.gserviceaccount.com
+532450477381,viewer,Group,gcp-admins-readonly@gcp.spinbyoxxo.com.mx
+532450477381,viewer,Group,permiso_especial_proyectos@digitalfemsa.com
+532450477381,viewer,Group,supportgcp-viewer@amarello.com.mx
+532450477381,viewer,Service Account,wiz6f017d2f5dbcfa42b204d32611c@prod-us27.iam.gserviceaccount.com
+532450477381,viewer,User,diego.mendoza@spin.co
